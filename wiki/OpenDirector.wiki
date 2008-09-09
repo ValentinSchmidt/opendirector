@@ -2,9 +2,7 @@ This project aims to create a open source multimedia authoring tool (which is lo
 
 Questions
 
-  * why?
-  *  why open source?
-  *  why not using an existing (open source) tool?
+  * why? (why open source? why not using an existing (open source) tool? ...)
   * what? (components, features, supported platforms, ...)
   * how? (architecture, technolgies, frameworks/libraries, ...)
   * who? (how to convince others to join, ...)
