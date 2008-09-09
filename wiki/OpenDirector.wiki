@@ -1,8 +1,7 @@
 This project aims to create a open source multimedia authoring tool (which is loosely inspired by Adobe Director)
 
-
 = Questions =
   * why?
-  * what (features)?
+  * what? (architecture, components, features, ...)
   * why open source?
   * why not using an existing (open source) tool?
