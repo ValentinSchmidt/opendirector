@@ -1,13 +1,7 @@
-summary One-sentence summary of this page.
+This project aims to create a open source multimedia authoring tool (which is loosely inspired by Adobe Director)
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= Questions=
+  * why?
+  * what (features)?
+  * why open source?
+  * why not using an existing (open source) tool?
