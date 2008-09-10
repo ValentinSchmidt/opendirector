@@ -2,6 +2,7 @@
 
  # [VirtualMachines VirtualMachines / Runtime Environments / Software Platforms]
  # [ProgrammingParadigms General Programming Paradigms]
- # [MultimediaAuthoringConcepts Multimedia Authoring Concepts]
+ # [AuthoringConcepts Multimedia Authoring Concepts]
+ # [AuthoringTools Existing Authoring Tools]
 
 [OpenDirector << OpenDirector]
