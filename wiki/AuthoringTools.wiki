@@ -9,14 +9,14 @@
 
 ====CATEGORIES====
 
-==== a) integrated development environment (IDE)====
+=====a) integrated development environment (IDE)=====
  * [[http://en.wikipedia.org/wiki/Integrated_development_environment]]
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
-====b) RAD tool / visual pogramming environment====
+=====b) RAD tool / visual pogramming environment=====
  * [[http://en.wikipedia.org/wiki/Rapid_Application_Development]]
  * [[http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools]]
  * [[http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung]]
-====c) classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)====
+=====c) classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)=====
 
 ====MULTIMEDIA AUTHORING TOOLS====
  * Director
@@ -30,7 +30,7 @@
  * MST Workshop
  * Creator [[http://en.wikipedia.org/wiki/Creator_(software)]]
 
-===3. RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS===
+====RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS====
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 
 a) open source:
