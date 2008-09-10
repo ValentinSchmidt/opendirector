@@ -9,4 +9,5 @@
 ==[GuiToolkits Gui Toolkits / Widget Toolkits]==
 ==[UserInterfaceMarkup User Interface Markup Languages]==
 ==[MultimediaLibraries Cross-platform Multimedia Programming Libraries and APIs]==
+==[FileFormats Free and open source and patent-free file formats and codecs]
 ==[MultimediaDescriptionFormats Open Multimedia Description Formats]==
