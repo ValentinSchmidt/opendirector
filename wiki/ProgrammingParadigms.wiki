@@ -1,5 +1,6 @@
 [OpenDirector << home]
-[MultimediaResources << Multimedia Resources ]
+
+[Resources << Multimedia Resources ]
 
 ==2. GENERAL PROGRAMMING PARADIGMS==
 
