@@ -1,7 +1,7 @@
-This project aims to create a open source multimedia authoring tool (which is loosely inspired by Adobe Director)
+This project aims to create an open source multimedia authoring tool (which is loosely inspired by Adobe Director)
 
 
-== QUESTIONS ==
+==0. QUESTIONS==
  * why? (why open source? why not using an existing (open source) tool? ...)
  * what? (components, features, supported platforms, ...)
  * how? (architecture, technolgies, frameworks/libraries, ...)
@@ -9,142 +9,129 @@ This project aims to create a open source multimedia authoring tool (which is lo
 
 ----
 
-== VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS ==
+==1. VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS==
  * http://en.wikipedia.org/wiki/Virtual_machine
  * http://en.wikipedia.org/wiki/Runtime_environment
  * http://www.devmatic-it.com/article_en.jsf?article=process_vm
  * http://de.wikipedia.org/wiki/Virtuelle_Maschine
  * http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
 
-===1. JVM===
-http://en.wikipedia.org/wiki/Java_Virtual_Machine
+===a) Desktop===
 
-===2. .NET Framework / CLR / DotGnu / Mono===
+====1. JVM====
+ * http://en.wikipedia.org/wiki/Java_Virtual_Machine
+
+====2. .NET Framework / CLR / DotGnu / Mono====
  * http://en.wikipedia.org/wiki/.NET_Framework
  * http://en.wikipedia.org/wiki/Common_Language_Runtime
  * http://en.wikipedia.org/wiki/DotGNU
  * http://en.wikipedia.org/wiki/Mono_Project
 
-===3. XULRunner===
- * -> http://en.wikipedia.org/wiki/XULRunner
+====3. XULRunner====
+ * http://en.wikipedia.org/wiki/XULRunner
 
-===4. Parrot===
- * -> http://en.wikipedia.org/wiki/Parrot_virtual_machine
- * -> http://www.parrotcode.org/
-	
-*Smalltalk*
+====4. Parrot====
+ * http://en.wikipedia.org/wiki/Parrot_virtual_machine
+ * http://www.parrotcode.org/
+
+====5. Smalltalk====
  * Squeak
-    * -> http://en.wikipedia.org/wiki/Squeak
-    * -> http://www.squeak.org/
+    * http://en.wikipedia.org/wiki/Squeak
+    * http://www.squeak.org/
  * Strongtalk
-    * -> http://en.wikipedia.org/wiki/Strongtalk
-    * -> http://www.strongtalk.org/index.html
+    * http://en.wikipedia.org/wiki/Strongtalk
+    * http://www.strongtalk.org/index.html
 
-*SCUMM*
- * -> http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion
- * -> http://de.wikipedia.org/wiki/ScummVM
+====6. SCUMM====
+ * http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion
+ * http://de.wikipedia.org/wiki/ScummVM
 
-*Lua VM*
- * -> http://en.wikipedia.org/wiki/Lua_(programming_language)
-  
-*Tamarin (JS engine)*
- * -> http://en.wikipedia.org/wiki/Tamarin_(JavaScript_engine)
+====7. Lua VM====
+ * http://en.wikipedia.org/wiki/Lua_(programming_language)
 
-*Neko VM*
- * -> http://en.wikipedia.org/wiki/Neko_(programming_language)
- * -> http://nekovm.org/
-	
-*Flash Player*
+====8. Tamarin (JS engine)====
+ * http://en.wikipedia.org/wiki/Tamarin_(JavaScript_engine)
 
-*Shockwave (see Shockwave Projectors)*
+====9. Neko VM====
+ * http://en.wikipedia.org/wiki/Neko_(programming_language)
+ * http://nekovm.org/
 
-*Mozart Programming System/Oz/Alice/Standard ML (SML)*
+====10. Flash Player====
+====11. Shockwave (Shockwave Projectors)====
 
-*UML virtual machines ?*
+===b) RIA===
 
- 
+====1. Mozilla Prism====
+====2. Adobe AIR====
+ * http://en.wikipedia.org/wiki/Adobe_AIR
 
-=== FOCUSED ON RIAS ===
-*Mozilla Prism*
-*Adobe AIR*
- * -> http://en.wikipedia.org/wiki/Adobe_AIR
-*Microsoft Silverlight*
- * -> http://en.wikipedia.org/wiki/Microsoft_Silverlight
-*(Google Chrome)*
+====3. Microsoft Silverlight====
+ * http://en.wikipedia.org/wiki/Microsoft_Silverlight
+
+====4. (Google Chrome)====
 
 ----
 
-== GENERAL PROGRAMMING PARADIGMS == 
+==2. GENERAL PROGRAMMING PARADIGMS== 
 
--> http://en.wikipedia.org/wiki/Programming_paradigm
+ * http://en.wikipedia.org/wiki/Programming_paradigm
 
- * object-oriented programming (as in Smalltalk)
+====1. object-oriented programming (as in Smalltalk)====
+====2. aspect-oriented programming (as in AspectJ)====
+====3. imperative programming <--> declarative programming====
+====4. procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)====
+====5. class-based programming, compared to Prototype-based programming (within the context of object-oriented programming)====
+====6. component-oriented programming (as in OLE)====
+====7. event driven programming====
+====8. message passing programming, compared to imperative programming====
+====9. visual programming / dataflow programming (directed graphs; boxes and arrows)====
+  * http://en.wikipedia.org/wiki/Visual_programming_language
+  * http://www.scienzemfn.unisa.it/vldesk/
+  * Max/MSP, Pd, vvvv
+  * Stagecast Creator -> http://en.wikipedia.org/wiki/Stagecast_Creator
+  * Scala Multimedia (Authoring suite and complete multimedia system for AmigaOS and Windows)
+  * MST Workshop
+  * Puck (http://de.wikipedia.org/wiki/Puck_(Programmiersprache) )
 
- * aspect-oriented programming (as in AspectJ)
+----
 
- * imperative programming <--> declarative programming
+==3. MULTIMEDIA AUTHORING CONCEPTS==
 
- * procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)
-	
- * class-based programming, compared to Prototype-based programming 
-	(within the context of object-oriented programming)
-	
- * component-oriented programming (as in OLE)
+====code-based===
+ * using Win API in plain C
 
- * event driven programming
+====screen/page/form/window-based====
+ * using an IDE with GUI-bilder
+ * Power-Point
+ * Toolbook
+ * Creator
 
- * message passing programming, compared to imperative programming
+====score/timeline-based====
+ * Adobe Director
+ * Flash IDE
 
- * visual programming, dataflow programming
-  * -> http://en.wikipedia.org/wiki/Visual_programming_language
-  * -> http://www.scienzemfn.unisa.it/vldesk/
-  
-  -> directed graphs; boxes and arrows
-  Max/MSP, Pd, vvvv
-  Stagecast Creator -> http://en.wikipedia.org/wiki/Stagecast_Creator
-  Scala Multimedia (Authoring suite and complete multimedia system for AmigaOS and Windows)
-  MST Workshop
-  Puck -> http://de.wikipedia.org/wiki/Puck_(Programmiersprache)
+====flowchart-based====
+ * Authorware -> http://en.wikipedia.org/wiki/Macromedia_Authorware
+ * Max/MSP (graphical development environment for music and multimedia)
+ * Pd (Pure Data)
+ * Reaktor
+ * vvvv
+ * Quartz Composer
+ * DirectShow + GraphEdit
 
+====icon-based====
+ * mTropolis -> http://en.wikipedia.org/wiki/MTropolis
 
+====others====
+ * iShell/Apple Media Tool -> http://en.wikipedia.org/wiki/Ishell
 
-MULTIMEDIA AUTHORING CONCEPTS
-=============================
+----
 
-- code-based
-  e.g. using Win API in plain C
+==4. AUTHORING SYSTEMS / AUTHORING TOOLS==
 
-- screen/page/form/window-based
-  e.g. using an IDE with GUI-bilder
-  Power-Point
-  Toolbook
-  Creator
-
-- score/timeline-based
-  Adobe Director
-  Flash IDE
-
-- flowchart-based
-  Authorware -> http://en.wikipedia.org/wiki/Macromedia_Authorware
-  Max/MSP (graphical development environment for music and multimedia)
-  Pd (Pure Data)
-  Reaktor
-  vvvv
-  Quartz Composer
-  DirectShow + GraphEdit
-
-- icon-based
-  mTropolis -> http://en.wikipedia.org/wiki/MTropolis
-
-- others: iShell/Apple Media Tool ?
-  -> http://en.wikipedia.org/wiki/Ishell
-
-
-
-AUTHORING SYSTEMS / AUTHORING TOOLS
-===================================
 http://en.wikipedia.org/wiki/Authoring_systems
 http://de.wikipedia.org/wiki/Autorensystem
+
 http://de.wikipedia.org/wiki/E-learning#Autorensysteme
 http://de.wikipedia.org/wiki/Autorenwerkzeug (help authoring tool, HAT)
 
