@@ -129,138 +129,120 @@ This project aims to create an open source multimedia authoring tool (which is l
 
 ==4. AUTHORING SYSTEMS / AUTHORING TOOLS==
 
-http://en.wikipedia.org/wiki/Authoring_systems
-http://de.wikipedia.org/wiki/Autorensystem
+ * http://en.wikipedia.org/wiki/Authoring_systems
+ * http://de.wikipedia.org/wiki/Autorensystem
+ * http://de.wikipedia.org/wiki/E-learning#Autorensysteme
+ * http://de.wikipedia.org/wiki/Autorenwerkzeug (help authoring tool, HAT)
 
-http://de.wikipedia.org/wiki/E-learning#Autorensysteme
-http://de.wikipedia.org/wiki/Autorenwerkzeug (help authoring tool, HAT)
+===4.1 Categories / Terms===
 
-
-TERMS
-=====
-
-- integrated development environment (IDE)
-  -> http://en.wikipedia.org/wiki/Integrated_development_environment
-  -> http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
-  -> http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung
+==== integrated development environment (IDE)====
+ * http://en.wikipedia.org/wiki/Integrated_development_environment
+ * http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
   
-- RAD tool / visual pogramming environment
-  -> http://en.wikipedia.org/wiki/Rapid_Application_Development
-  -> http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools
-  -> http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung
+==== RAD tool / visual pogramming environment====
+ * http://en.wikipedia.org/wiki/Rapid_Application_Development
+ * http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools
+ * http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung
 
-- classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)
-
-
-
-MULTIMEDIA AUTHORING TOOLS
-==========================
-
-- Director
-- Authorware (discontinued)
-- mTropolis (discontinued)
-- Apple Media Tool (discontinued) -> http://en.wikipedia.org/wiki/Apple_Media_Tool
-- iShell -> http://en.wikipedia.org/wiki/IShell
-- HyperCard (discontinued) / SuperCard / MetaCard / Runtime Revolution
-- LiveStage Pro
-- ToolBook
-- LiveStage
-- MST Workshop ?
-- Creator -> http://en.wikipedia.org/wiki/Creator_(software)
+==== classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)====
 
 
+===4.2 MULTIMEDIA AUTHORING TOOLS===
 
-RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS
-=============================================================================
-http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
+ * Director
+ * Authorware (discontinued)
+ * mTropolis (discontinued)
+ * Apple Media Tool (discontinued) -> http://en.wikipedia.org/wiki/Apple_Media_Tool
+ * iShell -> http://en.wikipedia.org/wiki/IShell
+ * HyperCard (discontinued) / SuperCard / MetaCard / Runtime Revolution
+ * LiveStage Pro
+ * ToolBook
+ * LiveStage
+ * MST Workshop ?
+ * Creator -> http://en.wikipedia.org/wiki/Creator_(software)
+
+
+===4.3 RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS===
+ * http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
 
 open source:
-- Lazarus -> http://en.wikipedia.org/wiki/Lazarus_(software)
-- wxDev-C++
-- Code::Blocks
-- MonoDevelop
-- SharpDevelop
+ * Lazarus -> http://en.wikipedia.org/wiki/Lazarus_(software)
+ * wxDev-C++
+ * Code::Blocks
+ * MonoDevelop
+ * SharpDevelop
 
 commercial:
-- Microsoft Visual Studio, especially VisualBasic -> http://en.wikipedia.org/wiki/Visual_Basic
-- REALbasic -> http://en.wikipedia.org/wiki/REALbasic -> IDE with graphical GUI builder
-- RuntimeRev -> http://en.wikipedia.org/wiki/Runtime_Revolution
-- CodeGear Delphi
-- CodeGear C++Builder
-- CodeGear Delphi for PHP
-- Apple Xcode Tools (Interface Builder)
-- Adobe Flex Builder
+ * Microsoft Visual Studio, especially VisualBasic -> http://en.wikipedia.org/wiki/Visual_Basic
+ * REALbasic -> http://en.wikipedia.org/wiki/REALbasic -> IDE with graphical GUI builder
+ * RuntimeRev -> http://en.wikipedia.org/wiki/Runtime_Revolution
+ * CodeGear Delphi
+ * CodeGear C++Builder
+ * CodeGear Delphi for PHP
+ * Apple Xcode Tools (Interface Builder)
+ * Adobe Flex Builder
 
 
+===4.4 (STANDALONE) GUI BUILDERS / GUI DESIGNERS===
+ * http://en.wikipedia.org/wiki/Graphical_user_interface_builder
 
-(STANDALONE) GUI BUILDERS / GUI DESIGNERS
-=========================================
--> http://en.wikipedia.org/wiki/Graphical_user_interface_builder
-
-- Glade -> http://en.wikipedia.org/wiki/Glade_Interface_Designer
-- wxGlade -> http://en.wikipedia.org/wiki/WxGlade
-- wxDesigner -> http://www.roebling.de/
-- Qt Designer
-- AsWing GuiBuilder -> http://www.aswing.org/
-- FLUID (for FLTK)
+ * Glade -> http://en.wikipedia.org/wiki/Glade_Interface_Designer
+ * wxGlade -> http://en.wikipedia.org/wiki/WxGlade
+ * wxDesigner -> http://www.roebling.de/
+ * Qt Designer
+ * AsWing GuiBuilder -> http://www.aswing.org/
+ * FLUID (for FLTK)
 
 
+===4.5 OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)===
+ * -> http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
 
-OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)
-===============================================
-http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
-
-- SciTE
-- SEPY
-	-> http://www.sephiroth.it/python/sepy.php
-	-> svn co https://sepy.svn.sourceforge.net/svnroot/sepy/trunk sepy
-- FlashDevelop
-- Eclipse
-- SharpDevelop (-> Windows Forms designer)
-- MonoDevelop (-> GUI designer, GTK# GUI designer called Stetic)
+ * SciTE
+ * SEPY
+   * -> http://www.sephiroth.it/python/sepy.php
+   * -> svn co https://sepy.svn.sourceforge.net/svnroot/sepy/trunk sepy
+ * FlashDevelop
+ * Eclipse
+ * SharpDevelop (Windows Forms designer)
+ * MonoDevelop (GUI designer, GTK# GUI designer called Stetic)
 
 
+===4.6 GUI TOOLITS / WIDGET TOOLKITS (outside browser)===
+ * -> http://en.wikipedia.org/wiki/Widget_toolkit
 
-GUI TOOLITS / WIDGET TOOLKITS (outside browser)
-==============================================
--> http://en.wikipedia.org/wiki/Widget_toolkit
-
-- Qt -> http://en.wikipedia.org/wiki/Qt_(toolkit)
-- wxWidgets -> http://en.wikipedia.org/wiki/WxWidgets
-- GTK+ -> http://en.wikipedia.org/wiki/GTK%2B
-- Tk -> http://en.wikipedia.org/wiki/Tk_(computing)
-- FLTK -> http://en.wikipedia.org/wiki/FLTK
-- Agar-GUI (part of Agar) -> http://en.wikipedia.org/wiki/Agar_(software)
-- Juce -> http://www.rawmaterialsoftware.com/juce/
-- fpGUI (Free Pascal GUI toolkit) -> http://en.wikipedia.org/wiki/FpGUI
-- FOX toolkit -> http://en.wikipedia.org/wiki/FOX_toolkit
-- Adobe Flash / Flex (in browser / flash player/ AIR)
-- AsWing (Open Source Flash ActionScript GUI framework and library)
-- Ultimate++ -> http://www.ultimatepp.org/
+ * Qt -> http://en.wikipedia.org/wiki/Qt_(toolkit)
+ * wxWidgets -> http://en.wikipedia.org/wiki/WxWidgets
+ * GTK+ -> http://en.wikipedia.org/wiki/GTK%2B
+ * Tk -> http://en.wikipedia.org/wiki/Tk_(computing)
+ * FLTK -> http://en.wikipedia.org/wiki/FLTK
+ * Agar-GUI (part of Agar) -> http://en.wikipedia.org/wiki/Agar_(software)
+ * Juce -> http://www.rawmaterialsoftware.com/juce/
+ * fpGUI (Free Pascal GUI toolkit) -> http://en.wikipedia.org/wiki/FpGUI
+ * FOX toolkit -> http://en.wikipedia.org/wiki/FOX_toolkit
+ * Adobe Flash / Flex (in browser / flash player/ AIR)
+ * AsWing (Open Source Flash ActionScript GUI framework and library)
+ * Ultimate++ -> http://www.ultimatepp.org/
 
 
+===4.7 USER INTERFACE MARKUP LANGUAGES===
+ * -> http://en.wikipedia.org/wiki/User_interface_markup_language
 
-USER INTERFACE MARKUP LANGUAGES
-===============================
-http://en.wikipedia.org/wiki/User_interface_markup_language
+ * XUL -> http://en.wikipedia.org/wiki/XUL
+ * XAML with Silverlight -> http://en.wikipedia.org/wiki/Extensible_Application_Markup_Language
 
-- XUL -> http://en.wikipedia.org/wiki/XUL
-- XAML with Silverlight -> http://en.wikipedia.org/wiki/Extensible_Application_Markup_Language
-
-- MXML -> http://en.wikipedia.org/wiki/MXML
-- GladeXML -> http://en.wikipedia.org/wiki/Glade_Interface_Designer#GladeXML
+ * MXML -> http://en.wikipedia.org/wiki/MXML
+ * GladeXML -> http://en.wikipedia.org/wiki/Glade_Interface_Designer#GladeXML
 
 
+===4.8 CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs===
 
-CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs
-====================================================================
-
-- Simple DirectMedia Layer (SDL) -> http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
-- Simple and Fast Multimedia Library (SFML) -> http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
-- Allegro -> http://en.wikipedia.org/wiki/Allegro_library
-- DirectX
-- OpenGL
-- Troll2D
+ * Simple DirectMedia Layer (SDL) -> http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
+ * Simple and Fast Multimedia Library (SFML) -> http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
+ * Allegro -> http://en.wikipedia.org/wiki/Allegro_library
+ * DirectX
+ * OpenGL
+ * Troll2D
 
 
 AUDIO ONLY
