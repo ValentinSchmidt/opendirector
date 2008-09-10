@@ -5,12 +5,19 @@
  * [[http://en.wikipedia.org/wiki/Open_source_codecs]]
  * [[http://en.wikipedia.org/wiki/Category:Free_multimedia_codecs,_containers,_and_splitters]]
  * [[http://en.wikipedia.org/wiki/Comparison_of_container_formats]]
+ * [[http://en.wikipedia.org/wiki/Category:Open_formats]]
 
-====GRAPHIC FORMATS====
- * PNG
- * JNG (JPEG compression)
- * MNG (animation)
- * APNG (animation)
+====BITMAP GRAPHIC FORMATS====
+ * PNG [[http://en.wikipedia.org/wiki/Portable_Network_Graphics]]
+ * JNG [[http://en.wikipedia.org/wiki/JPEG_Network_Graphics]]
+
+====BITMAP ANIMATION FORMATS====
+ * APNG [[http://en.wikipedia.org/wiki/APNG]]
+ * MNG [[http://en.wikipedia.org/wiki/Multiple-image_Network_Graphics]]
+
+====VECTOR GRAPHIC FORMATS====
+ * SVG [[http://en.wikipedia.org/wiki/SVG]]
+ * EPS [[http://en.wikipedia.org/wiki/Encapsulated_PostScript]]
 
 ====AUDIO CONTAINER FORMATS====
  * Ogg [[http://en.wikipedia.org/wiki/Ogg]]
@@ -35,3 +42,8 @@
  * x264 [[http://en.wikipedia.org/wiki/Open_source_codecs_and_containers]]
  * Xvid [[http://en.wikipedia.org/wiki/Xvid]]
  * FFmpeg/libavcodec codecs (MPEG-1, MPEG-2, MPEG-4 part 2, MSMPEG-4, H.264, ...) [[http://en.wikipedia.org/wiki/FFmpeg]]
+
+====TEXT/DOCUMENT/META FORMATS====
+ * PDF [[http://en.wikipedia.org/wiki/Portable_Document_Format]]
+ * OpenDocument [[http://en.wikipedia.org/wiki/OpenDocument]]
+ * CGM [[http://en.wikipedia.org/wiki/Computer_Graphics_Metafile]]
