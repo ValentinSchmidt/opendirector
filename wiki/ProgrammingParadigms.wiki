@@ -2,7 +2,7 @@
 
 ==2. GENERAL PROGRAMMING PARADIGMS==
 
--> http://en.wikipedia.org/wiki/Programming_paradigm
+[[http://en.wikipedia.org/wiki/Programming_paradigm]]
 
 ==== object-oriented programming (as in Smalltalk)====
 ==== aspect-oriented programming (as in AspectJ)====
@@ -13,10 +13,10 @@
 ==== event driven programming====
 ==== message passing programming, compared to imperative programming====
 ==== visual programming / dataflow programming (directed graphs; boxes and arrows)====
- * -> http://en.wikipedia.org/wiki/Visual_programming_language
- * -> http://www.scienzemfn.unisa.it/vldesk/
+ * [[http://en.wikipedia.org/wiki/Visual_programming_language]]
+ * [[http://www.scienzemfn.unisa.it/vldesk/]]
  * Max/MSP, Pd, vvvv
- * Stagecast Creator -> http://en.wikipedia.org/wiki/Stagecast_Creator
+ * Stagecast Creator [[http://en.wikipedia.org/wiki/Stagecast_Creator]]
  * Scala Multimedia (Authoring suite and complete multimedia system for AmigaOS and Windows)
  * MST Workshop
- * Puck (-> http://de.wikipedia.org/wiki/Puck_(Programmiersprache) )
+ * Puck [[http://de.wikipedia.org/wiki/Puck_(Programmiersprache)]]
