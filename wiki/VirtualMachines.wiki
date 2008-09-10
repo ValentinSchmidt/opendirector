@@ -1,16 +1,16 @@
 [MultimediaResources << Multimedia Resources]
 
 ==1. VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS==
- * -> http://en.wikipedia.org/wiki/Virtual_machine
- * -> http://en.wikipedia.org/wiki/Runtime_environment
- * -> http://www.devmatic-it.com/article_en.jsf?article=process_vm
- * -> http://de.wikipedia.org/wiki/Virtuelle_Maschine
- * -> http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
+ * [[http://en.wikipedia.org/wiki/Virtual_machine]]
+ * [[http://en.wikipedia.org/wiki/Runtime_environment]]
+ * [[http://www.devmatic-it.com/article_en.jsf?article=process_vm]]
+ * [[http://de.wikipedia.org/wiki/Virtuelle_Maschine]]
+ * [[http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples]]
 
 ===1.1 General/Desktop===
 
 ==== JVM====
- * -> http://en.wikipedia.org/wiki/Java_Virtual_Machine
+ * [[http://en.wikipedia.org/wiki/Java_Virtual_Machine]]
 
 ==== .NET Framework / CLR / !DotGnu / Mono====
  * -> http://en.wikipedia.org/wiki/.NET_Framework
