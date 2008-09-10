@@ -7,6 +7,8 @@
  * [[http://de.wikipedia.org/wiki/E-learning#Autorensysteme]]
  * [[http://de.wikipedia.org/wiki/Autorenwerkzeug]] (help authoring tool, HAT)
 
+
+
 ====CATEGORIES====
 
 =====a) integrated development environment (IDE)=====
@@ -17,6 +19,8 @@
  * [[http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools]]
  * [[http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung]]
 =====c) classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)=====
+
+
 
 ====MULTIMEDIA AUTHORING TOOLS====
  * Director
@@ -30,6 +34,8 @@
  * MST Workshop
  * Creator [[http://en.wikipedia.org/wiki/Creator_(software)]]
 
+
+
 ====RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS====
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 
@@ -39,7 +45,7 @@
  * Code::Blocks
  * !MonoDevelop
  * !SharpDevelop
-=====commercial:=====
+=====b) commercial:=====
  * Microsoft Visual Studio, especially VisualBasic [[http://en.wikipedia.org/wiki/Visual_Basic]]
  * REALbasic [[http://en.wikipedia.org/wiki/REALbasic]] -> IDE with graphical GUI builder
  * Runtime Revolution [[http://en.wikipedia.org/wiki/Runtime_Revolution]]
@@ -48,6 +54,8 @@
  * !CodeGear Delphi for PHP
  * Apple Xcode Tools (Interface Builder)
  * Adobe Flex Builder
+
+
 ====(STANDALONE) GUI BUILDERS / GUI DESIGNERS====
  * [[http://en.wikipedia.org/wiki/Graphical_user_interface_builder]]
 
@@ -58,7 +66,8 @@
  * !AsWing !GuiBuilder [[http://www.aswing.org/]]
  * FLUID (for FLTK) [[http://en.wikipedia.org/wiki/FLUID]]
 
-===5. OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)===
+
+====OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)====
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 
  * SciTE [[http://en.wikipedia.org/wiki/SciTE]]
