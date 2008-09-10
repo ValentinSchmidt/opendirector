@@ -2,9 +2,9 @@
 
 [OpenDirector << home]
 
-[VirtualMachines 1. VirtualMachines / Runtime Environments / Software Platforms]
-[ProgrammingParadigms 2. General Programming Paradigms]
-[MultimediaAuthoringConcepts 3. Multimedia Authoring Concepts]
+ # [VirtualMachines VirtualMachines / Runtime Environments / Software Platforms]
+ # [ProgrammingParadigms General Programming Paradigms]
+ # [MultimediaAuthoringConcepts Multimedia Authoring Concepts]
 
 
 ==1. VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS==
