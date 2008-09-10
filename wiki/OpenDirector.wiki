@@ -1,6 +1,5 @@
 This project aims to create an open source multimedia authoring tool (which is loosely inspired by Adobe Director)
 
-
 ==0. QUESTIONS==
  * why? (why open source? why not using an existing (open source) tool? ...)
  * what? (components, features, supported platforms, ...)
@@ -85,13 +84,13 @@ This project aims to create an open source multimedia authoring tool (which is l
 ==== event driven programming====
 ==== message passing programming, compared to imperative programming====
 ==== visual programming / dataflow programming (directed graphs; boxes and arrows)====
-  * http://en.wikipedia.org/wiki/Visual_programming_language
-  * http://www.scienzemfn.unisa.it/vldesk/
-  * Max/MSP, Pd, vvvv
-  * Stagecast Creator -> http://en.wikipedia.org/wiki/Stagecast_Creator
-  * Scala Multimedia (Authoring suite and complete multimedia system for AmigaOS and Windows)
-  * MST Workshop
-  * Puck (http://de.wikipedia.org/wiki/Puck_(Programmiersprache) )
+ * http://en.wikipedia.org/wiki/Visual_programming_language
+ * http://www.scienzemfn.unisa.it/vldesk/
+ * Max/MSP, Pd, vvvv
+ * Stagecast Creator -> http://en.wikipedia.org/wiki/Stagecast_Creator
+ * Scala Multimedia (Authoring suite and complete multimedia system for AmigaOS and Windows)
+ * MST Workshop
+ * Puck (http://de.wikipedia.org/wiki/Puck_(Programmiersprache) )
 
 ----
 
@@ -134,22 +133,18 @@ This project aims to create an open source multimedia authoring tool (which is l
  * http://de.wikipedia.org/wiki/E-learning#Autorensysteme
  * http://de.wikipedia.org/wiki/Autorenwerkzeug (help authoring tool, HAT)
 
-===4.1 Categories / Terms===
+===4.1 CATEGORIES===
 
 ==== integrated development environment (IDE)====
  * http://en.wikipedia.org/wiki/Integrated_development_environment
  * http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
-  
 ==== RAD tool / visual pogramming environment====
  * http://en.wikipedia.org/wiki/Rapid_Application_Development
  * http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools
  * http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung
-
 ==== classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)====
 
-
 ===4.2 MULTIMEDIA AUTHORING TOOLS===
-
  * Director
  * Authorware (discontinued)
  * mTropolis (discontinued)
@@ -162,9 +157,8 @@ This project aims to create an open source multimedia authoring tool (which is l
  * MST Workshop ?
  * Creator -> http://en.wikipedia.org/wiki/Creator_(software)
 
-
 ===4.3 RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS===
- * http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
+ * -> http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
 
 open source:
  * Lazarus -> http://en.wikipedia.org/wiki/Lazarus_(software)
@@ -183,9 +177,8 @@ commercial:
  * Apple Xcode Tools (Interface Builder)
  * Adobe Flex Builder
 
-
 ===4.4 (STANDALONE) GUI BUILDERS / GUI DESIGNERS===
- * http://en.wikipedia.org/wiki/Graphical_user_interface_builder
+ * -> http://en.wikipedia.org/wiki/Graphical_user_interface_builder
 
  * Glade -> http://en.wikipedia.org/wiki/Glade_Interface_Designer
  * wxGlade -> http://en.wikipedia.org/wiki/WxGlade
@@ -193,7 +186,6 @@ commercial:
  * Qt Designer
  * AsWing GuiBuilder -> http://www.aswing.org/
  * FLUID (for FLTK)
-
 
 ===4.5 OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)===
  * -> http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
@@ -206,7 +198,6 @@ commercial:
  * Eclipse
  * SharpDevelop (Windows Forms designer)
  * MonoDevelop (GUI designer, GTK# GUI designer called Stetic)
-
 
 ===4.6 GUI TOOLITS / WIDGET TOOLKITS (outside browser)===
  * -> http://en.wikipedia.org/wiki/Widget_toolkit
@@ -224,19 +215,17 @@ commercial:
  * AsWing (Open Source Flash ActionScript GUI framework and library)
  * Ultimate++ -> http://www.ultimatepp.org/
 
-
 ===4.7 USER INTERFACE MARKUP LANGUAGES===
  * -> http://en.wikipedia.org/wiki/User_interface_markup_language
 
  * XUL -> http://en.wikipedia.org/wiki/XUL
  * XAML with Silverlight -> http://en.wikipedia.org/wiki/Extensible_Application_Markup_Language
-
  * MXML -> http://en.wikipedia.org/wiki/MXML
  * GladeXML -> http://en.wikipedia.org/wiki/Glade_Interface_Designer#GladeXML
 
-
 ===4.8 CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs===
 
+====GENERAL MULTIMEDIA====
  * Simple DirectMedia Layer (SDL) -> http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
  * Simple and Fast Multimedia Library (SFML) -> http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
  * Allegro -> http://en.wikipedia.org/wiki/Allegro_library
@@ -244,94 +233,78 @@ commercial:
  * OpenGL
  * Troll2D
 
+====AUDIO ONLY====
+ * PortMusic (PortAudio, PortMidi)
+ * Audiere
+ * libsndfile
+ * Vorbis/Tremor
+ * lame
+ * libavformat + libavcodec (ffmpeg)
+ * OpenAL
+ * open source container formats: Ogg, WavPack (container format and codec), Musepack (container format and codec)
+ * open source (patent free) codecs (Xiph.Org, Ogg): Vorbis/Tremor, FLAC, Speex, OggPCM 
 
-AUDIO ONLY
-----------
+====GRAPHICS ONLY====
+ * ImageMagick (software suite for image manipulation and display)
+ * GraphicsMagick
+ * DevIL (was: OpenIL) -> http://en.wikipedia.org/wiki/DevIL
+ * GD Graphics Library (library for dynamically manipulating images)
+ * Netbpm (graphics programs and a programming library)
+ * FreeImage
+ * Libjpeg, Libpng, Libtiff
+ * OpenJPEG (JPEG 2000)
+ * Agar 
 
-- PortMusic (PortAudio, PortMidi)
-- Audiere
-- libsndfile
-- Vorbis/Tremor
-- lame
-- libavformat + libavcodec (ffmpeg)
-- OpenAL
-- open source container formats: Ogg, WavPack (container format and codec), Musepack (container format and codec)
-- open source (patent free) codecs (Xiph.Org, Ogg): Vorbis/Tremor, FLAC, Speex, OggPCM 
+====VIDEO ONLY====
+ * libmad (MAD)
+ * libmpeg2
+ * open source container formats: Ogg/OGM, Matroska, NUT
+ * open source (patent free) codecs: Theora (Xiph.Org, Ogg), Dirac
 
+====VECTOR GRAPHICS====
+ * Librsvg
+ * Cairo -> http://en.wikipedia.org/wiki/Cairo_(graphics)
 
-GRAPHICS ONLY
--------------
-- ImageMagick (software suite for image manipulation and display)
-- GraphicsMagick
-- DevIL (was: OpenIL) -> http://en.wikipedia.org/wiki/DevIL
-- GD Graphics Library (library for dynamically manipulating images)
-- Netbpm (graphics programs and a programming library)
-- FreeImage
-- Libjpeg, Libpng, Libtiff
-- OpenJPEG (JPEG 2000)
-- Agar 
+====PDF (rendering/viewing)====
+ * Poppler
+ * MuPDF
+ * libgnupdf
+ * Ghostscript
 
+====3D GRAPHICS APIs====
+ * -> http://en.wikipedia.org/wiki/List_of_3D_graphics_APIs
 
-VIDEO ONLY
-----------
-- libmad (MAD)
-- libmpeg2
-- open source container formats: Ogg/OGM, Matroska, NUT
-- open source (patent free) codecs: Theora (Xiph.Org, Ogg), Dirac
+*a) low level*
 
+ * OpenGL -> http://en.wikipedia.org/wiki/OpenGL
+ * Mesa 3D (open source implementation of OpenGL) -> http://en.wikipedia.org/wiki/Mesa_(OpenGL)
 
-VECTOR GRAPHICS
----------------
-- Librsvg
-- Cairo -> http://en.wikipedia.org/wiki/Cairo_(graphics)
+*b) higher level*
 
+ * OpenSceneGraph -> http://en.wikipedia.org/wiki/OpenSceneGraph
+ * Irrlicht Engine
+ * OGRE -> http://en.wikipedia.org/wiki/OGRE
+ * Quesa -> http://en.wikipedia.org/wiki/Quesa_(software)
 
-PDF (rendering/viewing)
------------------------
-- Poppler
-- MuPDF
-- libgnupdf
-- Ghostscript
+====OPEN SOURCE GAME ENGINES====
+ * -> http://en.wikipedia.org/wiki/Game_engine
 
+ * Crystal Space
+ * Irrlicht 
+ * Nebula Device
+ * Panda3D
+ * DarkPlaces
+ * Wolfenstein 3D engine
+ * id Tech 3
+ * Spring
+ * Agar 
 
-3D GRAPHICS APIs
-----------------
--> http://en.wikipedia.org/wiki/List_of_3D_graphics_APIs
+-----
 
-a) low level
-------------
-- OpenGL -> http://en.wikipedia.org/wiki/OpenGL
-- Mesa 3D (open source implementation of OpenGL)
-  -> http://en.wikipedia.org/wiki/Mesa_(OpenGL)
+==5. OPEN MULTIMEDIA DESCRIPTION FORMATS==
 
-b) higher level
----------------
-- OpenSceneGraph -> http://en.wikipedia.org/wiki/OpenSceneGraph
-- Irrlicht Engine
-- OGRE -> http://en.wikipedia.org/wiki/OGRE
-- Quesa -> http://en.wikipedia.org/wiki/Quesa_(software)
+====SMIL====
+ * http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language
+ * http://www.w3.org/TR/2008/CR-SMIL3-20080115/
 
-
-OPEN SOURCE GAME ENGINES
-------------------------
--> http://en.wikipedia.org/wiki/Game_engine
-
-- Crystal Space
-- Irrlicht 
-- Nebula Device
-- Panda3D
-- DarkPlaces
-- Wolfenstein 3D engine
-- id Tech 3
-- Spring
-- Agar 
-
-
-
-OPEN MULTIMEDIA DESCRIPTION FORMATS
-===================================
-
-- SMIL 
-  -> http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language
-  -> http://www.w3.org/TR/2008/CR-SMIL3-20080115/
-- XHTML (+SVG +MathML + ...)
+====XHTML (+SVG +MathML + ...)====
