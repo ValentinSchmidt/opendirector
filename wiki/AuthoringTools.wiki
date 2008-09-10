@@ -2,7 +2,7 @@
 
 ==4. EXISTING AUTHORING SYSTEMS / TOOLS==
 
- * [http://en.wikipedia.org/wiki/Authoring_systems]
+ * [[http://en.wikipedia.org/wiki/Authoring_systems]]
  * -> http://de.wikipedia.org/wiki/Autorensystem
  * -> http://de.wikipedia.org/wiki/E-learning#Autorensysteme
  * -> http://de.wikipedia.org/wiki/Autorenwerkzeug (help authoring tool, HAT)
