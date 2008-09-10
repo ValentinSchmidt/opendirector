@@ -7,18 +7,18 @@
  * [[http://de.wikipedia.org/wiki/E-learning#Autorensysteme]]
  * [[http://de.wikipedia.org/wiki/Autorenwerkzeug]] (help authoring tool, HAT)
 
-===1. CATEGORIES===
+====CATEGORIES====
 
-==== integrated development environment (IDE)====
+==== a) integrated development environment (IDE)====
  * [[http://en.wikipedia.org/wiki/Integrated_development_environment]]
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
-==== RAD tool / visual pogramming environment====
+====b) RAD tool / visual pogramming environment====
  * [[http://en.wikipedia.org/wiki/Rapid_Application_Development]]
  * [[http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools]]
  * [[http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung]]
-==== classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)====
+====c) classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)====
 
-===2. MULTIMEDIA AUTHORING TOOLS===
+====MULTIMEDIA AUTHORING TOOLS====
  * Director
  * Authorware (discontinued)
  * !ToolBook
