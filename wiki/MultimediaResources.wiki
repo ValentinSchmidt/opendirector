@@ -2,11 +2,11 @@
 
 [OpenDirector << OpenDirector]
 
-==[VirtualMachines VirtualMachines / Runtime Environments / Software Platforms]==
-==[ProgrammingParadigms General Programming Paradigms]==
-==[AuthoringConcepts Multimedia Authoring Concepts]==
-==[AuthoringTools Existing Authoring Tools]==
-==[GuiToolkits Gui Toolkits / Widget Toolkits]==
-==[UserInterfaceMarkup User Interface Markup Languages]==
-==[MultimediaLibraries Cross-platform Multimedia Programming Libraries and APIs]==
-==[MultimediaDescriptionFormats Open Multimedia Description Formats]==
+==[VirtualMachines 1. VirtualMachines / Runtime Environments / Software Platforms]==
+==[ProgrammingParadigms 2. General Programming Paradigms]==
+==[AuthoringConcepts 3. Multimedia Authoring Concepts]==
+==[AuthoringTools 4. Existing Authoring Tools]==
+==[GuiToolkits 5. Gui Toolkits / Widget Toolkits]==
+==[UserInterfaceMarkup 6. User Interface Markup Languages]==
+==[MultimediaLibraries 7. Cross-platform Multimedia Programming Libraries and APIs]==
+==[MultimediaDescriptionFormats 8. Open Multimedia Description Formats]==
