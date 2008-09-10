@@ -13,6 +13,9 @@
   * 100% patent free technologies
   * modular and expandable
   * support both code-based and visual development
+  * support procedural and object-oriented programming
+  * nice to have: support visual/dataflow programming
+  * maybe: support some aspect-oriented programming?
   * nice to have: support multiple authoring concepts (e.g. both score and screen/form based)
 
  * Platforms: 
