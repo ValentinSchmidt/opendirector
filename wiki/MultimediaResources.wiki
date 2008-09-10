@@ -2,8 +2,8 @@
 
 [OpenDirector << OpenDirector]
 
-==[VirtualMachines 1.1 VirtualMachines / Runtime Environments / Software Platforms]==
-==[ProgrammingParadigms 1.2 General Programming Paradigms]==
+==[VirtualMachines VirtualMachines / Runtime Environments / Software Platforms]==
+==[ProgrammingParadigms General Programming Paradigms]==
 ==[AuthoringConcepts 1.3 Multimedia Authoring Concepts]==
 ==[AuthoringTools 1.4 Existing Authoring Tools]==
 ==[GuiToolkits 1.5 Gui Toolkits / Widget Toolkits]==
