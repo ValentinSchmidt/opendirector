@@ -1,102 +1,103 @@
 This project aims to create a open source multimedia authoring tool (which is loosely inspired by Adobe Director)
 
 
-= QUESTIONS = 
-  * why? (why open source? why not using an existing (open source) tool? ...)
-  * what? (components, features, supported platforms, ...)
-  * how? (architecture, technolgies, frameworks/libraries, ...)
-  * who? (how to convince others to join, ...)
+== QUESTIONS ==
+ * why? (why open source? why not using an existing (open source) tool? ...)
+ * what? (components, features, supported platforms, ...)
+ * how? (architecture, technolgies, frameworks/libraries, ...)
+ * who? (how to convince others to join, ...)
 
+----
 
-= VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS =
--> http://en.wikipedia.org/wiki/Virtual_machine
--> http://en.wikipedia.org/wiki/Runtime_environment
--> http://www.devmatic-it.com/article_en.jsf?article=process_vm
--> http://de.wikipedia.org/wiki/Virtuelle_Maschine
--> http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
+== VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS ==
+ * http://en.wikipedia.org/wiki/Virtual_machine
+ * http://en.wikipedia.org/wiki/Runtime_environment
+ * http://www.devmatic-it.com/article_en.jsf?article=process_vm
+ * http://de.wikipedia.org/wiki/Virtuelle_Maschine
+ * http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
 
-* JVM
-  -> http://en.wikipedia.org/wiki/Java_Virtual_Machine
+===1. JVM===
+http://en.wikipedia.org/wiki/Java_Virtual_Machine
 
-* .NET Framework / CLR / DotGnu / Mono
-  -> http://en.wikipedia.org/wiki/.NET_Framework
-  -> http://en.wikipedia.org/wiki/Common_Language_Runtime
-  -> http://en.wikipedia.org/wiki/DotGNU
-  -> http://en.wikipedia.org/wiki/Mono_Project
+===2. .NET Framework / CLR / DotGnu / Mono===
+ * http://en.wikipedia.org/wiki/.NET_Framework
+ * http://en.wikipedia.org/wiki/Common_Language_Runtime
+ * http://en.wikipedia.org/wiki/DotGNU
+ * http://en.wikipedia.org/wiki/Mono_Project
 
-* XULRunner 
-  -> http://en.wikipedia.org/wiki/XULRunner
+===3. XULRunner===
+ * -> http://en.wikipedia.org/wiki/XULRunner
 
-* Parrot
-	-> http://en.wikipedia.org/wiki/Parrot_virtual_machine
-	-> http://www.parrotcode.org/
+===4. Parrot===
+ * -> http://en.wikipedia.org/wiki/Parrot_virtual_machine
+ * -> http://www.parrotcode.org/
 	
-* Smalltalk
-	Squeak
-	-> http://en.wikipedia.org/wiki/Squeak
-	-> http://www.squeak.org/
-	Strongtalk
-	-> http://en.wikipedia.org/wiki/Strongtalk
-	-> http://www.strongtalk.org/index.html
+*Smalltalk*
+ * Squeak
+    * -> http://en.wikipedia.org/wiki/Squeak
+    * -> http://www.squeak.org/
+ * Strongtalk
+    * -> http://en.wikipedia.org/wiki/Strongtalk
+    * -> http://www.strongtalk.org/index.html
 
-* SCUMM
-	-> http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion
-	-> http://de.wikipedia.org/wiki/ScummVM
+*SCUMM*
+ * -> http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion
+ * -> http://de.wikipedia.org/wiki/ScummVM
 
-- Lua VM
-  -> http://en.wikipedia.org/wiki/Lua_(programming_language)
+*Lua VM*
+ * -> http://en.wikipedia.org/wiki/Lua_(programming_language)
   
-- Tamarin (JS engine)
-  -> http://en.wikipedia.org/wiki/Tamarin_(JavaScript_engine)
+*Tamarin (JS engine)*
+ * -> http://en.wikipedia.org/wiki/Tamarin_(JavaScript_engine)
 
-- Neko VM 
-	-> http://en.wikipedia.org/wiki/Neko_(programming_language)
-	-> http://nekovm.org/
+*Neko VM*
+ * -> http://en.wikipedia.org/wiki/Neko_(programming_language)
+ * -> http://nekovm.org/
 	
-- Flash Player
+*Flash Player*
 
-- Shockwave (see Shockwave Projectors)
+*Shockwave (see Shockwave Projectors)*
 
-- Mozart Programming System/Oz/Alice/Standard ML (SML)
+*Mozart Programming System/Oz/Alice/Standard ML (SML)*
 
-- UML virtual machines ?
+*UML virtual machines ?*
 
+ 
 
-FOCUSED ON RIAS
----------------
+=== FOCUSED ON RIAS ===
+*Mozilla Prism*
+*Adobe AIR*
+ * -> http://en.wikipedia.org/wiki/Adobe_AIR
+*Microsoft Silverlight*
+ * -> http://en.wikipedia.org/wiki/Microsoft_Silverlight
+*(Google Chrome)*
 
-- Mozilla Prism
-- (Google Chrome)
-- Adobe AIR -> http://en.wikipedia.org/wiki/Adobe_AIR
-- Microsoft Silverlight -> http://en.wikipedia.org/wiki/Microsoft_Silverlight
+----
 
+== GENERAL PROGRAMMING PARADIGMS == 
 
+-> http://en.wikipedia.org/wiki/Programming_paradigm
 
-GENERAL PROGRAMMING PARADIGMS
-=============================
-http://en.wikipedia.org/wiki/Programming_paradigm
+ * object-oriented programming (as in Smalltalk)
 
-- object-oriented programming (as in Smalltalk)
+ * aspect-oriented programming (as in AspectJ)
 
-- aspect-oriented programming (as in AspectJ)
+ * imperative programming <--> declarative programming
 
-- imperative programming <--> declarative programming
-
-- procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)
-	In computer science, functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids state and mutable data. It emphasizes the application of functions, in contrast with the imperative programming style that emphasizes changes in state.[1]
+ * procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)
 	
-- class-based programming, compared to Prototype-based programming 
+ * class-based programming, compared to Prototype-based programming 
 	(within the context of object-oriented programming)
 	
-- component-oriented programming (as in OLE)
+ * component-oriented programming (as in OLE)
 
-- event driven programming
+ * event driven programming
 
-- message passing programming, compared to imperative programming
+ * message passing programming, compared to imperative programming
 
-- visual programming, dataflow programming
-  -> http://en.wikipedia.org/wiki/Visual_programming_language
-  -> http://www.scienzemfn.unisa.it/vldesk/
+ * visual programming, dataflow programming
+  * -> http://en.wikipedia.org/wiki/Visual_programming_language
+  * -> http://www.scienzemfn.unisa.it/vldesk/
   
   -> directed graphs; boxes and arrows
   Max/MSP, Pd, vvvv
@@ -258,6 +259,7 @@ http://en.wikipedia.org/wiki/User_interface_markup_language
 
 - XUL -> http://en.wikipedia.org/wiki/XUL
 - XAML with Silverlight -> http://en.wikipedia.org/wiki/Extensible_Application_Markup_Language
+
 - MXML -> http://en.wikipedia.org/wiki/MXML
 - GladeXML -> http://en.wikipedia.org/wiki/Glade_Interface_Designer#GladeXML
 
