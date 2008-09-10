@@ -9,7 +9,7 @@
 
 ===2. What?===
  * Requirements:
-  * 100% open source
+  * 100% free and open source
   * 100% patent free technologies (for core app, plugins can deal with patented file/compression formats etc.)
   * easily expandable, SDK for plugins
   * support both code-based and visual development
