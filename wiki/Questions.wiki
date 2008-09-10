@@ -2,8 +2,6 @@
 
 [OpenDirector << home]
 
-==QUESTIONS==
-
 ===1. Why? (Motivation)===
  * why open source? 
  * why not using an existing (open source) tool?
