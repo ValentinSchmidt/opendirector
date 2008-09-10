@@ -1,6 +1,6 @@
 [MultimediaResources << Multimedia Resources]
 
-==6. USER INTERFACE MARKUP LANGUAGES==
+==USER INTERFACE MARKUP LANGUAGES==
  * [[http://en.wikipedia.org/wiki/User_interface_markup_language]]
 
  * XUL [[http://en.wikipedia.org/wiki/XUL]]
