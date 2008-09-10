@@ -1,0 +1,31 @@
+[MultimediaResources << Multimedia Resources]
+
+==3. MULTIMEDIA AUTHORING CONCEPTS==
+
+==== code-based===
+ * using Win API in plain C
+
+==== screen/page/form/window-based====
+ * using an IDE with GUI-bilder
+ * Power-Point
+ * Toolbook
+ * Creator
+
+==== score/timeline-based====
+ * Adobe Director
+ * Flash IDE
+
+==== flowchart-based====
+ * Authorware -> http://en.wikipedia.org/wiki/Macromedia_Authorware
+ * Max/MSP (graphical development environment for music and multimedia)
+ * Pd (Pure Data)
+ * Reaktor
+ * vvvv
+ * Quartz Composer
+ * DirectShow + GraphEdit
+
+==== icon-based====
+ * mTropolis -> http://en.wikipedia.org/wiki/MTropolis
+
+==== others====
+ * iShell/Apple Media Tool -> http://en.wikipedia.org/wiki/Ishell
