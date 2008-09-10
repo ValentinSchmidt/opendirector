@@ -2,12 +2,12 @@
 
 [OpenDirector << home]
 
-===1. Why? (Motivation)===
+===1. Why?===
  * What's wrong with existing tools?
  * Why open source? 
  * Why not using an existing (open source) tool?
 
-===2. What? (Requirements, Features, Supported Platforms)===
+===2. What?===
  * Requirements:
   * 100% open source
   * 100% patent free technologies
