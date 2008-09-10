@@ -4,6 +4,8 @@
  # [ProgrammingParadigms General Programming Paradigms]
  # [AuthoringConcepts Multimedia Authoring Concepts]
  # [AuthoringTools Existing Authoring Tools]
+ # [GuiToolkits Gui Toolkits / Widget Toolkits]
  # [MultimediaLibraries Cross-platform Multimedia Programming Libraries and APIs]
+ # [MultimediaDescriptionFormats Open Multimedia Description Formats]
 
 [OpenDirector << OpenDirector]
