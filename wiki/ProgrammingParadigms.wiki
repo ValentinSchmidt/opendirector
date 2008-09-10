@@ -6,13 +6,13 @@
 
 ====a) object-oriented programming (as in Smalltalk)====
 ====b) aspect-oriented programming (as in AspectJ)====
-==== imperative programming <--> declarative programming====
-==== procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)====
-==== class-based programming, compared to Prototype-based programming (within the context of object-oriented programming)====
-==== component-oriented programming (as in OLE)====
-==== event driven programming====
-==== message passing programming, compared to imperative programming====
-==== visual programming / dataflow programming (directed graphs; boxes and arrows)====
+====c) imperative programming <--> declarative programming====
+====d) procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)====
+====e) class-based programming, compared to Prototype-based programming (within the context of object-oriented programming)====
+====f) component-oriented programming (as in OLE)====
+====g) event driven programming====
+====h) message passing programming, compared to imperative programming====
+====i) visual programming / dataflow programming (directed graphs; boxes and arrows)====
  * [[http://en.wikipedia.org/wiki/Visual_programming_language]]
  * [[http://www.scienzemfn.unisa.it/vldesk/]]
  * Max/MSP, Pd, vvvv
