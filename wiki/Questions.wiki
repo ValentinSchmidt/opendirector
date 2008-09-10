@@ -38,6 +38,6 @@
  * IDE as extension of existing IDE (e.g. Eclipse)?
  
 ===4. Who?===
- * target group
+ * target group?
  * partners/sponsors?
  * how to convince developpers to join?
