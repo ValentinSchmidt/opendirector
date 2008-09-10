@@ -27,7 +27,7 @@
   * Extensibility (add-ons/plugins/DLLs)
   
 ===3. How? (Architecture, Components, Technologies, Libraries/Frameworks)===
- * use existing VM / bytecode compiler (e.g. Lua VM, Python VM or Neko VM)?
+ * use existing VM / bytecode compiler (e.g. Lua VM, Python VM, Neko VM, Flash)?
  * IDE as extension of existing IDE (e.g. Eclipse)?
  
 ===4. Who?===
