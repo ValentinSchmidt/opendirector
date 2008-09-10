@@ -2,8 +2,6 @@
 
 [OpenDirector << home]
 
-[Resources << Multimedia Resources ]
-
 ==2. GENERAL PROGRAMMING PARADIGMS==
 
 -> http://en.wikipedia.org/wiki/Programming_paradigm
