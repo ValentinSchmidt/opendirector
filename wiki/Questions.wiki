@@ -3,10 +3,20 @@
 [OpenDirector << home]
 
 ===1. Why? (Motivation)===
- * why open source? 
- * why not using an existing (open source) tool?
+ * What's wrong with existing tools?
+ * Why open source? 
+ * Why not using an existing (open source) tool?
 
 ===2. What? (Requirements, Features, Supported Platforms)===
+ * Platforms: 
+  * Windows
+  * OS X
+  * Linux desirable
+ * Components:
+  * IDE (with Timeline?)
+  * Script-Language
+  * VM / Runtime Engine
+
 
 ===3. How? (Architecture, Components, Technologies, Libraries/Frameworks)===
 
