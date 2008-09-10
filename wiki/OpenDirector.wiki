@@ -16,25 +16,25 @@ This project aims to create an open source multimedia authoring tool (which is l
  * http://de.wikipedia.org/wiki/Virtuelle_Maschine
  * http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
 
-===a) Desktop===
+===1.1 General/Desktop===
 
-====1. JVM====
+==== JVM====
  * http://en.wikipedia.org/wiki/Java_Virtual_Machine
 
-====2. .NET Framework / CLR / DotGnu / Mono====
+==== .NET Framework / CLR / DotGnu / Mono====
  * http://en.wikipedia.org/wiki/.NET_Framework
  * http://en.wikipedia.org/wiki/Common_Language_Runtime
  * http://en.wikipedia.org/wiki/DotGNU
  * http://en.wikipedia.org/wiki/Mono_Project
 
-====3. XULRunner====
+==== XULRunner====
  * http://en.wikipedia.org/wiki/XULRunner
 
-====4. Parrot====
+==== Parrot====
  * http://en.wikipedia.org/wiki/Parrot_virtual_machine
  * http://www.parrotcode.org/
 
-====5. Smalltalk====
+==== Smalltalk====
  * Squeak
     * http://en.wikipedia.org/wiki/Squeak
     * http://www.squeak.org/
@@ -42,33 +42,33 @@ This project aims to create an open source multimedia authoring tool (which is l
     * http://en.wikipedia.org/wiki/Strongtalk
     * http://www.strongtalk.org/index.html
 
-====6. SCUMM====
+==== SCUMM====
  * http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion
  * http://de.wikipedia.org/wiki/ScummVM
 
-====7. Lua VM====
+==== Lua VM====
  * http://en.wikipedia.org/wiki/Lua_(programming_language)
 
-====8. Tamarin (JS engine)====
+==== Tamarin (JS engine)====
  * http://en.wikipedia.org/wiki/Tamarin_(JavaScript_engine)
 
-====9. Neko VM====
+==== Neko VM====
  * http://en.wikipedia.org/wiki/Neko_(programming_language)
  * http://nekovm.org/
 
-====10. Flash Player====
-====11. Shockwave (Shockwave Projectors)====
+==== Flash Player====
+==== Shockwave (Shockwave Projectors)====
 
-===b) RIA===
+===1.2 Browser-based / RIA===
 
-====1. Mozilla Prism====
-====2. Adobe AIR====
+==== Mozilla Prism====
+==== Adobe AIR====
  * http://en.wikipedia.org/wiki/Adobe_AIR
 
-====3. Microsoft Silverlight====
+==== Microsoft Silverlight====
  * http://en.wikipedia.org/wiki/Microsoft_Silverlight
 
-====4. (Google Chrome)====
+==== (Google Chrome)====
 
 ----
 
@@ -76,15 +76,15 @@ This project aims to create an open source multimedia authoring tool (which is l
 
  * http://en.wikipedia.org/wiki/Programming_paradigm
 
-====1. object-oriented programming (as in Smalltalk)====
-====2. aspect-oriented programming (as in AspectJ)====
-====3. imperative programming <--> declarative programming====
-====4. procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)====
-====5. class-based programming, compared to Prototype-based programming (within the context of object-oriented programming)====
-====6. component-oriented programming (as in OLE)====
-====7. event driven programming====
-====8. message passing programming, compared to imperative programming====
-====9. visual programming / dataflow programming (directed graphs; boxes and arrows)====
+==== object-oriented programming (as in Smalltalk)====
+==== aspect-oriented programming (as in AspectJ)====
+==== imperative programming <--> declarative programming====
+==== procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)====
+==== class-based programming, compared to Prototype-based programming (within the context of object-oriented programming)====
+==== component-oriented programming (as in OLE)====
+==== event driven programming====
+==== message passing programming, compared to imperative programming====
+==== visual programming / dataflow programming (directed graphs; boxes and arrows)====
   * http://en.wikipedia.org/wiki/Visual_programming_language
   * http://www.scienzemfn.unisa.it/vldesk/
   * Max/MSP, Pd, vvvv
@@ -97,20 +97,20 @@ This project aims to create an open source multimedia authoring tool (which is l
 
 ==3. MULTIMEDIA AUTHORING CONCEPTS==
 
-====code-based===
+==== code-based===
  * using Win API in plain C
 
-====screen/page/form/window-based====
+==== screen/page/form/window-based====
  * using an IDE with GUI-bilder
  * Power-Point
  * Toolbook
  * Creator
 
-====score/timeline-based====
+==== score/timeline-based====
  * Adobe Director
  * Flash IDE
 
-====flowchart-based====
+==== flowchart-based====
  * Authorware -> http://en.wikipedia.org/wiki/Macromedia_Authorware
  * Max/MSP (graphical development environment for music and multimedia)
  * Pd (Pure Data)
@@ -119,10 +119,10 @@ This project aims to create an open source multimedia authoring tool (which is l
  * Quartz Composer
  * DirectShow + GraphEdit
 
-====icon-based====
+==== icon-based====
  * mTropolis -> http://en.wikipedia.org/wiki/MTropolis
 
-====others====
+==== others====
  * iShell/Apple Media Tool -> http://en.wikipedia.org/wiki/Ishell
 
 ----
