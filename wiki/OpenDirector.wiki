@@ -1,4 +1,4 @@
 #summary This project aims to create an open source multimedia authoring tool (which is loosely inspired by Adobe Director)
 
- # [MultimediaResources Multimedia Resources]
- # [Questions]
+  # [MultimediaResources Multimedia Resources]
+  # [Questions]
