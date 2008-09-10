@@ -37,6 +37,9 @@
  * [[http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion]]
  * [[http://de.wikipedia.org/wiki/ScummVM]]
 
+==== Python VM====
+ * [[http://en.wikipedia.org/wiki/Python_(programming_language)]]
+
 ==== Lua VM====
  * [[http://en.wikipedia.org/wiki/Lua_(programming_language)]]
 
