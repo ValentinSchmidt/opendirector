@@ -1,6 +1,6 @@
 [MultimediaResources << Multimedia Resources]
 
-==8. OPEN MULTIMEDIA DESCRIPTION FORMATS==
+==OPEN MULTIMEDIA DESCRIPTION FORMATS==
 
 ====SMIL====
  * [[http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language]]
