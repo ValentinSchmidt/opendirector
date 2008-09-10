@@ -1,6 +1,8 @@
-#summary One-sentence summary of this page.
+#summary Some questions
 
-==0. QUESTIONS==
+[OpenDirector << home]
+
+==QUESTIONS==
  * why? (why open source? why not using an existing (open source) tool? ...)
  * what? (components, features, supported platforms, ...)
  * how? (architecture, technolgies, frameworks/libraries, ...)
