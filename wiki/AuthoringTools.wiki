@@ -25,7 +25,7 @@
  * mTropolis (discontinued)
  * Apple Media Tool (discontinued) -> http://en.wikipedia.org/wiki/Apple_Media_Tool
  * iShell -> http://en.wikipedia.org/wiki/IShell
- * !HyperCard (discontinued) / SuperCard / MetaCard / Runtime Revolution
+ * !HyperCard (discontinued) / !SuperCard / !MetaCard / Runtime Revolution
  * !LiveStage Pro
  * MST Workshop ?
  * Creator -> http://en.wikipedia.org/wiki/Creator_(software)
@@ -57,7 +57,7 @@ commercial:
  * wxGlade -> http://en.wikipedia.org/wiki/WxGlade
  * wxDesigner -> http://www.roebling.de/
  * Qt Designer
- * !AsWing GuiBuilder -> http://www.aswing.org/
+ * !AsWing !GuiBuilder -> http://www.aswing.org/
  * FLUID (for FLTK)
 
 ===4.5 OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)===
@@ -67,7 +67,7 @@ commercial:
  * SEPY
    * -> http://www.sephiroth.it/python/sepy.php
    * -> svn co -> https://sepy.svn.sourceforge.net/svnroot/sepy/trunk sepy
- * FlashDevelop
+ * !FlashDevelop
  * Eclipse
  * !SharpDevelop (Windows Forms designer)
  * !MonoDevelop (GUI designer, GTK# GUI designer called Stetic)
