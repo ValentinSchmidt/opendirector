@@ -33,14 +33,13 @@
 ====RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS====
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 
-a) open source:
+=====a) open source:=====
  * Lazarus [[http://en.wikipedia.org/wiki/Lazarus_(software)]]
  * wxDev-C++
  * Code::Blocks
  * !MonoDevelop
  * !SharpDevelop
-
-b) commercial:
+=====commercial:=====
  * Microsoft Visual Studio, especially VisualBasic [[http://en.wikipedia.org/wiki/Visual_Basic]]
  * REALbasic [[http://en.wikipedia.org/wiki/REALbasic]] -> IDE with graphical GUI builder
  * Runtime Revolution [[http://en.wikipedia.org/wiki/Runtime_Revolution]]
@@ -49,8 +48,7 @@ b) commercial:
  * !CodeGear Delphi for PHP
  * Apple Xcode Tools (Interface Builder)
  * Adobe Flex Builder
-
-===4. (STANDALONE) GUI BUILDERS / GUI DESIGNERS===
+====(STANDALONE) GUI BUILDERS / GUI DESIGNERS====
  * [[http://en.wikipedia.org/wiki/Graphical_user_interface_builder]]
 
  * Glade [[http://en.wikipedia.org/wiki/Glade_Interface_Designer]]
