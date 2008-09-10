@@ -9,51 +9,51 @@ This project aims to create an open source multimedia authoring tool (which is l
 ----
 
 ==1. VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS==
- * http://en.wikipedia.org/wiki/Virtual_machine
- * http://en.wikipedia.org/wiki/Runtime_environment
- * http://www.devmatic-it.com/article_en.jsf?article=process_vm
- * http://de.wikipedia.org/wiki/Virtuelle_Maschine
- * http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
+ * -> http://en.wikipedia.org/wiki/Virtual_machine
+ * -> http://en.wikipedia.org/wiki/Runtime_environment
+ * -> http://www.devmatic-it.com/article_en.jsf?article=process_vm
+ * -> http://de.wikipedia.org/wiki/Virtuelle_Maschine
+ * -> http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
 
 ===1.1 General/Desktop===
 
 ==== JVM====
- * http://en.wikipedia.org/wiki/Java_Virtual_Machine
+ * -> http://en.wikipedia.org/wiki/Java_Virtual_Machine
 
 ==== .NET Framework / CLR / DotGnu / Mono====
- * http://en.wikipedia.org/wiki/.NET_Framework
- * http://en.wikipedia.org/wiki/Common_Language_Runtime
- * http://en.wikipedia.org/wiki/DotGNU
- * http://en.wikipedia.org/wiki/Mono_Project
+ * -> http://en.wikipedia.org/wiki/.NET_Framework
+ * -> http://en.wikipedia.org/wiki/Common_Language_Runtime
+ * -> http://en.wikipedia.org/wiki/DotGNU
+ * -> http://en.wikipedia.org/wiki/Mono_Project
 
 ==== XULRunner====
- * http://en.wikipedia.org/wiki/XULRunner
+ * -> http://en.wikipedia.org/wiki/XULRunner
 
 ==== Parrot====
- * http://en.wikipedia.org/wiki/Parrot_virtual_machine
- * http://www.parrotcode.org/
+ * -> http://en.wikipedia.org/wiki/Parrot_virtual_machine
+ * -> http://www.parrotcode.org/
 
 ==== Smalltalk====
  * Squeak
-    * http://en.wikipedia.org/wiki/Squeak
-    * http://www.squeak.org/
+    * -> http://en.wikipedia.org/wiki/Squeak
+    * -> http://www.squeak.org/
  * Strongtalk
-    * http://en.wikipedia.org/wiki/Strongtalk
-    * http://www.strongtalk.org/index.html
+    * -> http://en.wikipedia.org/wiki/Strongtalk
+    * -> http://www.strongtalk.org/index.html
 
 ==== SCUMM====
- * http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion
- * http://de.wikipedia.org/wiki/ScummVM
+ * -> http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion
+ * -> http://de.wikipedia.org/wiki/ScummVM
 
 ==== Lua VM====
- * http://en.wikipedia.org/wiki/Lua_(programming_language)
+ * -> http://en.wikipedia.org/wiki/Lua_(programming_language)
 
 ==== Tamarin (JS engine)====
- * http://en.wikipedia.org/wiki/Tamarin_(JavaScript_engine)
+ * -> http://en.wikipedia.org/wiki/Tamarin_(JavaScript_engine)
 
 ==== Neko VM====
- * http://en.wikipedia.org/wiki/Neko_(programming_language)
- * http://nekovm.org/
+ * -> http://en.wikipedia.org/wiki/Neko_(programming_language)
+ * -> http://nekovm.org/
 
 ==== Flash Player====
 ==== Shockwave (Shockwave Projectors)====
@@ -62,10 +62,10 @@ This project aims to create an open source multimedia authoring tool (which is l
 
 ==== Mozilla Prism====
 ==== Adobe AIR====
- * http://en.wikipedia.org/wiki/Adobe_AIR
+ * -> http://en.wikipedia.org/wiki/Adobe_AIR
 
 ==== Microsoft Silverlight====
- * http://en.wikipedia.org/wiki/Microsoft_Silverlight
+ * -> http://en.wikipedia.org/wiki/Microsoft_Silverlight
 
 ==== (Google Chrome)====
 
@@ -73,7 +73,7 @@ This project aims to create an open source multimedia authoring tool (which is l
 
 ==2. GENERAL PROGRAMMING PARADIGMS== 
 
- * http://en.wikipedia.org/wiki/Programming_paradigm
+ * -> http://en.wikipedia.org/wiki/Programming_paradigm
 
 ==== object-oriented programming (as in Smalltalk)====
 ==== aspect-oriented programming (as in AspectJ)====
@@ -84,13 +84,13 @@ This project aims to create an open source multimedia authoring tool (which is l
 ==== event driven programming====
 ==== message passing programming, compared to imperative programming====
 ==== visual programming / dataflow programming (directed graphs; boxes and arrows)====
- * http://en.wikipedia.org/wiki/Visual_programming_language
- * http://www.scienzemfn.unisa.it/vldesk/
+ * -> http://en.wikipedia.org/wiki/Visual_programming_language
+ * -> http://www.scienzemfn.unisa.it/vldesk/
  * Max/MSP, Pd, vvvv
  * Stagecast Creator -> http://en.wikipedia.org/wiki/Stagecast_Creator
  * Scala Multimedia (Authoring suite and complete multimedia system for AmigaOS and Windows)
  * MST Workshop
- * Puck (http://de.wikipedia.org/wiki/Puck_(Programmiersprache) )
+ * Puck (-> http://de.wikipedia.org/wiki/Puck_(Programmiersprache) )
 
 ----
 
@@ -128,20 +128,20 @@ This project aims to create an open source multimedia authoring tool (which is l
 
 ==4. AUTHORING SYSTEMS / AUTHORING TOOLS==
 
- * http://en.wikipedia.org/wiki/Authoring_systems
- * http://de.wikipedia.org/wiki/Autorensystem
- * http://de.wikipedia.org/wiki/E-learning#Autorensysteme
- * http://de.wikipedia.org/wiki/Autorenwerkzeug (help authoring tool, HAT)
+ * -> http://en.wikipedia.org/wiki/Authoring_systems
+ * -> http://de.wikipedia.org/wiki/Autorensystem
+ * -> http://de.wikipedia.org/wiki/E-learning#Autorensysteme
+ * -> http://de.wikipedia.org/wiki/Autorenwerkzeug (help authoring tool, HAT)
 
 ===4.1 CATEGORIES===
 
 ==== integrated development environment (IDE)====
- * http://en.wikipedia.org/wiki/Integrated_development_environment
- * http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
+ * -> http://en.wikipedia.org/wiki/Integrated_development_environment
+ * -> http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
 ==== RAD tool / visual pogramming environment====
- * http://en.wikipedia.org/wiki/Rapid_Application_Development
- * http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools
- * http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung
+ * -> http://en.wikipedia.org/wiki/Rapid_Application_Development
+ * -> http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools
+ * -> http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung
 ==== classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)====
 
 ===4.2 MULTIMEDIA AUTHORING TOOLS===
@@ -193,7 +193,7 @@ commercial:
  * SciTE
  * SEPY
    * -> http://www.sephiroth.it/python/sepy.php
-   * -> svn co https://sepy.svn.sourceforge.net/svnroot/sepy/trunk sepy
+   * -> svn co -> https://sepy.svn.sourceforge.net/svnroot/sepy/trunk sepy
  * FlashDevelop
  * Eclipse
  * SharpDevelop (Windows Forms designer)
@@ -304,7 +304,7 @@ commercial:
 ==5. OPEN MULTIMEDIA DESCRIPTION FORMATS==
 
 ====SMIL====
- * http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language
- * http://www.w3.org/TR/2008/CR-SMIL3-20080115/
+ * -> http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language
+ * -> http://www.w3.org/TR/2008/CR-SMIL3-20080115/
 
 ====XHTML (+SVG +MathML + ...)====
