@@ -1,13 +1,13 @@
 [MultimediaResources << Multimedia Resources]
 
-==1.4 EXISTING AUTHORING SYSTEMS / TOOLS==
+==EXISTING AUTHORING SYSTEMS / TOOLS==
 
  * [[http://en.wikipedia.org/wiki/Authoring_systems]]
  * [[http://de.wikipedia.org/wiki/Autorensystem]]
  * [[http://de.wikipedia.org/wiki/E-learning#Autorensysteme]]
  * [[http://de.wikipedia.org/wiki/Autorenwerkzeug]] (help authoring tool, HAT)
 
-===1.4.1 CATEGORIES===
+===1. CATEGORIES===
 
 ==== integrated development environment (IDE)====
  * [[http://en.wikipedia.org/wiki/Integrated_development_environment]]
@@ -18,7 +18,7 @@
  * [[http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung]]
 ==== classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)====
 
-===1.4.2 MULTIMEDIA AUTHORING TOOLS===
+===2. MULTIMEDIA AUTHORING TOOLS===
  * Director
  * Authorware (discontinued)
  * !ToolBook
@@ -30,17 +30,17 @@
  * MST Workshop
  * Creator [[http://en.wikipedia.org/wiki/Creator_(software)]]
 
-===1.4.3 RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS===
+===3. RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS===
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 
-open source:
+a) open source:
  * Lazarus [[http://en.wikipedia.org/wiki/Lazarus_(software)]]
  * wxDev-C++
  * Code::Blocks
  * !MonoDevelop
  * !SharpDevelop
 
-commercial:
+b) commercial:
  * Microsoft Visual Studio, especially VisualBasic [[http://en.wikipedia.org/wiki/Visual_Basic]]
  * REALbasic [[http://en.wikipedia.org/wiki/REALbasic]] -> IDE with graphical GUI builder
  * Runtime Revolution [[http://en.wikipedia.org/wiki/Runtime_Revolution]]
@@ -50,7 +50,7 @@ commercial:
  * Apple Xcode Tools (Interface Builder)
  * Adobe Flex Builder
 
-===1.4.4 (STANDALONE) GUI BUILDERS / GUI DESIGNERS===
+===4. (STANDALONE) GUI BUILDERS / GUI DESIGNERS===
  * [[http://en.wikipedia.org/wiki/Graphical_user_interface_builder]]
 
  * Glade [[http://en.wikipedia.org/wiki/Glade_Interface_Designer]]
@@ -60,7 +60,7 @@ commercial:
  * !AsWing !GuiBuilder [[http://www.aswing.org/]]
  * FLUID (for FLTK) [[http://en.wikipedia.org/wiki/FLUID]]
 
-===1.4.5 OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)===
+===5. OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)===
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 
  * SciTE [[http://en.wikipedia.org/wiki/SciTE]]
@@ -70,7 +70,7 @@ commercial:
  * !SharpDevelop [[http://en.wikipedia.org/wiki/SharpDevelop]] -> Windows Forms designer)
  * !MonoDevelop [[http://en.wikipedia.org/wiki/MonoDevelop]] -> GTK# GUI designer called "Stetic"
 
-===1.4.6 GUI TOOLITS / WIDGET TOOLKITS (outside browser)===
+===6. GUI TOOLITS / WIDGET TOOLKITS (outside browser)===
  * [[http://en.wikipedia.org/wiki/Widget_toolkit]]
 
  * Qt [[http://en.wikipedia.org/wiki/Qt_(toolkit)]]
@@ -86,7 +86,7 @@ commercial:
  * !AsWing (Open Source Flash ActionScript GUI framework and library)
  * Ultimate++ [[http://www.ultimatepp.org/]]
 
-===1.4.7 USER INTERFACE MARKUP LANGUAGES===
+===7. USER INTERFACE MARKUP LANGUAGES===
  * [[http://en.wikipedia.org/wiki/User_interface_markup_language]]
 
  * XUL [[http://en.wikipedia.org/wiki/XUL]]
@@ -94,9 +94,9 @@ commercial:
  * MXML [[http://en.wikipedia.org/wiki/MXML]]
  * !GladeXML [[http://en.wikipedia.org/wiki/Glade_Interface_Designer#GladeXML]]
 
-===1.4.8 CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs===
+===8. CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs===
 
-====GENERAL MULTIMEDIA====
+====a) GENERAL MULTIMEDIA====
  * Simple !DirectMedia Layer (SDL) [[http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer]]
  * Simple and Fast Multimedia Library (SFML) -> http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
  * Allegro -> http://en.wikipedia.org/wiki/Allegro_library
@@ -104,7 +104,7 @@ commercial:
  * !OpenGL
  * !Troll2D
 
-====AUDIO ONLY====
+====b) AUDIO ONLY====
  * !PortMusic (!PortAudio, !PortMidi)
  * Audiere
  * libsndfile
@@ -115,7 +115,7 @@ commercial:
  * open source container formats: Ogg, !WavPack (container format and codec), Musepack (container format and codec)
  * open source (patent free) codecs (Xiph.Org, Ogg): Vorbis/Tremor, FLAC, Speex, OggPCM 
 
-====GRAPHICS ONLY====
+====c) GRAPHICS ONLY====
  * !ImageMagick (software suite for image manipulation and display)
  * !GraphicsMagick
  * DevIL (was: OpenIL) [[http://en.wikipedia.org/wiki/DevIL]]
@@ -126,38 +126,38 @@ commercial:
  * !OpenJPEG (JPEG 2000)
  * Agar 
 
-====VIDEO ONLY====
+====d) VIDEO ONLY====
  * libmad (MAD)
  * libmpeg2
  * open source container formats: Ogg/OGM, Matroska, NUT
  * open source (patent free) codecs: Theora (Xiph.Org, Ogg), Dirac
 
-====VECTOR GRAPHICS====
+====e) VECTOR GRAPHICS====
  * Librsvg
  * Cairo [[http://en.wikipedia.org/wiki/Cairo_(graphics)]]
 
-====PDF (rendering/viewing)====
+====f) PDF (rendering/viewing)====
  * Poppler
  * !MuPDF
  * libgnupdf
  * Ghostscript
 
-====3D GRAPHICS APIs====
+====g) 3D GRAPHICS APIs====
  * [[http://en.wikipedia.org/wiki/List_of_3D_graphics_APIs]]
 
-*a) low level*
+=====low level=====
 
  * OpenGL -> http://en.wikipedia.org/wiki/OpenGL
  * Mesa 3D (open source implementation of OpenGL) [[http://en.wikipedia.org/wiki/Mesa_(OpenGL)]]
 
-*b) higher level*
+=====higher level=====
 
  * !OpenSceneGraph [[http://en.wikipedia.org/wiki/OpenSceneGraph]]
  * Irrlicht Engine
  * OGRE [[http://en.wikipedia.org/wiki/OGRE]]
  * Quesa [[http://en.wikipedia.org/wiki/Quesa_(software)]]
 
-====OPEN SOURCE GAME ENGINES====
+====h) OPEN SOURCE GAME ENGINES====
  * [[http://en.wikipedia.org/wiki/Game_engine]]
 
  * Crystal Space
@@ -169,13 +169,3 @@ commercial:
  * id Tech 3
  * Spring
  * Agar
-
-===1.4.9 OPEN MULTIMEDIA DESCRIPTION FORMATS===
-
-====SMIL====
- * [[http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language]]
- * [[http://www.w3.org/TR/2008/CR-SMIL3-20080115/]]
-
-====XHTML (+SVG +MathML + ...)====
-
-==== ... ? ====
