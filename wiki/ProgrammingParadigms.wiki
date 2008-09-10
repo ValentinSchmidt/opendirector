@@ -8,7 +8,7 @@
 ====b) aspect-oriented programming (as in AspectJ)====
 ====c) imperative programming <--> declarative programming====
 ====d) procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)====
-====e) class-based programming, compared to Prototype-based programming (within the context of object-oriented programming)====
+====e) class-based programming <!--> prototype-based programming (within the context of object-oriented programming)====
 ====f) component-oriented programming (as in OLE)====
 ====g) event driven programming====
 ====h) message passing programming, compared to imperative programming====
