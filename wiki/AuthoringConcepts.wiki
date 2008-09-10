@@ -22,7 +22,7 @@
  * Reaktor
  * vvvv
  * Quartz Composer
- * DirectShow + GraphEdit
+ * !DirectShow + !GraphEdit
 
 ==== icon-based====
  * mTropolis -> http://en.wikipedia.org/wiki/MTropolis
