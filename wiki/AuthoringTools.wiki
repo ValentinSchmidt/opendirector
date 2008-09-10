@@ -21,13 +21,12 @@
 ===4.2 MULTIMEDIA AUTHORING TOOLS===
  * Director
  * Authorware (discontinued)
+ * !ToolBook
  * mTropolis (discontinued)
  * Apple Media Tool (discontinued) -> http://en.wikipedia.org/wiki/Apple_Media_Tool
  * iShell -> http://en.wikipedia.org/wiki/IShell
- * HyperCard (discontinued) / SuperCard / MetaCard / Runtime Revolution
- * LiveStage Pro
- * ToolBook
- * LiveStage
+ * !HyperCard (discontinued) / SuperCard / MetaCard / Runtime Revolution
+ * !LiveStage Pro
  * MST Workshop ?
  * Creator -> http://en.wikipedia.org/wiki/Creator_(software)
 
@@ -38,16 +37,16 @@ open source:
  * Lazarus -> http://en.wikipedia.org/wiki/Lazarus_(software)
  * wxDev-C++
  * Code::Blocks
- * MonoDevelop
- * SharpDevelop
+ * !MonoDevelop
+ * !SharpDevelop
 
 commercial:
  * Microsoft Visual Studio, especially VisualBasic -> http://en.wikipedia.org/wiki/Visual_Basic
  * REALbasic -> http://en.wikipedia.org/wiki/REALbasic -> IDE with graphical GUI builder
- * RuntimeRev -> http://en.wikipedia.org/wiki/Runtime_Revolution
- * CodeGear Delphi
- * CodeGear C++Builder
- * CodeGear Delphi for PHP
+ * Runtime Revolution -> http://en.wikipedia.org/wiki/Runtime_Revolution
+ * !CodeGear Delphi
+ * !CodeGear C++Builder
+ * !CodeGear Delphi for PHP
  * Apple Xcode Tools (Interface Builder)
  * Adobe Flex Builder
 
@@ -58,7 +57,7 @@ commercial:
  * wxGlade -> http://en.wikipedia.org/wiki/WxGlade
  * wxDesigner -> http://www.roebling.de/
  * Qt Designer
- * AsWing GuiBuilder -> http://www.aswing.org/
+ * !AsWing GuiBuilder -> http://www.aswing.org/
  * FLUID (for FLTK)
 
 ===4.5 OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)===
@@ -70,8 +69,8 @@ commercial:
    * -> svn co -> https://sepy.svn.sourceforge.net/svnroot/sepy/trunk sepy
  * FlashDevelop
  * Eclipse
- * SharpDevelop (Windows Forms designer)
- * MonoDevelop (GUI designer, GTK# GUI designer called Stetic)
+ * !SharpDevelop (Windows Forms designer)
+ * !MonoDevelop (GUI designer, GTK# GUI designer called Stetic)
 
 ===4.6 GUI TOOLITS / WIDGET TOOLKITS (outside browser)===
  * -> http://en.wikipedia.org/wiki/Widget_toolkit
@@ -86,7 +85,7 @@ commercial:
  * fpGUI (Free Pascal GUI toolkit) -> http://en.wikipedia.org/wiki/FpGUI
  * FOX toolkit -> http://en.wikipedia.org/wiki/FOX_toolkit
  * Adobe Flash / Flex (in browser / flash player/ AIR)
- * AsWing (Open Source Flash ActionScript GUI framework and library)
+ * !AsWing (Open Source Flash ActionScript GUI framework and library)
  * Ultimate++ -> http://www.ultimatepp.org/
 
 ===4.7 USER INTERFACE MARKUP LANGUAGES===
@@ -95,7 +94,7 @@ commercial:
  * XUL -> http://en.wikipedia.org/wiki/XUL
  * XAML with Silverlight -> http://en.wikipedia.org/wiki/Extensible_Application_Markup_Language
  * MXML -> http://en.wikipedia.org/wiki/MXML
- * GladeXML -> http://en.wikipedia.org/wiki/Glade_Interface_Designer#GladeXML
+ * !GladeXML -> http://en.wikipedia.org/wiki/Glade_Interface_Designer#GladeXML
 
 ===4.8 CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs===
 
@@ -103,30 +102,30 @@ commercial:
  * Simple DirectMedia Layer (SDL) -> http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
  * Simple and Fast Multimedia Library (SFML) -> http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
  * Allegro -> http://en.wikipedia.org/wiki/Allegro_library
- * DirectX
- * OpenGL
- * Troll2D
+ * !DirectX
+ * !OpenGL
+ * !Troll2D
 
 ====AUDIO ONLY====
- * PortMusic (PortAudio, PortMidi)
+ * !PortMusic (PortAudio, PortMidi)
  * Audiere
  * libsndfile
  * Vorbis/Tremor
  * lame
  * libavformat + libavcodec (ffmpeg)
- * OpenAL
+ * !OpenAL
  * open source container formats: Ogg, WavPack (container format and codec), Musepack (container format and codec)
  * open source (patent free) codecs (Xiph.Org, Ogg): Vorbis/Tremor, FLAC, Speex, OggPCM 
 
 ====GRAPHICS ONLY====
- * ImageMagick (software suite for image manipulation and display)
- * GraphicsMagick
- * DevIL (was: OpenIL) -> http://en.wikipedia.org/wiki/DevIL
+ * !ImageMagick (software suite for image manipulation and display)
+ * !GraphicsMagick
+ * !DevIL (was: OpenIL) -> http://en.wikipedia.org/wiki/DevIL
  * GD Graphics Library (library for dynamically manipulating images)
  * Netbpm (graphics programs and a programming library)
- * FreeImage
+ * !FreeImage
  * Libjpeg, Libpng, Libtiff
- * OpenJPEG (JPEG 2000)
+ * !OpenJPEG (JPEG 2000)
  * Agar 
 
 ====VIDEO ONLY====
@@ -141,7 +140,7 @@ commercial:
 
 ====PDF (rendering/viewing)====
  * Poppler
- * MuPDF
+ * !MuPDF
  * libgnupdf
  * Ghostscript
 
@@ -155,7 +154,7 @@ commercial:
 
 *b) higher level*
 
- * OpenSceneGraph -> http://en.wikipedia.org/wiki/OpenSceneGraph
+ * !OpenSceneGraph -> http://en.wikipedia.org/wiki/OpenSceneGraph
  * Irrlicht Engine
  * OGRE -> http://en.wikipedia.org/wiki/OGRE
  * Quesa -> http://en.wikipedia.org/wiki/Quesa_(software)
