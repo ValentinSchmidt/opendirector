@@ -4,9 +4,9 @@
 
 ==[VirtualMachines VirtualMachines / Runtime Environments / Software Platforms]==
 ==[ProgrammingParadigms General Programming Paradigms]==
-==[AuthoringConcepts 1.3 Multimedia Authoring Concepts]==
-==[AuthoringTools 1.4 Existing Authoring Tools]==
-==[GuiToolkits 1.5 Gui Toolkits / Widget Toolkits]==
-==[UserInterfaceMarkup 1.6 User Interface Markup Languages]==
-==[MultimediaLibraries 1.7 Cross-platform Multimedia Programming Libraries and APIs]==
-==[MultimediaDescriptionFormats 1.8 Open Multimedia Description Formats]==
+==[AuthoringConcepts Multimedia Authoring Concepts]==
+==[AuthoringTools Existing Authoring Tools]==
+==[GuiToolkits Gui Toolkits / Widget Toolkits]==
+==[UserInterfaceMarkup User Interface Markup Languages]==
+==[MultimediaLibraries Cross-platform Multimedia Programming Libraries and APIs]==
+==[MultimediaDescriptionFormats Open Multimedia Description Formats]==
