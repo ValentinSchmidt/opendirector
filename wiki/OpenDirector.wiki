@@ -1,5 +1,7 @@
+#summary One-sentence summary of this page.
+
 This project aims to create an open source multimedia authoring tool (which is loosely inspired by Adobe Director)
 
-[Resources]
+[Resources Multimedia Resources]
 
 [Questions]
