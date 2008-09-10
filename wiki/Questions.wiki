@@ -18,7 +18,7 @@
   * maybe: support some aspect-oriented programming?
   * nice to have: support multiple authoring concepts (e.g. both score and screen/form based)
 
- * Platforms: 
+ * Supported patforms: 
   * Windows
   * OS X
   * Linux desirable
@@ -29,8 +29,8 @@
    * with asset managment
    * with GUI builder
   * Script-Language
-  * Interpreter? Byte code compiler? JIT?
   * VM / Runtime Engine
+  * Interpreter? Byte code compiler? JIT?
   * Extensibility (add-ons/plugins/DLLs)
   
 ===3. How? (Architecture, Components, Technologies, Libraries/Frameworks)===
