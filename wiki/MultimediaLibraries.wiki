@@ -1,6 +1,6 @@
 [MultimediaResources << Multimedia Resources]
 
-==7. CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs==
+==CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs==
 
 ====GENERAL MULTIMEDIA====
  * Simple !DirectMedia Layer (SDL) [[http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer]]
