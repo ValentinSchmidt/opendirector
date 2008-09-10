@@ -44,4 +44,4 @@
 ===4. Who?===
  * target group?
  * partners/sponsors?
- * how to convince developpers to join?
+ * how to convince developers to join?
