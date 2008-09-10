@@ -2,7 +2,7 @@
 
 ==4. EXISTING AUTHORING SYSTEMS / TOOLS==
 
- * -> http://en.wikipedia.org/wiki/Authoring_systems
+ * [http://en.wikipedia.org/wiki/Authoring_systems]
  * -> http://de.wikipedia.org/wiki/Autorensystem
  * -> http://de.wikipedia.org/wiki/E-learning#Autorensysteme
  * -> http://de.wikipedia.org/wiki/Autorenwerkzeug (help authoring tool, HAT)
@@ -99,7 +99,7 @@ commercial:
 ===4.8 CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs===
 
 ====GENERAL MULTIMEDIA====
- * Simple DirectMedia Layer (SDL) -> http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
+ * Simple !DirectMedia Layer (SDL) -> http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
  * Simple and Fast Multimedia Library (SFML) -> http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
  * Allegro -> http://en.wikipedia.org/wiki/Allegro_library
  * !DirectX
@@ -107,20 +107,20 @@ commercial:
  * !Troll2D
 
 ====AUDIO ONLY====
- * !PortMusic (PortAudio, PortMidi)
+ * !PortMusic (!PortAudio, !PortMidi)
  * Audiere
  * libsndfile
  * Vorbis/Tremor
  * lame
  * libavformat + libavcodec (ffmpeg)
- * !OpenAL
- * open source container formats: Ogg, WavPack (container format and codec), Musepack (container format and codec)
+ * OpenAL
+ * open source container formats: Ogg, !WavPack (container format and codec), Musepack (container format and codec)
  * open source (patent free) codecs (Xiph.Org, Ogg): Vorbis/Tremor, FLAC, Speex, OggPCM 
 
 ====GRAPHICS ONLY====
  * !ImageMagick (software suite for image manipulation and display)
  * !GraphicsMagick
- * !DevIL (was: OpenIL) -> http://en.wikipedia.org/wiki/DevIL
+ * DevIL (was: OpenIL) -> http://en.wikipedia.org/wiki/DevIL
  * GD Graphics Library (library for dynamically manipulating images)
  * Netbpm (graphics programs and a programming library)
  * !FreeImage
@@ -166,7 +166,7 @@ commercial:
  * Irrlicht 
  * Nebula Device
  * Panda3D
- * DarkPlaces
+ * !DarkPlaces
  * Wolfenstein 3D engine
  * id Tech 3
  * Spring
