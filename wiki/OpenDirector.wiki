@@ -1,46 +1,37 @@
 This project aims to create a open source multimedia authoring tool (which is loosely inspired by Adobe Director)
 
-Questions
 
+= QUESTIONS = 
   * why? (why open source? why not using an existing (open source) tool? ...)
   * what? (components, features, supported platforms, ...)
   * how? (architecture, technolgies, frameworks/libraries, ...)
   * who? (how to convince others to join, ...)
 
-QUESTIONS
-=========
-- why?
-- what (features)?
-- why open source?
-- why not using an existing (open source) tool?
 
+= VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS =
+-> http://en.wikipedia.org/wiki/Virtual_machine
+-> http://en.wikipedia.org/wiki/Runtime_environment
+-> http://www.devmatic-it.com/article_en.jsf?article=process_vm
+-> http://de.wikipedia.org/wiki/Virtuelle_Maschine
+-> http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
 
-
-VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS
-===============================================
-http://en.wikipedia.org/wiki/Virtual_machine
-http://en.wikipedia.org/wiki/Runtime_environment
-http://www.devmatic-it.com/article_en.jsf?article=process_vm
-http://de.wikipedia.org/wiki/Virtuelle_Maschine
-http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
-
-- JVM
+* JVM
   -> http://en.wikipedia.org/wiki/Java_Virtual_Machine
 
-- .NET Framework / CLR / DotGnu / Mono
+* .NET Framework / CLR / DotGnu / Mono
   -> http://en.wikipedia.org/wiki/.NET_Framework
   -> http://en.wikipedia.org/wiki/Common_Language_Runtime
   -> http://en.wikipedia.org/wiki/DotGNU
   -> http://en.wikipedia.org/wiki/Mono_Project
 
-- XULRunner 
+* XULRunner 
   -> http://en.wikipedia.org/wiki/XULRunner
 
-- Parrot
+* Parrot
 	-> http://en.wikipedia.org/wiki/Parrot_virtual_machine
 	-> http://www.parrotcode.org/
 	
-- Smalltalk
+* Smalltalk
 	Squeak
 	-> http://en.wikipedia.org/wiki/Squeak
 	-> http://www.squeak.org/
@@ -48,7 +39,7 @@ http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
 	-> http://en.wikipedia.org/wiki/Strongtalk
 	-> http://www.strongtalk.org/index.html
 
-- SCUMM
+* SCUMM
 	-> http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion
 	-> http://de.wikipedia.org/wiki/ScummVM
 
