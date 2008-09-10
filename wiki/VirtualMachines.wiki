@@ -1,13 +1,13 @@
 [MultimediaResources << Multimedia Resources]
 
-==1. VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS==
+==1.1 VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS==
  * [[http://en.wikipedia.org/wiki/Virtual_machine]]
  * [[http://en.wikipedia.org/wiki/Runtime_environment]]
  * [[http://www.devmatic-it.com/article_en.jsf?article=process_vm]]
  * [[http://de.wikipedia.org/wiki/Virtuelle_Maschine]]
  * [[http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples]]
 
-===1.1 General/Desktop===
+===1.1.1 General/Desktop===
 
 ==== JVM====
  * [[http://en.wikipedia.org/wiki/Java_Virtual_Machine]]
@@ -53,7 +53,7 @@
 ==== Flash Player====
 ==== Shockwave (Shockwave Projectors)====
 
-===1.2 Browser-based / RIA===
+===1.1.2 Browser-based / RIA===
 
 ==== Mozilla Prism====
 ==== Adobe AIR====
