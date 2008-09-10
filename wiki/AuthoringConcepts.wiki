@@ -16,7 +16,7 @@
  * Flash IDE
 
 ==== flowchart-based====
- * Authorware -> http://en.wikipedia.org/wiki/Macromedia_Authorware
+ * Authorware [[http://en.wikipedia.org/wiki/Macromedia_Authorware]]
  * Max/MSP (graphical development environment for music and multimedia)
  * Pd (Pure Data)
  * Reaktor
@@ -25,7 +25,7 @@
  * !DirectShow + !GraphEdit
 
 ==== icon-based====
- * mTropolis -> http://en.wikipedia.org/wiki/MTropolis
+ * mTropolis [[http://en.wikipedia.org/wiki/MTropolis]]
 
 ==== others====
- * iShell/Apple Media Tool -> http://en.wikipedia.org/wiki/Ishell
+ * iShell/Apple Media Tool [[http://en.wikipedia.org/wiki/Ishell]]
