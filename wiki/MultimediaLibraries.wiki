@@ -1,0 +1,75 @@
+===5. CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs===
+
+====GENERAL MULTIMEDIA====
+ * Simple !DirectMedia Layer (SDL) [[http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer]]
+ * Simple and Fast Multimedia Library (SFML) -> http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
+ * Allegro -> http://en.wikipedia.org/wiki/Allegro_library
+ * !DirectX
+ * !OpenGL
+ * !Troll2D
+
+====AUDIO ONLY====
+ * !PortMusic (!PortAudio, !PortMidi)
+ * Audiere
+ * libsndfile
+ * Vorbis/Tremor
+ * lame
+ * libavformat + libavcodec (ffmpeg)
+ * OpenAL
+ * open source container formats: Ogg, !WavPack (container format and codec), Musepack (container format and codec)
+ * open source (patent free) codecs (Xiph.Org, Ogg): Vorbis/Tremor, FLAC, Speex, OggPCM 
+
+====GRAPHICS ONLY====
+ * !ImageMagick (software suite for image manipulation and display)
+ * !GraphicsMagick
+ * DevIL (was: OpenIL) [[http://en.wikipedia.org/wiki/DevIL]]
+ * GD Graphics Library (library for dynamically manipulating images)
+ * Netbpm (graphics programs and a programming library)
+ * !FreeImage
+ * Libjpeg, Libpng, Libtiff
+ * !OpenJPEG (JPEG 2000)
+ * Agar 
+
+====VIDEO ONLY====
+ * libmad (MAD)
+ * libmpeg2
+ * open source container formats: Ogg/OGM, Matroska, NUT
+ * open source (patent free) codecs: Theora (Xiph.Org, Ogg), Dirac
+
+====VECTOR GRAPHICS====
+ * Librsvg
+ * Cairo [[http://en.wikipedia.org/wiki/Cairo_(graphics)]]
+
+====PDF (rendering/viewing)====
+ * Poppler
+ * !MuPDF
+ * libgnupdf
+ * Ghostscript
+
+====3D GRAPHICS APIs====
+ * [[http://en.wikipedia.org/wiki/List_of_3D_graphics_APIs]]
+
+*a) low level*
+
+ * OpenGL -> http://en.wikipedia.org/wiki/OpenGL
+ * Mesa 3D (open source implementation of OpenGL) [[http://en.wikipedia.org/wiki/Mesa_(OpenGL)]]
+
+*b) higher level*
+
+ * !OpenSceneGraph [[http://en.wikipedia.org/wiki/OpenSceneGraph]]
+ * Irrlicht Engine
+ * OGRE [[http://en.wikipedia.org/wiki/OGRE]]
+ * Quesa [[http://en.wikipedia.org/wiki/Quesa_(software)]]
+
+====OPEN SOURCE GAME ENGINES====
+ * [[http://en.wikipedia.org/wiki/Game_engine]]
+
+ * Crystal Space
+ * Irrlicht 
+ * Nebula Device
+ * Panda3D
+ * !DarkPlaces
+ * Wolfenstein 3D engine
+ * id Tech 3
+ * Spring
+ * Agar
