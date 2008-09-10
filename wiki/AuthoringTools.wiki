@@ -3,15 +3,15 @@
 ==4. EXISTING AUTHORING SYSTEMS / TOOLS==
 
  * [[http://en.wikipedia.org/wiki/Authoring_systems]]
- * -> http://de.wikipedia.org/wiki/Autorensystem
+ * [[http://de.wikipedia.org/wiki/Autorensystem]]
  * -> http://de.wikipedia.org/wiki/E-learning#Autorensysteme
  * -> http://de.wikipedia.org/wiki/Autorenwerkzeug (help authoring tool, HAT)
 
 ===4.1 CATEGORIES===
 
 ==== integrated development environment (IDE)====
- * -> http://en.wikipedia.org/wiki/Integrated_development_environment
- * -> http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
+ * [[http://en.wikipedia.org/wiki/Integrated_development_environment]]
+ * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 ==== RAD tool / visual pogramming environment====
  * -> http://en.wikipedia.org/wiki/Rapid_Application_Development
  * -> http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools
