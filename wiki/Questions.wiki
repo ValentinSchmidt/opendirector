@@ -30,6 +30,7 @@
  * use existing VM / bytecode compiler (e.g. Lua VM, Python VM, Neko VM, Flash)?
   * build (score based) IDE for/on top of !HaXe/Neko?
   * build (score based) IDE for/on top of Python?
+  * ceate flash wrapper for desktop apps (like zinc, but open source)?
  * IDE as extension of existing IDE (e.g. Eclipse)?
  
 ===4. Who?===
