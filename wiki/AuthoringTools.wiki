@@ -1,13 +1,13 @@
 [MultimediaResources << Multimedia Resources]
 
-==4. EXISTING AUTHORING SYSTEMS / TOOLS==
+==1.4 EXISTING AUTHORING SYSTEMS / TOOLS==
 
  * [[http://en.wikipedia.org/wiki/Authoring_systems]]
  * [[http://de.wikipedia.org/wiki/Autorensystem]]
  * [[http://de.wikipedia.org/wiki/E-learning#Autorensysteme]]
  * [[http://de.wikipedia.org/wiki/Autorenwerkzeug]] (help authoring tool, HAT)
 
-===4.1 CATEGORIES===
+===1.4.1 CATEGORIES===
 
 ==== integrated development environment (IDE)====
  * [[http://en.wikipedia.org/wiki/Integrated_development_environment]]
@@ -18,7 +18,7 @@
  * [[http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung]]
 ==== classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)====
 
-===4.2 MULTIMEDIA AUTHORING TOOLS===
+===1.4.2 MULTIMEDIA AUTHORING TOOLS===
  * Director
  * Authorware (discontinued)
  * !ToolBook
@@ -30,7 +30,7 @@
  * MST Workshop
  * Creator [[http://en.wikipedia.org/wiki/Creator_(software)]]
 
-===4.3 RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS===
+===1.4.3 RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS===
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 
 open source:
@@ -50,7 +50,7 @@ commercial:
  * Apple Xcode Tools (Interface Builder)
  * Adobe Flex Builder
 
-===4.4 (STANDALONE) GUI BUILDERS / GUI DESIGNERS===
+===1.4.4 (STANDALONE) GUI BUILDERS / GUI DESIGNERS===
  * [[http://en.wikipedia.org/wiki/Graphical_user_interface_builder]]
 
  * Glade [[http://en.wikipedia.org/wiki/Glade_Interface_Designer]]
@@ -60,7 +60,7 @@ commercial:
  * !AsWing !GuiBuilder [[http://www.aswing.org/]]
  * FLUID (for FLTK) [[http://en.wikipedia.org/wiki/FLUID]]
 
-===4.5 OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)===
+===1.4.5 OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)===
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 
  * SciTE [[http://en.wikipedia.org/wiki/SciTE]]
@@ -70,7 +70,7 @@ commercial:
  * !SharpDevelop [[http://en.wikipedia.org/wiki/SharpDevelop]] -> Windows Forms designer)
  * !MonoDevelop [[http://en.wikipedia.org/wiki/MonoDevelop]] -> GTK# GUI designer called "Stetic"
 
-===4.6 GUI TOOLITS / WIDGET TOOLKITS (outside browser)===
+===1.4.6 GUI TOOLITS / WIDGET TOOLKITS (outside browser)===
  * [[http://en.wikipedia.org/wiki/Widget_toolkit]]
 
  * Qt [[http://en.wikipedia.org/wiki/Qt_(toolkit)]]
@@ -86,7 +86,7 @@ commercial:
  * !AsWing (Open Source Flash ActionScript GUI framework and library)
  * Ultimate++ [[http://www.ultimatepp.org/]]
 
-===4.7 USER INTERFACE MARKUP LANGUAGES===
+===1.4.7 USER INTERFACE MARKUP LANGUAGES===
  * [[http://en.wikipedia.org/wiki/User_interface_markup_language]]
 
  * XUL [[http://en.wikipedia.org/wiki/XUL]]
@@ -94,7 +94,7 @@ commercial:
  * MXML [[http://en.wikipedia.org/wiki/MXML]]
  * !GladeXML [[http://en.wikipedia.org/wiki/Glade_Interface_Designer#GladeXML]]
 
-===4.8 CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs===
+===1.4.8 CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs===
 
 ====GENERAL MULTIMEDIA====
  * Simple !DirectMedia Layer (SDL) [[http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer]]
@@ -170,7 +170,7 @@ commercial:
  * Spring
  * Agar
 
-===4.9 OPEN MULTIMEDIA DESCRIPTION FORMATS===
+===1.4.9 OPEN MULTIMEDIA DESCRIPTION FORMATS===
 
 ====SMIL====
  * [[http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language]]
