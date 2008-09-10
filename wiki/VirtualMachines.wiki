@@ -1,5 +1,3 @@
-[OpenDirector << OpenDirector]
-
 [MultimediaResources < Multimedia Resources]
 
 ==1. VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS==
