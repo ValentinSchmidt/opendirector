@@ -29,8 +29,7 @@
 ===3. How? (Architecture, Components, Technologies, Libraries/Frameworks)===
  * use existing VM / bytecode compiler (e.g. Lua VM, Python VM or Neko VM)?
  * IDE as extension of existing IDE (e.g. Eclipse)?
- * 
-
+ 
 ===4. Who?===
  * target group
  * partners/sponsors?
