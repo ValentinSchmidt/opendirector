@@ -8,7 +8,7 @@
  * [[http://de.wikipedia.org/wiki/Autorenwerkzeug]] (help authoring tool, HAT)
 
 
-
+.
 ====CATEGORIES====
 
 =====a) integrated development environment (IDE)=====
@@ -21,7 +21,7 @@
 =====c) classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)=====
 
 
-
+.
 ====MULTIMEDIA AUTHORING TOOLS====
  * Director
  * Authorware (discontinued)
@@ -35,7 +35,7 @@
  * Creator [[http://en.wikipedia.org/wiki/Creator_(software)]]
 
 
-
+.
 ====RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS====
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 
