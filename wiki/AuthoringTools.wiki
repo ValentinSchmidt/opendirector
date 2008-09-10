@@ -1,6 +1,6 @@
 [MultimediaResources << Multimedia Resources]
 
-==4. AUTHORING SYSTEMS / AUTHORING TOOLS==
+==4. EXISTING AUTHORING SYSTEMS / TOOLS==
 
  * -> http://en.wikipedia.org/wiki/Authoring_systems
  * -> http://de.wikipedia.org/wiki/Autorensystem
