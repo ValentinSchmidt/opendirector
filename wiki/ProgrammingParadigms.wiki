@@ -4,8 +4,8 @@
 
 [[http://en.wikipedia.org/wiki/Programming_paradigm]]
 
-==== object-oriented programming (as in Smalltalk)====
-==== aspect-oriented programming (as in AspectJ)====
+====a) object-oriented programming (as in Smalltalk)====
+====b) aspect-oriented programming (as in AspectJ)====
 ==== imperative programming <--> declarative programming====
 ==== procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)====
 ==== class-based programming, compared to Prototype-based programming (within the context of object-oriented programming)====
