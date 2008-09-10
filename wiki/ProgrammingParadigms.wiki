@@ -1,6 +1,6 @@
 [MultimediaResources << Multimedia Resources]
 
-==1.2 GENERAL PROGRAMMING PARADIGMS==
+==GENERAL PROGRAMMING PARADIGMS==
 
 [[http://en.wikipedia.org/wiki/Programming_paradigm]]
 
