@@ -10,8 +10,8 @@
 ===2. What?===
  * Requirements:
   * 100% open source
-  * 100% patent free technologies
-  * modular and expandable
+  * 100% patent free technologies (for core app, plugins can deal with patented file/compression formats etc.)
+  * easily expandable, SDK for plugins
   * support both code-based and visual development
   * support procedural and object-oriented programming
   * nice to have: support visual/dataflow programming
