@@ -1,6 +1,9 @@
+[OpenDirector << home]
+[MultimediaResources << Multimedia Resources ]
+
 ==2. GENERAL PROGRAMMING PARADIGMS==
 
- * -> http://en.wikipedia.org/wiki/Programming_paradigm
+-> http://en.wikipedia.org/wiki/Programming_paradigm
 
 ==== object-oriented programming (as in Smalltalk)====
 ==== aspect-oriented programming (as in AspectJ)====
