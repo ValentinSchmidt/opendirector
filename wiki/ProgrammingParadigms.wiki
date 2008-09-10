@@ -4,15 +4,14 @@
 
 [[http://en.wikipedia.org/wiki/Programming_paradigm]]
 
-====a) object-oriented programming (as in Smalltalk)====
-====b) aspect-oriented programming (as in AspectJ)====
+====a) object-oriented programming====
+====b) aspect-oriented programming====
 ====c) imperative programming <--> declarative programming====
 ====d) procedural programming <--> functional programming (Erlang, OCaml, Haskell, Scheme, ...)====
 ====e) class-based programming <!--> prototype-based programming (within the context of object-oriented programming)====
 ====f) component-oriented programming (as in OLE)====
 ====g) event driven programming====
-====h) message passing programming <--> imperative programming====
-====i) visual programming / dataflow programming (directed graphs; "boxes and arrows")====
+====h) visual programming / dataflow programming (directed graphs; "boxes and arrows")====
  * [[http://en.wikipedia.org/wiki/Visual_programming_language]]
  * [[http://www.scienzemfn.unisa.it/vldesk/]]
  * Max/MSP, Pd, vvvv
