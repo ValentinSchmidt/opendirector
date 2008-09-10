@@ -13,12 +13,16 @@
   * OS X
   * Linux desirable
  * Components:
-  * IDE (with Timeline?)
+  * IDE
+   * with timeline/score?
+   * with asset managment
+   * with GUI builder
   * Script-Language
   * VM / Runtime Engine
-
-
+  * Extensibility (add-ons/plugins/DLLs)
+  
 ===3. How? (Architecture, Components, Technologies, Libraries/Frameworks)===
+
 
 ===4. Who?===
  * who wants to joins?
