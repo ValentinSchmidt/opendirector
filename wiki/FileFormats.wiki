@@ -6,30 +6,30 @@
  * [[http://en.wikipedia.org/wiki/Category:Free_multimedia_codecs,_containers,_and_splitters]]
  * [[http://en.wikipedia.org/wiki/Comparison_of_container_formats]]
 
-==GRAPHIC FORMATS==
+====GRAPHIC FORMATS====
  * PNG
  * JNG (JPEG compression)
  * MNG (animation)
  * APNG (animation)
 
-==AUDIO CONTAINER FORMATS==
+====AUDIO CONTAINER FORMATS====
  * Ogg [[http://en.wikipedia.org/wiki/Ogg]]
  * Wavpack [[http://en.wikipedia.org/wiki/Wavpack]]
  * FLAC [[http://en.wikipedia.org/wiki/FLAC]]
 
-==VIDEO CONTAINER FORMATS==
+====VIDEO CONTAINER FORMATS====
  * OGM [[http://en.wikipedia.org/wiki/Ogg_Media]]
  * Matroska [[http://en.wikipedia.org/wiki/Matroska]]
  * NUT [[http://en.wikipedia.org/wiki/NUT_Container]]
 
-==AUDIO CODECS==
+====AUDIO CODECS====
  * Vorbis [[http://en.wikipedia.org/wiki/Vorbis]]
  * Speex [[http://en.wikipedia.org/wiki/Speex]]
  * Musepack [[http://en.wikipedia.org/wiki/Musepack]]
  * Wavpack [[http://en.wikipedia.org/wiki/Wavpack]]
  * FLAC [[http://en.wikipedia.org/wiki/FLAC]]
 
-==VIDEO CODECS==
+====VIDEO CODECS====
  * Theora [[http://en.wikipedia.org/wiki/Theora]]
  * Dirac [[http://en.wikipedia.org/wiki/Dirac_(codec)]]
  * x264 [[http://en.wikipedia.org/wiki/Open_source_codecs_and_containers]]
