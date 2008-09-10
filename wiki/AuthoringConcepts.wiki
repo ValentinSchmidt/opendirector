@@ -1,6 +1,6 @@
 [MultimediaResources << Multimedia Resources]
 
-==3. MULTIMEDIA AUTHORING CONCEPTS==
+==1.3 MULTIMEDIA AUTHORING CONCEPTS==
 
 ==== code-based===
  * using Win API in plain C
