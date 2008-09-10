@@ -26,8 +26,8 @@
  * Components:
   * IDE
    * with timeline/score?
-   * with asset managment
-   * with GUI builder
+   * with asset managment?
+   * with GUI builder/stage?
   * Script-Language
   * VM / Runtime Engine
   * Interpreter? Byte code compiler? JIT?
