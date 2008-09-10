@@ -1,6 +1,6 @@
 [MultimediaResources << Multimedia Resources]
 
-==5. GUI TOOLITS / WIDGET TOOLKITS (outside browser)==
+==GUI TOOLITS / WIDGET TOOLKITS (outside browser)==
  * [[http://en.wikipedia.org/wiki/Widget_toolkit]]
 
  * Qt [[http://en.wikipedia.org/wiki/Qt_(toolkit)]]
