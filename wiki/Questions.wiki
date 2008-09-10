@@ -3,7 +3,20 @@
 [OpenDirector << home]
 
 ==QUESTIONS==
- * why? (why open source? why not using an existing (open source) tool? ...)
- * what? (components, features, supported platforms, ...)
- * how? (architecture, technolgies, frameworks/libraries, ...)
- * who? (how to convince others to join, ...)
+
+===1. why?===
+ * why open source? 
+ * why not using an existing (open source) tool? ...)
+
+===2. what?===
+ * components, features, supported platforms, ...
+
+===3. how?===
+ * architecture
+ * technolgies
+ * frameworks/libraries
+
+===4. who?===
+ * who wants to joins?
+ * partners/sponsors?
+ * how to convince others to join
