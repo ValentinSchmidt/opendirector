@@ -8,14 +8,18 @@
  * Why not using an existing (open source) tool?
 
 ===2. What? (Requirements, Features, Supported Platforms)===
- * Properties:
+ * Requirements:
   * 100% open source
   * 100% patent free technologies
   * modular and expandable
+  * support both code-based and visual development
+  * nice to have: support multiple authoring concepts (e.g. both score and screen/form based)
+
  * Platforms: 
   * Windows
   * OS X
   * Linux desirable
+
  * Components:
   * IDE
    * with timeline/score?
