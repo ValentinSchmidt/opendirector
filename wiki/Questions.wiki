@@ -8,6 +8,10 @@
  * Why not using an existing (open source) tool?
 
 ===2. What? (Requirements, Features, Supported Platforms)===
+ * Properties:
+  * 100% open source
+  * 100% patent free technologies
+  * modular and expandable
  * Platforms: 
   * Windows
   * OS X
@@ -18,13 +22,16 @@
    * with asset managment
    * with GUI builder
   * Script-Language
+  * Byte code compiler?
   * VM / Runtime Engine
   * Extensibility (add-ons/plugins/DLLs)
   
 ===3. How? (Architecture, Components, Technologies, Libraries/Frameworks)===
-
+ * use existing VM / bytecode compiler (e.g. Lua VM, Python VM or Neko VM)?
+ * IDE as extension of existing IDE (e.g. Eclipse)?
+ * 
 
 ===4. Who?===
- * who wants to joins?
+ * target group
  * partners/sponsors?
- * how to convince others to join?
+ * how to convince developpers to join?
