@@ -39,7 +39,7 @@
   * build (score based) IDE for/on top of Python?
   * ceate flash wrapper for desktop apps (like zinc, but open source)?
  * IDE as extension of existing IDE (e.g. Eclipse)?
- * minimal core engine, ALL media support by plugins, *or* engine that already supports most important (patent-free) image/audio/video formats (e.g. PNG, JNG, WAV, OGG, SVG, Matroska)?
+ * debatable: minimal core engine, ALL media support by plugins, *or* engine that already supports most important (patent-free) image/audio/video formats (e.g. PNG, JNG, WAV, OGG, SVG, Matroska)?
  
 ===4. Who?===
  * target group?
