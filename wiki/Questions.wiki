@@ -29,7 +29,7 @@
    * with asset managment
    * with GUI builder
   * Script-Language
-  * Byte code compiler?
+  * Interpreter? Byte code compiler? JIT?
   * VM / Runtime Engine
   * Extensibility (add-ons/plugins/DLLs)
   
