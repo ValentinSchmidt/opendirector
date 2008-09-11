@@ -78,6 +78,8 @@
   * !WebKit [[http://en.wikipedia.org/wiki/WebKit]]
 
  * other interesting open source examples/models/inspirations:
+  * OSFlash [[http://osflash.org/]]
+  * Screenweaver HX [[http://screenweaver.org/]]
   * MTASC [[http://en.wikipedia.org/wiki/MTASC]]
   * !FlashDevelop [[http://www.flashdevelop.org/]]
   * !FontForge [[http://en.wikipedia.org/wiki/FontForge]]
