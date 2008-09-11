@@ -47,7 +47,7 @@
 
 ====PDF (rendering/viewing)====
  * Poppler
- * !MuPDF
+ * MuPDF
  * libgnupdf
  * Ghostscript
 
