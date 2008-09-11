@@ -51,6 +51,10 @@
  * how to convince developers to join?
 
 ===5. What else?===
+ * Free software in general:
+  * Free Software [[http://en.wikipedia.org/wiki/Free_software]]
+  * Free Software Portal [[http://en.wikipedia.org/wiki/Portal:Free_software]]
+
  * possibly useful open source tools/components:
   * Scintilla [[http://en.wikipedia.org/wiki/Scintilla_(editing_component)]]
   * Scribus [[http://en.wikipedia.org/wiki/Scribus]]
