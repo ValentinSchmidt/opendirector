@@ -6,6 +6,7 @@
  * Simple !DirectMedia Layer (SDL) [[http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer]]
  * Simple and Fast Multimedia Library (SFML) [[http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library]]
  * Allegro [[http://en.wikipedia.org/wiki/Allegro_library]]
+ * GStreamer [[http://en.wikipedia.org/wiki/GStreamer]]
  * mediaLib [[http://en.wikipedia.org/wiki/MediaLib]]
  * OpenGL [[http://en.wikipedia.org/wiki/OpenGL]]
  * Troll2D [[http://en.wikipedia.org/wiki/Troll2D]]
