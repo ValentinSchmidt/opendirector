@@ -60,6 +60,9 @@
   * Gnash [[http://en.wikipedia.org/wiki/Gnash]]
   * VLC media player [[http://en.wikipedia.org/wiki/VLC_media_player]]
   * FFmpeg [[http://en.wikipedia.org/wiki/Ffmpeg]]
+  * Songbird [[http://en.wikipedia.org/wiki/Songbird_(software)]]
+  * Gecko [[http://en.wikipedia.org/wiki/Gecko_layout_engine]]
+  * !WebKit [[http://en.wikipedia.org/wiki/WebKit]]
 
  * other interesting open source examples/models/inspirations:
   * MTASC [[http://en.wikipedia.org/wiki/MTASC]]
