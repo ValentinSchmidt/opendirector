@@ -18,8 +18,6 @@
  * lame
  * libavformat + libavcodec (ffmpeg)
  * OpenAL
- * open source container formats: Ogg, !WavPack (container format and codec), Musepack (container format and codec)
- * open source (patent free) codecs (Xiph.Org, Ogg): Vorbis/Tremor, FLAC, Speex, OggPCM 
 
 ====GRAPHICS ONLY====
  * !ImageMagick (software suite for image manipulation and display)
