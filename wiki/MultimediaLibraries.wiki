@@ -7,8 +7,8 @@
  * Simple and Fast Multimedia Library (SFML) [[http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library]]
  * Allegro [[http://en.wikipedia.org/wiki/Allegro_library]]
  * mediaLib [[http://en.wikipedia.org/wiki/MediaLib]]
- * OpenGL
- * Troll2D
+ * OpenGL [[http://en.wikipedia.org/wiki/OpenGL]]
+ * Troll2D [[http://en.wikipedia.org/wiki/Troll2D]]
 
 ====AUDIO ONLY====
  * !PortMusic (!PortAudio, !PortMidi)
