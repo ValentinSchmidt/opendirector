@@ -26,15 +26,17 @@
 
 ====AUDIO CONTAINER FORMATS====
  * Ogg [[http://en.wikipedia.org/wiki/Ogg]]
- * Wavpack [[http://en.wikipedia.org/wiki/Wavpack]]
+ * Musepack [[http://en.wikipedia.org/wiki/Musepack]]
  * FLAC [[http://en.wikipedia.org/wiki/FLAC]]
+ * Wavpack [[http://en.wikipedia.org/wiki/Wavpack]]
 
 ====AUDIO CODECS====
- * Vorbis [[http://en.wikipedia.org/wiki/Vorbis]]
+ * Vorbis/Tremor [[http://en.wikipedia.org/wiki/Vorbis]]
+ * OggPCM [[http://en.wikipedia.org/wiki/OggPCM]]
  * Speex [[http://en.wikipedia.org/wiki/Speex]]
  * Musepack [[http://en.wikipedia.org/wiki/Musepack]]
- * Wavpack [[http://en.wikipedia.org/wiki/Wavpack]]
  * FLAC [[http://en.wikipedia.org/wiki/FLAC]]
+ * Wavpack [[http://en.wikipedia.org/wiki/Wavpack]]
 
 ====VIDEO CONTAINER FORMATS====
  * OGM [[http://en.wikipedia.org/wiki/Ogg_Media]]
