@@ -2,12 +2,6 @@
 
 ==EXISTING AUTHORING SYSTEMS / TOOLS==
 
- * [[http://en.wikipedia.org/wiki/Authoring_systems]]
- * [[http://de.wikipedia.org/wiki/Autorensystem]]
- * [[http://de.wikipedia.org/wiki/E-learning#Autorensysteme]]
- * [[http://de.wikipedia.org/wiki/Autorenwerkzeug]] (help authoring tool, HAT)
-
-
 ====CATEGORIES (NON EXCLUSIVE)====
 
 =====a) integrated development environment (IDE)=====
@@ -18,7 +12,7 @@
  * [[http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools]]
  * [[http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung]]
 =====c) classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)=====
-
+ * [[http://en.wikipedia.org/wiki/Authoring_systems#Authoring_tool]]
 
 ====MULTIMEDIA AUTHORING TOOLS====
  * Director
