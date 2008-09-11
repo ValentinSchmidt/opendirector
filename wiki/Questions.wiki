@@ -18,7 +18,7 @@
   * nice to have: support visual/dataflow programming
   * maybe: support some aspect-oriented programming?
   * pack VM/runtime engine into a self-contained executable ("projector") (unlike AIR or .NET)
-  * nice to have: allow permanent installation of VM/runtime engine and thereby distribution/execution of smaller files (like shockwave projectors, JAR files, .Net, ...)
+  * nice to have: allow permanent installation of VM/runtime engine and thereby distribution/execution of smaller files (like shockwave projectors, JAR files, .NET, ...)
   * allow both usage of high-level cross-platform (e.g. wxWidget or GTK+ toolkit) and lower-level platform-specific (e.g. shell access, !DirectShow vs. Quartz, ...) technologies/frameworks
 
  * Supported patforms: 
