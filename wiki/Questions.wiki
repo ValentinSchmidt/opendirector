@@ -18,7 +18,7 @@
   * nice to have: support visual/dataflow programming
   * maybe: support some aspect-oriented programming?
   * pack VM/runtime engine into a self-contained executable ("projector") (unlike AIR)
-  * nice to have: allow permanent installation of VM/runtime engine and therefor distribution/execution of smaller files (like shockwave projectors, JAR, .Net, ...)
+  * nice to have: allow permanent installation of VM/runtime engine and thereby distribution/execution of smaller files (like shockwave projectors, JAR files, .Net, ...)
 
  * Supported patforms: 
   * Windows
