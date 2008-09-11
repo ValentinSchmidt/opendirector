@@ -13,10 +13,10 @@
   * 100% patent free technologies (for core app, plugins can deal with patented file/compression formats etc.)
   * easily expandable, SDK for plugins
   * support both code-based and visual development
+  * nice to have: support multiple authoring concepts (e.g. both score and screen/form based)
   * support procedural and object-oriented programming
   * nice to have: support visual/dataflow programming
   * maybe: support some aspect-oriented programming?
-  * nice to have: support multiple authoring concepts (e.g. both score and screen/form based)
 
  * Supported patforms: 
   * Windows
