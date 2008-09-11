@@ -36,6 +36,7 @@
   * VM / Runtime Engine
   * Interpreter? Byte code compiler? JIT?
   * Plugin API
+  * File Format(s)
   
 ===3. How? (Architecture, Components, Technologies, Libraries/Frameworks)===
  * use existing VM / bytecode compiler (e.g. Lua VM, Python VM, Neko VM, Flash)?
