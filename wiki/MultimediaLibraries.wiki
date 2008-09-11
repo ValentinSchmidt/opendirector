@@ -7,7 +7,6 @@
  * Simple and Fast Multimedia Library (SFML) [[http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library]]
  * Allegro [[http://en.wikipedia.org/wiki/Allegro_library]]
  * mediaLib [[http://en.wikipedia.org/wiki/MediaLib]]
- * DirectX
  * OpenGL
  * Troll2D
 
