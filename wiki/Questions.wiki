@@ -33,7 +33,7 @@
   * Script-Language
   * VM / Runtime Engine
   * Interpreter? Byte code compiler? JIT?
-  * Extensibility (add-ons/plugins/DLLs)
+  * Plugin API
   
 ===3. How? (Architecture, Components, Technologies, Libraries/Frameworks)===
  * use existing VM / bytecode compiler (e.g. Lua VM, Python VM, Neko VM, Flash)?
