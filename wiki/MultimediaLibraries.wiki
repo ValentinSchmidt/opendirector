@@ -46,10 +46,10 @@
   * Pango [[http://en.wikipedia.org/wiki/Pango]]
 
 ====PDF (rendering/viewing)====
- * Poppler
+ * Poppler [[http://en.wikipedia.org/wiki/Poppler_(software)]]
  * MuPDF
- * libgnupdf
- * Ghostscript
+ * libgnupdf [[http://en.wikipedia.org/wiki/GNU_PDF]]
+ * GPL Ghostscript [[http://en.wikipedia.org/wiki/Ghostscript]]
 
 ====3D GRAPHICS APIs====
  * [[http://en.wikipedia.org/wiki/List_of_3D_graphics_APIs]]
