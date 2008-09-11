@@ -8,7 +8,7 @@
  * [[http://de.wikipedia.org/wiki/Autorenwerkzeug]] (help authoring tool, HAT)
 
 
-====CATEGORIES====
+====CATEGORIES (NON EXCLUSIVE)====
 
 =====a) integrated development environment (IDE)=====
  * [[http://en.wikipedia.org/wiki/Integrated_development_environment]]
