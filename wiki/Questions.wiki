@@ -67,3 +67,4 @@
   * Blender [[http://en.wikipedia.org/wiki/Blender_(software)]]
   * Xara Xtreme [[http://en.wikipedia.org/wiki/Xara_Xtreme]]
   * GIMP [[http://en.wikipedia.org/wiki/GIMP]]
+  * Sumatra PDF [[http://en.wikipedia.org/wiki/Sumatra_PDF]]
