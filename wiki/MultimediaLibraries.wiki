@@ -42,6 +42,10 @@
  * Librsvg
  * Cairo [[http://en.wikipedia.org/wiki/Cairo_(graphics)]]
 
+====FONT/TEXT RENDERING====
+  * !FreeType [[http://en.wikipedia.org/wiki/FreeType]]
+  * Graphite (SIL) [[http://en.wikipedia.org/wiki/Graphite_(SIL)]]
+
 ====PDF (rendering/viewing)====
  * Poppler
  * !MuPDF
