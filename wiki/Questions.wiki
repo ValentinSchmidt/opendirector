@@ -51,14 +51,15 @@
  * how to convince developers to join?
 
 ===5. What else?===
- * interesting open source examples/models/inspirations:
+ * possibly useful open source components/libraries:
+  * !FreeType [[http://en.wikipedia.org/wiki/FreeType]]
+  * Graphite (SIL) [[http://en.wikipedia.org/wiki/Graphite_(SIL)]]
+ * other interesting open source examples/models/inspirations:
   * Neko [[http://en.wikipedia.org/wiki/Neko_(programming_language)]]
   * MTASC [[http://en.wikipedia.org/wiki/MTASC]]
   * Gnash [[http://en.wikipedia.org/wiki/Gnash]]
   * Scintilla [[http://en.wikipedia.org/wiki/Scintilla_(editing_component)]]
   * FlashDevelop [[http://www.flashdevelop.org/]]
-  * !FreeType [[http://en.wikipedia.org/wiki/FreeType]]
-  * Graphite (SIL) [[http://en.wikipedia.org/wiki/Graphite_(SIL)]]
   * !FontForge [[http://en.wikipedia.org/wiki/FontForge]]
   * Blender [[http://en.wikipedia.org/wiki/Blender_(software)]]
   * Scribus [[http://en.wikipedia.org/wiki/Scribus]]
