@@ -28,6 +28,7 @@
  * Components:
   * IDE
    * with timeline/score?
+   * with screen/form management? flowchart? 
    * with asset managment?
    * with GUI builder/stage?
   * Script-Language
