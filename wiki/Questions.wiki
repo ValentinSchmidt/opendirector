@@ -51,19 +51,17 @@
  * how to convince developers to join?
 
 ===5. What else?===
- * possibly useful open source tools/components/libraries:
-  * !FreeType [[http://en.wikipedia.org/wiki/FreeType]]
-  * Graphite (SIL) [[http://en.wikipedia.org/wiki/Graphite_(SIL)]]
+ * possibly useful open source tools/components:
   * Scintilla [[http://en.wikipedia.org/wiki/Scintilla_(editing_component)]]
-
- * other interesting open source examples/models/inspirations:
-  * Neko [[http://en.wikipedia.org/wiki/Neko_(programming_language)]]
-  * MTASC [[http://en.wikipedia.org/wiki/MTASC]]
-  * Gnash [[http://en.wikipedia.org/wiki/Gnash]]
-  * FlashDevelop [[http://www.flashdevelop.org/]]
-  * !FontForge [[http://en.wikipedia.org/wiki/FontForge]]
-  * Blender [[http://en.wikipedia.org/wiki/Blender_(software)]]
   * Scribus [[http://en.wikipedia.org/wiki/Scribus]]
   * !AbiWord [[http://en.wikipedia.org/wiki/Abiword]]
   * Inkscape [[http://en.wikipedia.org/wiki/Inkscape]]
+  * Neko [[http://en.wikipedia.org/wiki/Neko_(programming_language)]]
+  * Gnash [[http://en.wikipedia.org/wiki/Gnash]]
+
+ * other interesting open source examples/models/inspirations:
+  * MTASC [[http://en.wikipedia.org/wiki/MTASC]]
+  * FlashDevelop [[http://www.flashdevelop.org/]]
+  * !FontForge [[http://en.wikipedia.org/wiki/FontForge]]
+  * Blender [[http://en.wikipedia.org/wiki/Blender_(software)]]
   * Xara Xtreme [[http://en.wikipedia.org/wiki/Xara_Xtreme]]
