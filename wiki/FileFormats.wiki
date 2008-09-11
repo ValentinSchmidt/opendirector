@@ -18,6 +18,7 @@
 ====VECTOR GRAPHIC FORMATS====
  * SVG [[http://en.wikipedia.org/wiki/SVG]]
  * EPS [[http://en.wikipedia.org/wiki/Encapsulated_PostScript]]
+ * SWF (partially open) [[http://en.wikipedia.org/wiki/SWF]]
 
 ====3D GRAPHIC FORMATS====
  * X3D [[http://en.wikipedia.org/wiki/X3D]]
