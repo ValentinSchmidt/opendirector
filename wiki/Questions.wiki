@@ -62,7 +62,7 @@
 
  * other interesting open source examples/models/inspirations:
   * MTASC [[http://en.wikipedia.org/wiki/MTASC]]
-  * FlashDevelop [[http://www.flashdevelop.org/]]
+  * !FlashDevelop [[http://www.flashdevelop.org/]]
   * !FontForge [[http://en.wikipedia.org/wiki/FontForge]]
   * Blender [[http://en.wikipedia.org/wiki/Blender_(software)]]
   * Xara Xtreme [[http://en.wikipedia.org/wiki/Xara_Xtreme]]
