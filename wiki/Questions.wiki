@@ -17,6 +17,7 @@
   * support procedural and object-oriented programming
   * nice to have: support visual/dataflow programming
   * maybe: support some aspect-oriented programming?
+  * pack runtime into a self-contained executable ("projector") (unlike AIR)
 
  * Supported patforms: 
   * Windows
