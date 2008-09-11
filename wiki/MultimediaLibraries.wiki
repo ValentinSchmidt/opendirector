@@ -27,7 +27,7 @@
  * Netbpm (graphics programs and a programming library)
  * !FreeImage
  * Libjpeg, Libpng, Libtiff
- * !OpenJPEG (JPEG 2000)
+ * OpenJPEG (JPEG 2000)
  * Agar 
 
 ====VIDEO ONLY====
