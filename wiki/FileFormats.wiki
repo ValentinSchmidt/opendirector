@@ -29,17 +29,17 @@
  * Wavpack [[http://en.wikipedia.org/wiki/Wavpack]]
  * FLAC [[http://en.wikipedia.org/wiki/FLAC]]
 
-====VIDEO CONTAINER FORMATS====
- * OGM [[http://en.wikipedia.org/wiki/Ogg_Media]]
- * Matroska [[http://en.wikipedia.org/wiki/Matroska]]
- * NUT [[http://en.wikipedia.org/wiki/NUT_Container]]
-
 ====AUDIO CODECS====
  * Vorbis [[http://en.wikipedia.org/wiki/Vorbis]]
  * Speex [[http://en.wikipedia.org/wiki/Speex]]
  * Musepack [[http://en.wikipedia.org/wiki/Musepack]]
  * Wavpack [[http://en.wikipedia.org/wiki/Wavpack]]
  * FLAC [[http://en.wikipedia.org/wiki/FLAC]]
+
+====VIDEO CONTAINER FORMATS====
+ * OGM [[http://en.wikipedia.org/wiki/Ogg_Media]]
+ * Matroska [[http://en.wikipedia.org/wiki/Matroska]]
+ * NUT [[http://en.wikipedia.org/wiki/NUT_Container]]
 
 ====VIDEO CODECS====
  * Theora [[http://en.wikipedia.org/wiki/Theora]]
