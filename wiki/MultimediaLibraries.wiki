@@ -43,6 +43,7 @@
 ====FONT/TEXT RENDERING====
   * !FreeType [[http://en.wikipedia.org/wiki/FreeType]]
   * Graphite (SIL) [[http://en.wikipedia.org/wiki/Graphite_(SIL)]]
+  * Pango [[http://en.wikipedia.org/wiki/Pango]]
 
 ====PDF (rendering/viewing)====
  * Poppler
