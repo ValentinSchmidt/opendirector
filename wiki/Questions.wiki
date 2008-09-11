@@ -43,7 +43,7 @@
     * IFF/RIFF based? (like DIR/DXR) [[http://en.wikipedia.org/wiki/Resource_Interchange_File_Format]]
     * XML based, with encoded binary data, e.g. as Base64?
     * Binary XML? [[http://en.wikipedia.org/wiki/Binary_XML]]
-    * XML + external binary files as single ZIP file, like !OpenDocument (ODF) Files (*.odt, *.odp), Office Open XML (OOXML) files or XML Paper Specification (XPS) files.
+    * XML + external binary files as single ZIP file, like !OpenDocument (ODF) Files (.odt, .odp), Office Open XML (OOXML) files or XML Paper Specification (XPS) files.
 
 ===3. How? (Architecture, Components, Technologies, Libraries/Frameworks)===
  * use existing VM / bytecode compiler (e.g. Lua VM, Python VM, Neko VM, Flash)?
