@@ -58,6 +58,7 @@
   * Inkscape [[http://en.wikipedia.org/wiki/Inkscape]]
   * Neko [[http://en.wikipedia.org/wiki/Neko_(programming_language)]]
   * Gnash [[http://en.wikipedia.org/wiki/Gnash]]
+  * VLC media player [[http://en.wikipedia.org/wiki/VLC_media_player]]
 
  * other interesting open source examples/models/inspirations:
   * MTASC [[http://en.wikipedia.org/wiki/MTASC]]
