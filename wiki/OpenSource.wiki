@@ -1,6 +1,6 @@
 [MultimediaResources << Multimedia Resources]
 
-==Free, open source and patent-free file formats and codecs==
+==Open Source Tools and Components==
 
  * Free software in general:
   * Free Software [[http://en.wikipedia.org/wiki/Free_software]]
