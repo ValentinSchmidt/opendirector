@@ -25,7 +25,6 @@ Possible Candidates:
   * Extensions/Libraries/APIs: [http://sourceforge.net/projects/luasdl/ LuaSDL], [http://luaforge.net/projects/wxlua/ wxLua]
   * GUI Builder: [http://visualwx.altervista.org/ VisualWx]
   * IDE: Eclipse, [http://lunareclipse.sourceforge.net/ LunarEclipse], [http://luaeclipse.luaforge.net/ LuaEclipse]
-
  * XUL
   * Platform/VM: XULRunner
   * Extensions/Libraries: ?
