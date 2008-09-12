@@ -19,7 +19,7 @@ Possible Candidates:
 
  * Python
   * Platform/VM: Python VM
-  * Extensions/Libraries: wxPython, !PyGame, !PythonCard
+  * Extensions/Libraries: wxPython, !PyGame, !PythonCard, !PyMedia
   * GUI Builder: wxGlade, [http://boa-constructor.sourceforge.net/ Boa Constructor], [http://visualwx.altervista.org/ VisualWx]
   * IDE: Boa Constructor, [http://en.wikipedia.org/wiki/Komodo_Edit#Komodo_Edit (Open) Komodo Edit], Eclipse, [http://en.wikipedia.org/wiki/Aptana Aptana Studio Community Edition]
 
