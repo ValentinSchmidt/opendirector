@@ -1,0 +1,3 @@
+#summary Collection of ideas and proposals
+
+[OpenDirector << home]
