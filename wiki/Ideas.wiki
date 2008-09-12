@@ -18,12 +18,12 @@ Possible Candidates:
  * Python
   * Platform/VM: Python VM
   * Extensions/Libraries: wxPython, !PyGame, !PythonCard
-  * GUI Builder: wxGlade, [http://boa-constructor.sourceforge.net/ Boa Constructor]
+  * GUI Builder: wxGlade, [http://boa-constructor.sourceforge.net/ Boa Constructor], [http://visualwx.altervista.org/ VisualWx]
   * IDE: Boa Constructor, [http://en.wikipedia.org/wiki/Komodo_Edit#Komodo_Edit (Open) Komodo Edit], Eclipse, [http://en.wikipedia.org/wiki/Aptana Aptana Studio Community Edition]
  * Lua
   * Platform/VM: Lua VM
   * Extensions/Libraries/APIs: [http://sourceforge.net/projects/luasdl/ LuaSDL], [http://luaforge.net/projects/wxlua/ wxLua]
-  * GUI Builder: ...
+  * GUI Builder: [http://visualwx.altervista.org/ VisualWx]
   * IDE: Eclipse, [http://lunareclipse.sourceforge.net/ LunarEclipse], [http://luaeclipse.luaforge.net/ LuaEclipse]
 
  * XUL
