@@ -23,8 +23,8 @@ Possible Candidates:
  * XUL
   * Platform/VM: XULRunner
   * Extensions/Libraries: ?
-  * GUI Builder: ?
-  * IDE: ?
+  * GUI Builder: [http://eclipsexul.sourceforge.net/ EclipseXUL], [http://cms.xulbooster.org/ XulBooster]
+  * IDE: Eclipse
  * Browser
   * Platform/VM: Mozilla Prism, WebKit
   * Extensions/Libraries: ?
