@@ -36,7 +36,7 @@
   * VM / Runtime Engine
   * Interpreter? Byte code compiler? JIT?
   * Plugin API
-  * File Format(s)
+  * Movie File Format(s)
    * different project/authoring and runtime formats (like FLA vs. SWF, DIR vs. DCR/DXR) *or* just a single format (plus ability to publish as EXE/App)?
    * (compiled) script files only (e.g. PY/PYD), with all media and other data as external files *or* compound format that integrates script, media and composition/configuration data?
    * in case of compound format:
@@ -44,6 +44,9 @@
     * XML based, with encoded binary data, e.g. as Base64?
     * Binary XML? [[http://en.wikipedia.org/wiki/Binary_XML]]
     * XML + external binary files as single ZIP file, like !OpenDocument (ODF) files (.odt, .odp), Office Open XML (OOXML) files or XML Paper Specification (XPS) files.
+   * Use (and extend) an extending format:
+    * SMIL [[http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language]]
+    * MPEG-4 [[http://en.wikipedia.org/wiki/MPEG-4]]
 
 ===3. How? (Architecture, Components, Technologies, Libraries/Frameworks)===
  * use existing VM / bytecode compiler (e.g. Lua VM, Python VM, Neko VM, Flash)?
