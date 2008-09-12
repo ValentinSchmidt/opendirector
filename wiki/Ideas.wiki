@@ -2,7 +2,7 @@
 
 [OpenDirector << home]
 
-1. use an existing platform and IDE, create an extension/plugin/module that meets the demands of multimedia authoring.
+ # use an existing platform and IDE, create an extension/plugin/module that meets the demands of multimedia authoring.
 
 Possible Candidates:
  * Mono + !MonoDevelop
