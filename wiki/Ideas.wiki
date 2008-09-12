@@ -7,5 +7,5 @@
 Possible Candidates:
  * Mono + !MonoDevelop
  * !HaXe/Neko + SWHX + [http://hippohx.com/ HippoHX] + !FlashDevelop
- * Python (+ wxPython + PyGame + ...) + !PythonCard? + [http://en.wikipedia.org/wiki/Komodo_Edit#Komodo_Edit (Open) Komodo Edit]
+ * Python (+ wxPython + !PyGame + ...) + !PythonCard? + [http://en.wikipedia.org/wiki/Komodo_Edit#Komodo_Edit (Open) Komodo Edit]
   
