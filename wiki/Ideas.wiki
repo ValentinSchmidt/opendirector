@@ -28,7 +28,7 @@ Possible Candidates:
  * Browser
   * Platform/VM: Mozilla Prism, !WebKit
   * Extensions/Libraries: various Browser Plugins (Flash, Shockwave, Silverlight, VLC, ...)
-  * GUI Builder: WYSIWYG HTML Editors
-  * IDE: Eclipse, Aptana, ...
+  * GUI Builder: ? (Nvu/Mozilla Composer)
+  * IDE: Eclipse, Aptana, Nvu/Mozilla Composer
 
   
