@@ -9,16 +9,16 @@ Possible Candidates:
   * Platform/VM: Mono CLI VM (CLR)
   * Extensions/Libraries: ?
   * GUI Builder:
-  * IDE: !MonoDevelop or Eclipse
+  * IDE: !MonoDevelop, Eclipse
  * !HaXe/Neko
   * Platform/VM: !NekoVM
   * Extensions/Libraries/APIs: SWHX, [http://hippohx.com/ HippoHX], !AsWing
   * GUI Builder: !AsWing GUIBuilder
-  * IDE: !FlashDevelop or Eclipse
+  * IDE: !FlashDevelop, Eclipse
  * Python
   * Platform/VM: Python VM
   * Extensions/Libraries: wxPython, !PyGame, !PythonCard?
-  * GUI Builder: !AsWing GUIBuilder
-  * IDE: [http://en.wikipedia.org/wiki/Komodo_Edit#Komodo_Edit (Open) Komodo Edit], Eclipse
+  * GUI Builder: wxGlade, [http://boa-constructor.sourceforge.net/ Boa Constructor]
+  * IDE: Boa Constructor, [http://en.wikipedia.org/wiki/Komodo_Edit#Komodo_Edit (Open) Komodo Edit], Eclipse
 
   
