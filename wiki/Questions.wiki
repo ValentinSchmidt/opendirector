@@ -88,3 +88,4 @@
   * Xara Xtreme [[http://en.wikipedia.org/wiki/Xara_Xtreme]]
   * GIMP [[http://en.wikipedia.org/wiki/GIMP]]
   * Sumatra PDF [[http://en.wikipedia.org/wiki/Sumatra_PDF]]
+  * !WinBinder [[http://winbinder.org/]] and !WinBinder Form Editor
