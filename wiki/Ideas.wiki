@@ -25,7 +25,7 @@ Possible Candidates:
 
  * Lua
   * Platform/VM: Lua VM
-  * Extensions/Libraries/APIs: [http://sourceforge.net/projects/luasdl/ LuaSDL], [http://luaforge.net/projects/wxlua/ wxLua]
+  * Extensions/Libraries/APIs: [http://sourceforge.net/projects/luasdl/ LuaSDL], [http://wxlua.sourceforge.net/ wxLua]
   * GUI Builder: [http://visualwx.altervista.org/ VisualWx]
   * IDE: Eclipse, [http://lunareclipse.sourceforge.net/ LunarEclipse], [http://luaeclipse.luaforge.net/ LuaEclipse]
 
@@ -37,7 +37,7 @@ Possible Candidates:
 
  * Browser
   * Platform/VM: Mozilla Prism, !WebKit
-  * Extensions/Libraries: various Browser Plugins, if license allows free distribution with desktop app (Flash, Shockwave, Silverlight, VLC, ...?)
+  * Extensions/Libraries: Browser Plugins?
   * GUI Builder: ? (Nvu/Mozilla Composer)
   * IDE: Eclipse, Aptana, Nvu/Mozilla Composer
 
