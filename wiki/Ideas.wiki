@@ -20,5 +20,15 @@ Possible Candidates:
   * Extensions/Libraries: wxPython, !PyGame, !PythonCard
   * GUI Builder: wxGlade, [http://boa-constructor.sourceforge.net/ Boa Constructor]
   * IDE: Boa Constructor, [http://en.wikipedia.org/wiki/Komodo_Edit#Komodo_Edit (Open) Komodo Edit], Eclipse, [http://en.wikipedia.org/wiki/Aptana Aptana Studio Community Edition]
+ * XUL
+  * Platform/VM: XULRunner
+  * Extensions/Libraries: ?
+  * GUI Builder: ?
+  * IDE: ?
+ * Browser
+  * Platform/VM: Mozilla Prism, WebKit
+  * Extensions/Libraries: ?
+  * GUI Builder: ?
+  * IDE: ?
 
   
