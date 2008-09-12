@@ -37,7 +37,7 @@ Possible Candidates:
 
  * Browser
   * Platform/VM: Mozilla Prism, !WebKit
-  * Extensions/Libraries: Existing (like Flash) or new scriptable NPAPI Browser Plugins
+  * Extensions/Libraries: existing (like Flash) or new scriptable NPAPI Browser Plugins
   * GUI Builder: ? (Nvu/Mozilla Composer)
   * IDE: Eclipse, Aptana, Nvu/Mozilla Composer
 
