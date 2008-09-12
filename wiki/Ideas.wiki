@@ -1,3 +1,10 @@
 #summary Collection of ideas and proposals
 
 [OpenDirector << home]
+
+1. use an existing platform and IDE, create an extension/plugin/module that meets the demands of multimedia authoring.
+
+Possible Candidates:
+ * Mono + MonoDevelop
+ * HaXe/Neko + SWHX + [http://hippohx.com/ HippoHX]
+  
