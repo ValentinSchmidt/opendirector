@@ -11,7 +11,7 @@ Possible Candidates:
   * GUI Builder:
   * IDE: !MonoDevelop, Eclipse
  * !HaXe/Neko
-  * Platform/VM: !NekoVM
+  * Platform/VM: NekoVM
   * Extensions/Libraries/APIs: SWHX, [http://hippohx.com/ HippoHX], !AsWing
   * GUI Builder: !AsWing GUIBuilder
   * IDE: !FlashDevelop, Eclipse
