@@ -76,6 +76,7 @@
   * Songbird [[http://en.wikipedia.org/wiki/Songbird_(software)]]
   * Gecko [[http://en.wikipedia.org/wiki/Gecko_layout_engine]]
   * !WebKit [[http://en.wikipedia.org/wiki/WebKit]]
+  * AMBULANT Open SMIL Player [[http://old-www.cwi.nl/projects/Ambulant/distPlayer.html]]
 
  * other interesting open source examples/models/inspirations:
   * OSFlash [[http://osflash.org/]]
