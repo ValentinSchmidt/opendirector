@@ -1,11 +1,11 @@
 [MultimediaResources << Multimedia Resources]
 
-==Open Source Tools and Components==
+==Free and Open Source Tools and Components==
 
  * Free software in general:
+  * F/OSS [[http://en.wikipedia.org/wiki/Free_and_open_source_software]]
   * Free Software [[http://en.wikipedia.org/wiki/Free_software]]
   * Free Software Portal [[http://en.wikipedia.org/wiki/Portal:Free_software]]
-  * F/OSS [[http://en.wikipedia.org/wiki/Free_and_open_source_software]]
 
  * possibly useful open source tools/components:
   * Scintilla [[http://en.wikipedia.org/wiki/Scintilla_(editing_component)]]
