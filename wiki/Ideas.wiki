@@ -10,26 +10,31 @@ Possible Candidates:
   * Extensions/Libraries: ?
   * GUI Builder: ?
   * IDE: !MonoDevelop, Eclipse
+
  * !HaXe/Neko
   * Platform/VM: NekoVM
   * Extensions/Libraries/APIs: SWHX, [http://hippohx.com/ HippoHX], !AsWing
   * GUI Builder: !AsWing GUIBuilder
   * IDE: !FlashDevelop, Eclipse
+
  * Python
   * Platform/VM: Python VM
   * Extensions/Libraries: wxPython, !PyGame, !PythonCard
   * GUI Builder: wxGlade, [http://boa-constructor.sourceforge.net/ Boa Constructor], [http://visualwx.altervista.org/ VisualWx]
   * IDE: Boa Constructor, [http://en.wikipedia.org/wiki/Komodo_Edit#Komodo_Edit (Open) Komodo Edit], Eclipse, [http://en.wikipedia.org/wiki/Aptana Aptana Studio Community Edition]
+
  * Lua
   * Platform/VM: Lua VM
   * Extensions/Libraries/APIs: [http://sourceforge.net/projects/luasdl/ LuaSDL], [http://luaforge.net/projects/wxlua/ wxLua]
   * GUI Builder: [http://visualwx.altervista.org/ VisualWx]
   * IDE: Eclipse, [http://lunareclipse.sourceforge.net/ LunarEclipse], [http://luaeclipse.luaforge.net/ LuaEclipse]
+
  * XUL
   * Platform/VM: XULRunner
   * Extensions/Libraries: ?
   * GUI Builder: [http://eclipsexul.sourceforge.net/ EclipseXUL], [http://cms.xulbooster.org/ XulBooster]
   * IDE: Eclipse
+
  * Browser
   * Platform/VM: Mozilla Prism, !WebKit
   * Extensions/Libraries: various Browser Plugins (Flash, Shockwave, Silverlight, VLC, ...)
