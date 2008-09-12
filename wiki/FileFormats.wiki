@@ -32,11 +32,11 @@
  * Wavpack [[http://en.wikipedia.org/wiki/Wavpack]]
 
 ====AUDIO CODECS====
- * Vorbis/Tremor [[http://en.wikipedia.org/wiki/Vorbis]]
+ * OggVorbis/Tremor [[http://en.wikipedia.org/wiki/Vorbis]]
  * OggPCM [[http://en.wikipedia.org/wiki/OggPCM]]
+ * OggFLAC [[http://en.wikipedia.org/wiki/FLAC]]
  * Speex [[http://en.wikipedia.org/wiki/Speex]]
  * Musepack [[http://en.wikipedia.org/wiki/Musepack]]
- * FLAC [[http://en.wikipedia.org/wiki/FLAC]]
  * Wavpack [[http://en.wikipedia.org/wiki/Wavpack]]
 
 ====VIDEO CONTAINER FORMATS====
