@@ -29,6 +29,6 @@ Possible Candidates:
   * Platform/VM: Mozilla Prism, WebKit
   * Extensions/Libraries: ?
   * GUI Builder: ?
-  * IDE: ?
+  * IDE: Eclipse, Aptana, ...
 
   
