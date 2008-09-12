@@ -44,7 +44,7 @@
     * XML based, with encoded binary data, e.g. as Base64?
     * Binary XML? [[http://en.wikipedia.org/wiki/Binary_XML]]
     * XML + external binary files as single ZIP file, like !OpenDocument (ODF) files (.odt, .odp), Office Open XML (OOXML) files or XML Paper Specification (XPS) files.
-   * Use (and extend) an extending format:
+   * Use (and extend) an existing (open) format:
     * SMIL [[http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language]]
     * MPEG-4 [[http://en.wikipedia.org/wiki/MPEG-4]]
 
