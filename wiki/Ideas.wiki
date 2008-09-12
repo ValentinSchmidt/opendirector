@@ -27,8 +27,8 @@ Possible Candidates:
   * IDE: Eclipse
  * Browser
   * Platform/VM: Mozilla Prism, !WebKit
-  * Extensions/Libraries: ?
-  * GUI Builder: ?
+  * Extensions/Libraries: various Browser Plugins (Flash, Shockwave, Silverlight, VLC, ...)
+  * GUI Builder: WYSIWYG HTML Editors
   * IDE: Eclipse, Aptana, ...
 
   
