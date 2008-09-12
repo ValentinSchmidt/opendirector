@@ -55,3 +55,7 @@
  * PDF [[http://en.wikipedia.org/wiki/Portable_Document_Format]]
  * !OpenDocument [[http://en.wikipedia.org/wiki/OpenDocument]]
  * CGM [[http://en.wikipedia.org/wiki/Computer_Graphics_Metafile]]
+
+====OTHER MULTIMEDIA RELATED FORMATS====
+ * SMIL [[http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language]]
+ * iXMF [[http://www.midi.org/techspecs/xmf/ixmf_art1.php]]
