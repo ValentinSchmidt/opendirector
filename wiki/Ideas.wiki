@@ -35,7 +35,7 @@ Possible Candidates:
   * GUI Builder: [http://eclipsexul.sourceforge.net/ EclipseXUL], [http://cms.xulbooster.org/ XulBooster]
   * IDE: Eclipse
 
- * Browser
+ * (Chromeless) Browser
   * Platform/VM: Mozilla Prism, !WebKit
   * Extensions/Libraries: existing (like Flash) or new scriptable NPAPI Browser Plugins
   * GUI Builder: ? (Nvu/Mozilla Composer)
