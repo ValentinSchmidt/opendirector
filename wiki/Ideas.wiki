@@ -12,7 +12,7 @@ Add a plugin/extension API, and have everything else (all multimedia authoring s
  * asset manager ("cast")
  * ...
 
-===2. reuse an existing VM and IDE===
+===reuse an existing VM and IDE===
 use an existing platform/VM and IDE, create an IDE extension/plugin that meets the demands of multimedia authoring
 
 Possible Candidates:
@@ -51,3 +51,6 @@ Possible Candidates:
   * Extensions/Libraries: existing (like Flash) or new scriptable NPAPI Browser Plugins
   * GUI Builder: ? (Nvu/Mozilla Composer)
   * IDE: Eclipse, Aptana, Nvu/Mozilla Composer
+
+===GUI Builder: define "regions"===
+have a GUI builder/form designer ("stage") that allows to define abstract "regions", independantly of specific widget/media object (like the <region> elements in the SMIL standard, or like director's sprites which allow exchanging the attached member)
