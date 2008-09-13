@@ -6,10 +6,11 @@ start with a minimalistic IDE that only consist of the core components:
  * VM / interpreter / (bytecode) compiler
  * console/message window
  * debugger
-Add a plugin/extension API, and have everything else (all multimedia authoring specific elements) as authoring plugins, maybe in the form of "wizzards" than output code and/or configuration text/xml files:
+Add a plugin/extension API, and have everything else (all multimedia authoring specific elements) as authoring plugins, maybe in the form of "wizzards" that output code and/or configuration text/xml files:
  * GUI builder/wysiwyg screen editor ("stage")
  * timeline/animation editor ("score")
  * asset manager ("cast")
+ * ...
 
 ===2. reuse an existing IDE===
 use an existing platform/VM and IDE, create an IDE extension/plugin that meets the demands of multimedia authoring
