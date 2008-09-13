@@ -6,6 +6,11 @@
  * [[http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language]]
  * [[http://www.w3.org/TR/2008/CR-SMIL3-20080115/]]
 
+====MHEG====
+ * [[http://www.mheg.org/]]
+ * [[http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol2/srd2/article2.html]]
+ * [[http://en.wikipedia.org/wiki/MHEG-5]]
+
 ====XHTML (+SVG +MathML + ...)====
  * [[http://en.wikipedia.org/wiki/XHTML]]
 
