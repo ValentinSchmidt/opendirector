@@ -1,4 +1,4 @@
-#summary Some rather unstructered list of resources for multimedia authoring, basically a list of wikipedia links.
+#summary List of resources concerning multimedia authoring, basically a list of wikipedia links.
 
 ==[VirtualMachines VirtualMachines / Runtime Environments / Software Platforms]==
 ==[ProgrammingParadigms General Programming Paradigms]==
