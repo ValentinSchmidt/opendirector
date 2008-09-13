@@ -1,5 +1,0 @@
-#summary This project aims to create an open source multimedia authoring tool.
-
-==[MultimediaResources 1. Multimedia Resources]==
-==[Questions 2. Questions]==
-==[Ideas 3. Ideas/Proposals]==
