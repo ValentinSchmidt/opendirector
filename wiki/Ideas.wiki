@@ -6,10 +6,10 @@ start with a minimalistic IDE that only consist of the core components:
  * VM / interpreter / (bytecode) compiler
  * console/message window
  * debugger
-Add a plugin API, and have everything else (all multimedia authoring specific elements) as authoring plugins (e.g. GUI builder/wysiwyg editor, timeline/animation editor, asset management, ...), maybe in the form of "wizzards" than output code and/or configuration text/xml files.
+Add a plugin/extension API, and have everything else (all multimedia authoring specific elements) as authoring plugins (e.g. GUI builder/wysiwyg editor, timeline/animation editor, asset management, ...), maybe in the form of "wizzards" than output code and/or configuration text/xml files.
 
 ===2. reuse an existing IDE===
-use an existing platform/VM and IDE, create an IDE extension/plugin/module that meets the demands of multimedia authoring
+use an existing platform/VM and IDE, create an IDE extension/plugin that meets the demands of multimedia authoring
 
 Possible Candidates:
  * Mono 
