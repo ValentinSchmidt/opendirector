@@ -1,6 +1,6 @@
 #summary Collection of ideas and proposals
 
-===1. simple IDE and plugins===
+===simple IDE and plugins===
 start with a minimalistic IDE that only consist of the core components:
  * script editor
  * VM / interpreter / (bytecode) compiler
@@ -52,5 +52,5 @@ Possible Candidates:
   * GUI Builder: ? (Nvu/Mozilla Composer)
   * IDE: Eclipse, Aptana, Nvu/Mozilla Composer
 
-===GUI Builder: define "regions"===
+===GUI Builder with abstract "regions"===
 have a GUI builder/form designer ("stage") that allows to define abstract "regions", independantly of specific widget/media object (like the <region> elements in the SMIL standard, or like director's sprites which allow exchanging the attached member)
