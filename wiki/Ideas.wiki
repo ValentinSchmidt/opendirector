@@ -39,4 +39,9 @@ Possible Candidates:
   * GUI Builder: ? (Nvu/Mozilla Composer)
   * IDE: Eclipse, Aptana, Nvu/Mozilla Composer
 
-  
+===2. start with a minimalistic IDE that only consist of the core components:
+ * scripteditor
+ * VM/interpreter/(bytecode) compiler
+ * console/message window
+ * debugger
+Add a plugin API, and have everything else (all multimedia authoring specific elements) as authoring plugins (e.g. GUI builder/wysiwyg editor, timeline/animation editor, asset management, ...), maybe in the form of "wizzards" than output code and/or configuration text/xml files.
