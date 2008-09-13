@@ -2,7 +2,7 @@
 
 ===1. simple IDE and plugins===
 start with a minimalistic IDE that only consist of the core components:
- * scripteditor
+ * script editor
  * VM / interpreter / (bytecode) compiler
  * console/message window
  * debugger
