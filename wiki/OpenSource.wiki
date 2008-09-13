@@ -23,7 +23,7 @@
   * OpenFrameworks [[http://en.wikipedia.org/wiki/OpenFrameworks]]
   * Processing [[http://en.wikipedia.org/wiki/Processing_(programming_language)]]
   * Processing.js [[http://ejohn.org/blog/processingjs/]]
-  * NodeBox [[http://en.wikipedia.org/wiki/NodeBox]]
+  * !NodeBox [[http://en.wikipedia.org/wiki/NodeBox]]
 
  * other interesting open source examples/models/inspirations:
   * OSFlash [[http://osflash.org/]]
