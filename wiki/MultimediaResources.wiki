@@ -1,7 +1,5 @@
 #summary Some rather unstructered list of resources for multimedia authoring, basically a list of wikipedia links.
 
-[OpenDirector << OpenDirector]
-
 ==[VirtualMachines VirtualMachines / Runtime Environments / Software Platforms]==
 ==[ProgrammingParadigms General Programming Paradigms]==
 ==[AuthoringConcepts Multimedia Authoring Concepts]==
