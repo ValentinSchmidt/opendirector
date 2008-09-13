@@ -12,7 +12,7 @@ Add a plugin/extension API, and have everything else (all multimedia authoring s
  * asset manager ("cast")
  * ...
 
-===2. reuse an existing IDE===
+===2. reuse an existing VM and IDE===
 use an existing platform/VM and IDE, create an IDE extension/plugin that meets the demands of multimedia authoring
 
 Possible Candidates:
