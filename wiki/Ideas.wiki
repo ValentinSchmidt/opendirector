@@ -53,4 +53,4 @@ Possible Candidates:
   * IDE: Eclipse, Aptana, Nvu/Mozilla Composer
 
 ===GUI Builder with abstract "regions"===
-have a GUI builder/form designer ("stage") that allows to define abstract "regions", independantly of specific widget/media object (like the <region> elements in the SMIL standard, or like director's sprites which allow exchanging the attached member)
+have a GUI builder/form designer ("stage") that allows to define abstract "regions", independantly of specific widgets/media objects (like the <region> elements in the SMIL standard, or like director's sprites which allow exchanging the attached member)
