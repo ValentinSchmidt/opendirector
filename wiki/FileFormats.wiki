@@ -52,7 +52,7 @@
  * FFmpeg/libavcodec codecs (MPEG-1, MPEG-2, MPEG-4 part 2, MSMPEG-4, H.264, ...) [[http://en.wikipedia.org/wiki/FFmpeg]]
 
 ====TEXT/DOCUMENT/META FORMATS====
- * RTF[[http://en.wikipedia.org/wiki/Rich_Text_Format]]
+ * RTF [[http://en.wikipedia.org/wiki/Rich_Text_Format]]
  * !OpenDocument [[http://en.wikipedia.org/wiki/OpenDocument]]
  * PDF [[http://en.wikipedia.org/wiki/Portable_Document_Format]]
  * CGM [[http://en.wikipedia.org/wiki/Computer_Graphics_Metafile]]
