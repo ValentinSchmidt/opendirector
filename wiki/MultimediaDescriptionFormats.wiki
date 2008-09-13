@@ -11,6 +11,9 @@
  * [[http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol2/srd2/article2.html]]
  * [[http://en.wikipedia.org/wiki/MHEG-5]]
 
+====XMT====
+ * [[http://en.wikipedia.org/wiki/XMT]]
+
 ====XHTML (+SVG +MathML + ...)====
  * [[http://en.wikipedia.org/wiki/XHTML]]
 
