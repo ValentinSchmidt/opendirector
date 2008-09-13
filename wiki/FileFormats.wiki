@@ -58,4 +58,6 @@
 
 ====OTHER MULTIMEDIA RELATED FORMATS====
  * SMIL [[http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language]]
+ * MPEG-4 Part 14 (MP4) [[http://en.wikipedia.org/wiki/MPEG-4_Part_14]]
+ * MPEG-4 XMT [[http://en.wikipedia.org/wiki/XMT]]
  * iXMF [[http://www.midi.org/techspecs/xmf/ixmf_art1.php]]
