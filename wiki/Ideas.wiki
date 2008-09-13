@@ -1,7 +1,5 @@
 #summary Collection of ideas and proposals
 
-[OpenDirector << home]
-
 ===1. use an existing platform/VM and IDE, create an IDE extension/plugin/module that meets the demands of multimedia authoring===
 
 Possible Candidates:
