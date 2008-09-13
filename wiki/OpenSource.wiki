@@ -20,6 +20,10 @@
   * Gecko [[http://en.wikipedia.org/wiki/Gecko_layout_engine]]
   * !WebKit [[http://en.wikipedia.org/wiki/WebKit]]
   * AMBULANT Open SMIL Player [[http://old-www.cwi.nl/projects/Ambulant/distPlayer.html]]
+  * OpenFrameworks [[http://en.wikipedia.org/wiki/OpenFrameworks]]
+  * Processing [[http://en.wikipedia.org/wiki/Processing_(programming_language)]]
+  * Processing.js [[http://ejohn.org/blog/processingjs/]]
+  * NodeBox [[http://en.wikipedia.org/wiki/NodeBox]]
 
  * other interesting open source examples/models/inspirations:
   * OSFlash [[http://osflash.org/]]
