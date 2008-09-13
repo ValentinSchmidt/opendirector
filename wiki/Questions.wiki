@@ -1,7 +1,5 @@
 #summary Some questions
 
-[OpenDirector << home]
-
 ===1. Why?===
  * What's wrong with existing tools?
  * Why open source? 
