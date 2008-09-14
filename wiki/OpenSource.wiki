@@ -24,6 +24,7 @@
   * Processing [[http://en.wikipedia.org/wiki/Processing_(programming_language)]]
   * Processing.js [[http://ejohn.org/blog/processingjs/]]
   * !NodeBox [[http://en.wikipedia.org/wiki/NodeBox]]
+  * Context Free[[http://www.contextfreeart.org/index.html]]
 
  * other interesting open source examples/models/inspirations:
   * OSFlash [[http://osflash.org/]]
