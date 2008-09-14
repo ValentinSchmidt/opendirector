@@ -14,7 +14,8 @@
 ====XMT====
  * [[http://en.wikipedia.org/wiki/XMT]]
 
-====XHTML (+SVG +MathML + ...)====
+====XHTML(5) (+SVG +MathML + ...)====
  * [[http://en.wikipedia.org/wiki/XHTML]]
+ * [[http://en.wikipedia.org/wiki/HTML5]]
 
 ==== ... ? ====
