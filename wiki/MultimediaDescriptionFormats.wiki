@@ -14,8 +14,17 @@
 ====XMT====
  * [[http://en.wikipedia.org/wiki/XMT]]
 
-====XHTML(5) (+SVG +MathML + ...)====
+====XHTML (+ SVG + MathML + ...)====
  * [[http://en.wikipedia.org/wiki/XHTML]]
+
+====(X)HTML5 (<canvas>, <audio>, <video>, ...) 
  * [[http://en.wikipedia.org/wiki/HTML5]]
+ * Features:
+  * Immediate-mode 2D drawing
+  * Timed media playback
+  * Offline
+  * Editing
+  * Drag and drop
+  * ...
 
 ==== ... ? ====
