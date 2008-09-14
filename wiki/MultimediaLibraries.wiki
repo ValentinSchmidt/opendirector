@@ -30,6 +30,7 @@
  * Libjpeg, Libpng, Libtiff
  * OpenJPEG (JPEG 2000)
  * Agar 
+ * Anti-Grain Geometry (AGG) [[http://www.antigrain.com/about/index.html]]
 
 ====VIDEO ONLY====
  * libmad (MAD)
