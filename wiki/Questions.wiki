@@ -1,4 +1,4 @@
-#summary Some questions
+#summary Some guiding questions
 
 ===1. Why?===
  * What's wrong with existing tools?
