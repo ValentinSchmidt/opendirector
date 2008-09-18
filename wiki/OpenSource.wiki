@@ -8,6 +8,8 @@
   * Free Software Portal [[http://en.wikipedia.org/wiki/Portal:Free_software]]
 
  * possibly useful open source tools/components:
+  * Eclipse [[http://en.wikipedia.org/wiki/Eclipse_(software)]]
+  * !NetBeans IDE [[http://en.wikipedia.org/wiki/NetBeans]]
   * Scintilla [[http://en.wikipedia.org/wiki/Scintilla_(editing_component)]]
   * Scribus [[http://en.wikipedia.org/wiki/Scribus]]
   * !AbiWord [[http://en.wikipedia.org/wiki/Abiword]]
