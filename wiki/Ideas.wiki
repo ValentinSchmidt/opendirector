@@ -55,7 +55,7 @@ Possible Candidates:
  * JavaFX
   * Platform/VM: JavaFX runtime
   * Extensions/Libraries: ???
-  * GUI Builder: Netbeans GUI Builder, custom Netbeans plugins
+  * GUI Builder: !NetBeans GUI Builder, custom !NetBeans plugins
   * IDE: !NetBeans IDE
 
 ===GUI Builder with abstract "regions"===
