@@ -1,0 +1,11 @@
+ * 100% free and open source
+ * 100% patent free technologies (for core app, plugins can deal with patented file/compression formats etc.)
+ * easily expandable, SDK for plugins
+ * support both code-based and visual development
+ * nice to have: support multiple authoring concepts (e.g. both score and screen/form based)
+ * support procedural and object-oriented programming
+ * nice to have: support visual/dataflow programming
+ * maybe: support some aspect-oriented programming?
+ * pack VM/runtime engine into a self-contained executable ("projector") (unlike AIR or .NET)
+ * nice to have: allow permanent installation of VM/runtime engine and thereby distribution/execution of smaller files (like shockwave projectors, JAR files, .NET, ...)
+ * allow both usage of high-level cross-platform (e.g. wxWidget or GTK+ toolkit) and lower-level platform-specific (e.g. shell access, !DirectShow vs. Quartz, ...) technologies/frameworks
