@@ -1,7 +1,5 @@
 #summary Some guiding questions
 
-#===1. Why?===
-
  * 100% free and open source
  * 100% patent free technologies (for core app, plugins can deal with patented file/compression formats etc.)
  * easily expandable, SDK for plugins
