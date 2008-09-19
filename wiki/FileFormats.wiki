@@ -15,7 +15,7 @@
  * APNG [[http://en.wikipedia.org/wiki/APNG]]
  * MNG [[http://en.wikipedia.org/wiki/Multiple-image_Network_Graphics]]
 
-====VECTOR GRAPHIC FORMATS====
+====VECTOR GRAPHIC (AND ANIMATION) FORMATS====
  * SVG [[http://en.wikipedia.org/wiki/SVG]]
  * EPS [[http://en.wikipedia.org/wiki/Encapsulated_PostScript]]
  * SWF (partially open) [[http://en.wikipedia.org/wiki/SWF]]
