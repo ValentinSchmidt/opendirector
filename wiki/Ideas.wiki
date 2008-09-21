@@ -52,6 +52,12 @@ Possible Candidates:
   * GUI Builder: ? (Nvu/Mozilla Composer)
   * IDE: Eclipse, Aptana, Nvu/Mozilla Composer
 
+ * Java
+  * Platform/VM: Java runtime (JRE), [http://java.sun.com/developer/technicalArticles/javase/java6u10/ Java Kernel]
+  * Extensions/Libraries: JavaFX, AWT, Swing, OpenSwing, SWT, Eclipse Rich Client Platform (RCP)
+  * GUI Builder: !NetBeans GUI Builder (Matisse)
+  * IDE: !NetBeans IDE, Eclipse, custom Editor built with Open.XDEV Application Framework 
+
  * JavaFX
   * Platform/VM: JavaFX runtime
   * Extensions/Libraries: ???
