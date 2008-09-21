@@ -54,15 +54,9 @@ Possible Candidates:
 
  * Java
   * Platform/VM: Java runtime (JRE), [http://java.sun.com/developer/technicalArticles/javase/java6u10/ Java Kernel]
-  * Extensions/Libraries: JavaFX, AWT, Swing, OpenSwing, SWT, Eclipse Rich Client Platform (RCP)
+  * Extensions/Libraries: JavaFX, AWT, Swing, !OpenSwing, SWT, Eclipse Rich Client Platform (RCP)
   * GUI Builder: !NetBeans GUI Builder (Matisse)
   * IDE: !NetBeans IDE, Eclipse, custom Editor built with Open.XDEV Application Framework 
-
- * JavaFX
-  * Platform/VM: JavaFX runtime
-  * Extensions/Libraries: ???
-  * GUI Builder: !NetBeans GUI Builder, custom !NetBeans plugins
-  * IDE: !NetBeans IDE
 
 ===GUI Builder with abstract "regions"===
 have a GUI builder/form designer ("stage") that allows to define abstract "regions", independantly of specific widgets/media objects (like the <region> elements in the SMIL standard, or like director's sprites which allow exchanging the attached member)
