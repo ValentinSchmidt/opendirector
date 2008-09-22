@@ -19,7 +19,7 @@ Possible Candidates:
  * Mono 
   * Platform/VM: Mono CLI VM (CLR)
   * Extensions/Libraries: ?
-  * GUI Builder: ?
+  * GUI Builder: MonoDevelop GUI designer
   * IDE: !MonoDevelop, Eclipse
 
  * !HaXe/Neko
