@@ -5,7 +5,7 @@
 ====CATEGORIES (NON EXCLUSIVE)====
 
 =====a) integrated development environment (IDE)=====
- * [[http://en.wikipedia.org/wiki/Integrated_development_environment]]
+ * http://en.wikipedia.org/wiki/Integrated_development_environment
  * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
 =====b) RAD tool / visual pogramming environment=====
  * [[http://en.wikipedia.org/wiki/Rapid_Application_Development]]
