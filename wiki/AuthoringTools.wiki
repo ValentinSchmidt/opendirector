@@ -19,7 +19,7 @@
  * Authorware (discontinued)
  * !ToolBook
  * mTropolis (discontinued)
- * Apple Media Tool (discontinued) (http://en.wikipedia.org/wiki/Apple_Media_Tool)
+ * Apple Media Tool (discontinued) http://en.wikipedia.org/wiki/Apple_Media_Tool
  * iShell (http://en.wikipedia.org/wiki/IShell)
  * !HyperCard (discontinued) / !SuperCard / !MetaCard / Runtime Revolution
  * !LiveStage Pro
@@ -32,15 +32,15 @@
  * http://en.wikipedia.org/wiki/Integrated_development_environment
  * http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
 =====a) open source:=====
- * Lazarus ->http://en.wikipedia.org/wiki/Lazarus_(software)
+ * Lazarus http://en.wikipedia.org/wiki/Lazarus_(software)
  * wxDev-C++
  * Code::Blocks
  * !MonoDevelop
  * !SharpDevelop
 =====b) commercial:=====
- * Microsoft Visual Studio, especially !VisualBasic (http://en.wikipedia.org/wiki/Visual_Basic)
- * REALbasic (http://en.wikipedia.org/wiki/REALbasic) -> IDE with graphical GUI builder
- * Runtime Revolution (http://en.wikipedia.org/wiki/Runtime_Revolution)
+ * Microsoft Visual Studio, especially !VisualBasic http://en.wikipedia.org/wiki/Visual_Basic
+ * REALbasic http://en.wikipedia.org/wiki/REALbasic -> IDE with graphical GUI builder
+ * Runtime Revolution http://en.wikipedia.org/wiki/Runtime_Revolution
  * !CodeGear Delphi
  * !CodeGear C++Builder
  * !CodeGear Delphi for PHP
@@ -51,21 +51,21 @@
 ====(STANDALONE) GUI BUILDERS / GUI DESIGNERS====
  * http://en.wikipedia.org/wiki/Graphical_user_interface_builder
 
- * Glade (http://en.wikipedia.org/wiki/Glade_Interface_Designer)
- * wxGlade (http://en.wikipedia.org/wiki/WxGlade)
- * wxDesigner (http://www.roebling.de/)
+ * Glade http://en.wikipedia.org/wiki/Glade_Interface_Designer
+ * wxGlade http://en.wikipedia.org/wiki/WxGlade
+ * wxDesigner http://www.roebling.de/
  * Qt Designer
- * !AsWing !GuiBuilder (http://www.aswing.org/)
- * FLUID (for FLTK) (http://en.wikipedia.org/wiki/FLUID)
+ * !AsWing !GuiBuilder http://www.aswing.org/
+ * FLUID (for FLTK) http://en.wikipedia.org/wiki/FLUID
 
 
 ====OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS)====
  * http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
 
- * SciTE (http://en.wikipedia.org/wiki/SciTE)
- * SEPY (http://www.sephiroth.it/python/sepy.php)
- * !FlashDevelop (http://www.flashdevelop.org/)
- * Eclipse (http://en.wikipedia.org/wiki/Eclipse_(software))
- * !SharpDevelop (http://en.wikipedia.org/wiki/SharpDevelop) -> Windows Forms designer)
- * !MonoDevelop (http://en.wikipedia.org/wiki/MonoDevelop) -> GTK# GUI designer called "Stetic"
- * Crimson Editor (http://www.crimsoneditor.com/)
+ * SciTE http://en.wikipedia.org/wiki/SciTE
+ * SEPY http://www.sephiroth.it/python/sepy.php
+ * !FlashDevelop http://www.flashdevelop.org/
+ * Eclipse http://en.wikipedia.org/wiki/Eclipse_(software)
+ * !SharpDevelop http://en.wikipedia.org/wiki/SharpDevelop -> Windows Forms designer
+ * !MonoDevelop http://en.wikipedia.org/wiki/MonoDevelop -> GTK# GUI designer called "Stetic"
+ * Crimson Editor http://www.crimsoneditor.com/
