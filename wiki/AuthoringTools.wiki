@@ -32,14 +32,14 @@
  * http://en.wikipedia.org/wiki/Integrated_development_environment
  * http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
 =====a) open source:=====
- * Lazarus http://en.wikipedia.org/wiki/Lazarus_(software)
+ * Lazarus (http://en.wikipedia.org/wiki/Lazarus_(software))
  * wxDev-C++
  * Code::Blocks
  * !MonoDevelop
  * !SharpDevelop
 =====b) commercial:=====
  * Microsoft Visual Studio, especially !VisualBasic (http://en.wikipedia.org/wiki/Visual_Basic)
- * REALbasic http://en.wikipedia.org/wiki/REALbasic -> IDE with graphical GUI builder
+ * REALbasic (http://en.wikipedia.org/wiki/REALbasic) -> IDE with graphical GUI builder
  * Runtime Revolution (http://en.wikipedia.org/wiki/Runtime_Revolution)
  * !CodeGear Delphi
  * !CodeGear C++Builder
