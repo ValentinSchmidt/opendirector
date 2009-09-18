@@ -38,8 +38,8 @@
  * !MonoDevelop
  * !SharpDevelop
 =====b) commercial:=====
- * Microsoft Visual Studio, especially VisualBasic http://en.wikipedia.org/wiki/Visual_Basic
- * REALbasic [[http://en.wikipedia.org/wiki/REALbasic]] -> IDE with graphical GUI builder
+ * Microsoft Visual Studio, especially !VisualBasic http://en.wikipedia.org/wiki/Visual_Basic
+ * REALbasic http://en.wikipedia.org/wiki/REALbasic -> IDE with graphical GUI builder
  * Runtime Revolution http://en.wikipedia.org/wiki/Runtime_Revolution
  * !CodeGear Delphi
  * !CodeGear C++Builder
