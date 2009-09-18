@@ -6,13 +6,13 @@
 
 =====a) integrated development environment (IDE)=====
  * http://en.wikipedia.org/wiki/Integrated_development_environment
- * [[http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments]]
+ * http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
 =====b) RAD tool / visual pogramming environment=====
- * [[http://en.wikipedia.org/wiki/Rapid_Application_Development]]
- * [[http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools]]
- * [[http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung]]
+ * http://en.wikipedia.org/wiki/Rapid_Application_Development
+ * http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools
+ * http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung
 =====c) classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook)=====
- * [[http://en.wikipedia.org/wiki/Authoring_systems#Authoring_tool]]
+ * http://en.wikipedia.org/wiki/Authoring_systems#Authoring_tool
 
 ====MULTIMEDIA AUTHORING TOOLS====
  * Director
