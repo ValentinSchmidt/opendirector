@@ -32,7 +32,7 @@
  * http://en.wikipedia.org/wiki/Integrated_development_environment
  * http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
 =====a) open source:=====
- * Lazarus (http://en.wikipedia.org/wiki/Lazarus_(software))
+ * Lazarus ->http://en.wikipedia.org/wiki/Lazarus_(software)
  * wxDev-C++
  * Code::Blocks
  * !MonoDevelop
