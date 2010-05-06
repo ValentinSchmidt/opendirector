@@ -1,17 +1,17 @@
 [MultimediaResources << Multimedia Resources]
 
 ==GUI TOOLITS / WIDGET TOOLKITS (outside browser)==
- * [[http://en.wikipedia.org/wiki/Widget_toolkit]]
+ * http://en.wikipedia.org/wiki/Widget_toolkit
 
- * Qt [[http://en.wikipedia.org/wiki/Qt_(toolkit)]]
- * wxWidgets [[http://en.wikipedia.org/wiki/WxWidgets]]
- * GTK+ [[http://en.wikipedia.org/wiki/GTK%2B]]
- * Tk [[http://en.wikipedia.org/wiki/Tk_(computing)]]
- * FLTK [[http://en.wikipedia.org/wiki/FLTK]]
- * Agar-GUI (part of Agar) [[http://en.wikipedia.org/wiki/Agar_(software)]]
- * Juce [[http://www.rawmaterialsoftware.com/juce/]]
- * fpGUI (Free Pascal GUI toolkit) [[http://en.wikipedia.org/wiki/FpGUI]]
- * FOX toolkit [[http://en.wikipedia.org/wiki/FOX_toolkit]]
+ * Qt http://en.wikipedia.org/wiki/Qt_(toolkit)
+ * wxWidgets http://en.wikipedia.org/wiki/WxWidgets
+ * GTK+ http://en.wikipedia.org/wiki/GTK%2B
+ * Tk http://en.wikipedia.org/wiki/Tk_(computing)
+ * FLTK http://en.wikipedia.org/wiki/FLTK
+ * Agar-GUI (part of Agar) http://en.wikipedia.org/wiki/Agar_(software)
+ * Juce http://www.rawmaterialsoftware.com/juce/
+ * fpGUI (Free Pascal GUI toolkit) http://en.wikipedia.org/wiki/FpGUI
+ * FOX toolkit http://en.wikipedia.org/wiki/FOX_toolkit
  * Adobe Flash / Flex (in browser / flash player/ AIR)
  * !AsWing (Open Source Flash ActionScript GUI framework and library)
- * Ultimate++ [[http://www.ultimatepp.org/]]
+ * Ultimate++ http://www.ultimatepp.org/
