@@ -3,40 +3,40 @@
 ==Free and Open Source Tools and Components==
 
  * Free software in general:
-  * F/OSS [[http://en.wikipedia.org/wiki/Free_and_open_source_software]]
-  * Free Software [[http://en.wikipedia.org/wiki/Free_software]]
-  * Free Software Portal [[http://en.wikipedia.org/wiki/Portal:Free_software]]
+  * F/OSS http://en.wikipedia.org/wiki/Free_and_open_source_software
+  * Free Software http://en.wikipedia.org/wiki/Free_software
+  * Free Software Portal http://en.wikipedia.org/wiki/Portal:Free_software
 
  * possibly useful open source tools/components:
-  * Eclipse [[http://en.wikipedia.org/wiki/Eclipse_(software)]]
-  * !NetBeans IDE [[http://en.wikipedia.org/wiki/NetBeans]]
-  * Scintilla [[http://en.wikipedia.org/wiki/Scintilla_(editing_component)]]
-  * Scribus [[http://en.wikipedia.org/wiki/Scribus]]
-  * !AbiWord [[http://en.wikipedia.org/wiki/Abiword]]
-  * Inkscape [[http://en.wikipedia.org/wiki/Inkscape]]
-  * Neko [[http://en.wikipedia.org/wiki/Neko_(programming_language)]]
-  * Gnash [[http://en.wikipedia.org/wiki/Gnash]]
-  * VLC media player [[http://en.wikipedia.org/wiki/VLC_media_player]]
-  * FFmpeg [[http://en.wikipedia.org/wiki/Ffmpeg]]
-  * Songbird [[http://en.wikipedia.org/wiki/Songbird_(software)]]
-  * Gecko [[http://en.wikipedia.org/wiki/Gecko_layout_engine]]
-  * !WebKit [[http://en.wikipedia.org/wiki/WebKit]]
-  * AMBULANT Open SMIL Player [[http://old-www.cwi.nl/projects/Ambulant/distPlayer.html]]
-  * !OpenFrameworks [[http://en.wikipedia.org/wiki/OpenFrameworks]]
-  * Processing [[http://en.wikipedia.org/wiki/Processing_(programming_language)]]
-  * Processing.js [[http://ejohn.org/blog/processingjs/]]
-  * !NodeBox [[http://en.wikipedia.org/wiki/NodeBox]]
-  * Context Free [[http://www.contextfreeart.org/index.html]]
+  * Eclipse http://en.wikipedia.org/wiki/Eclipse_(software)
+  * !NetBeans IDE http://en.wikipedia.org/wiki/NetBeans
+  * Scintilla http://en.wikipedia.org/wiki/Scintilla_(editing_component)
+  * Scribus http://en.wikipedia.org/wiki/Scribus
+  * !AbiWord http://en.wikipedia.org/wiki/Abiword
+  * Inkscape http://en.wikipedia.org/wiki/Inkscape
+  * Neko http://en.wikipedia.org/wiki/Neko_(programming_language)
+  * Gnash http://en.wikipedia.org/wiki/Gnash
+  * VLC media player http://en.wikipedia.org/wiki/VLC_media_player
+  * FFmpeg http://en.wikipedia.org/wiki/Ffmpeg
+  * Songbird http://en.wikipedia.org/wiki/Songbird_(software)
+  * Gecko http://en.wikipedia.org/wiki/Gecko_layout_engine
+  * !WebKit http://en.wikipedia.org/wiki/WebKit
+  * AMBULANT Open SMIL Player http://old-www.cwi.nl/projects/Ambulant/distPlayer.html
+  * !OpenFrameworks http://en.wikipedia.org/wiki/OpenFrameworks
+  * Processing http://en.wikipedia.org/wiki/Processing_(programming_language)
+  * Processing.js http://ejohn.org/blog/processingjs/
+  * !NodeBox http://en.wikipedia.org/wiki/NodeBox
+  * Context Free http://www.contextfreeart.org/index.html
 
  * other interesting open source examples/models/inspirations:
-  * OSFlash [[http://osflash.org/]]
-  * Screenweaver HX [[http://screenweaver.org/]]
-  * HippoHX [[http://hippohx.com/]]
-  * MTASC [[http://en.wikipedia.org/wiki/MTASC]]
-  * !FlashDevelop [[http://www.flashdevelop.org/]]
-  * !FontForge [[http://en.wikipedia.org/wiki/FontForge]]
-  * Blender [[http://en.wikipedia.org/wiki/Blender_(software)]]
-  * Xara Xtreme [[http://en.wikipedia.org/wiki/Xara_Xtreme]]
-  * GIMP [[http://en.wikipedia.org/wiki/GIMP]]
-  * Sumatra PDF [[http://en.wikipedia.org/wiki/Sumatra_PDF]]
-  * !WinBinder [[http://winbinder.org/]] and !WinBinder Form Editor
+  * OSFlash http://osflash.org/
+  * Screenweaver HX http://screenweaver.org/
+  * HippoHX http://hippohx.com/
+  * MTASC http://en.wikipedia.org/wiki/MTASC
+  * !FlashDevelop http://www.flashdevelop.org/
+  * !FontForge http://en.wikipedia.org/wiki/FontForge
+  * Blender http://en.wikipedia.org/wiki/Blender_(software)
+  * Xara Xtreme http://en.wikipedia.org/wiki/Xara_Xtreme
+  * GIMP http://en.wikipedia.org/wiki/GIMP
+  * Sumatra PDF http://en.wikipedia.org/wiki/Sumatra_PDF
+  * !WinBinder http://winbinder.org/ and !WinBinder Form Editor
