@@ -1,54 +1,54 @@
 [MultimediaResources << Multimedia Resources]
 
 ==VMs / RUNTIME ENVIRONMENTS / SOFTWARE PLATFORMS==
- * [[http://en.wikipedia.org/wiki/Virtual_machine]]
- * [[http://en.wikipedia.org/wiki/Runtime_environment]]
- * [[http://www.devmatic-it.com/article_en.jsf?article=process_vm]]
- * [[http://de.wikipedia.org/wiki/Virtuelle_Maschine]]
- * [[http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples]]
+ * http://en.wikipedia.org/wiki/Virtual_machine
+ * http://en.wikipedia.org/wiki/Runtime_environment
+ * http://www.devmatic-it.com/article_en.jsf?article=process_vm
+ * http://de.wikipedia.org/wiki/Virtuelle_Maschine
+ * http://en.wikipedia.org/wiki/Platform_(computing)#Software_platform_examples
 
 ===a) General/Desktop===
 
 ==== JVM====
- * [[http://en.wikipedia.org/wiki/Java_Virtual_Machine]]
+ * http://en.wikipedia.org/wiki/Java_Virtual_Machine
 
 ==== .NET Framework / CLR / !DotGnu / Mono====
- * [[http://en.wikipedia.org/wiki/.NET_Framework]]
- * [[http://en.wikipedia.org/wiki/Common_Language_Runtime]]
- * [[http://en.wikipedia.org/wiki/DotGNU]]
- * [[http://en.wikipedia.org/wiki/Mono_Project]]
+ * http://en.wikipedia.org/wiki/.NET_Framework
+ * http://en.wikipedia.org/wiki/Common_Language_Runtime
+ * http://en.wikipedia.org/wiki/DotGNU
+ * http://en.wikipedia.org/wiki/Mono_Project
 
 ==== XULRunner====
- * [[http://en.wikipedia.org/wiki/XULRunner]]
+ * http://en.wikipedia.org/wiki/XULRunner
 
 ==== Parrot====
- * [[http://en.wikipedia.org/wiki/Parrot_virtual_machine]]
- * [[http://www.parrotcode.org/]]
+ * http://en.wikipedia.org/wiki/Parrot_virtual_machine
+ * http://www.parrotcode.org/
 
 ==== Smalltalk====
  * Squeak
-    * [[http://en.wikipedia.org/wiki/Squeak]]
-    * [[http://www.squeak.org/]]
+    * http://en.wikipedia.org/wiki/Squeak
+    * http://www.squeak.org/
  * Strongtalk
-    * [[http://en.wikipedia.org/wiki/Strongtalk]]
-    * [[http://www.strongtalk.org/index.html]]
+    * http://en.wikipedia.org/wiki/Strongtalk
+    * http://www.strongtalk.org/index.html
 
 ==== SCUMM====
- * [[http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion]]
- * [[http://de.wikipedia.org/wiki/ScummVM]]
+ * http://de.wikipedia.org/wiki/Script_Creation_Utility_for_Maniac_Mansion
+ * http://de.wikipedia.org/wiki/ScummVM
 
 ==== Python VM====
- * [[http://en.wikipedia.org/wiki/Python_(programming_language)]]
+ * http://en.wikipedia.org/wiki/Python_(programming_language)
 
 ==== Lua VM====
- * [[http://en.wikipedia.org/wiki/Lua_(programming_language)]]
+ * http://en.wikipedia.org/wiki/Lua_(programming_language)
 
 ==== Tamarin (JS engine)====
- * [[http://en.wikipedia.org/wiki/Tamarin_(JavaScript_engine)]]
+ * http://en.wikipedia.org/wiki/Tamarin_(JavaScript_engine)
 
 ==== Neko VM====
- * [[http://en.wikipedia.org/wiki/Neko_(programming_language)]]
- * [[http://nekovm.org/]]
+ * http://en.wikipedia.org/wiki/Neko_(programming_language)
+ * http://nekovm.org/
 
 ==== Flash Player====
 ==== Shockwave (Shockwave Projectors)====
@@ -57,9 +57,9 @@
 
 ==== Mozilla Prism====
 ==== Adobe AIR====
- * [[http://en.wikipedia.org/wiki/Adobe_AIR]]
+ * http://en.wikipedia.org/wiki/Adobe_AIR
 
 ==== Microsoft Silverlight====
- * [[http://en.wikipedia.org/wiki/Microsoft_Silverlight]]
+ * http://en.wikipedia.org/wiki/Microsoft_Silverlight
 
 ==== (Google Chrome)====
