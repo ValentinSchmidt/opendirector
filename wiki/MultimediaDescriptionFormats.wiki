@@ -3,22 +3,22 @@
 ==OPEN MULTIMEDIA DESCRIPTION FORMATS==
 
 ====SMIL====
- * [[http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language]]
- * [[http://www.w3.org/TR/2008/CR-SMIL3-20080115/]]
+ * http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language
+ * http://www.w3.org/TR/2008/CR-SMIL3-20080115/
 
 ====MHEG====
- * [[http://www.mheg.org/]]
- * [[http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol2/srd2/article2.html]]
- * [[http://en.wikipedia.org/wiki/MHEG-5]]
+ * http://www.mheg.org/
+ * http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol2/srd2/article2.html
+ * http://en.wikipedia.org/wiki/MHEG-5
 
 ====XMT====
- * [[http://en.wikipedia.org/wiki/XMT]]
+ * http://en.wikipedia.org/wiki/XMT
 
 ====XHTML (+ SVG + MathML + ...)====
- * [[http://en.wikipedia.org/wiki/XHTML]]
+ * http://en.wikipedia.org/wiki/XHTML
 
 ====(X)HTML5 ({{{<canvas>}}}, {{{<audio>}}}, {{{<video>}}}, ...)====
- * [[http://en.wikipedia.org/wiki/HTML5]]
+ * http://en.wikipedia.org/wiki/HTML5
  * Features:
   * Immediate-mode 2D drawing
   * Timed media playback
@@ -27,4 +27,4 @@
   * Drag and drop
   * ...
 
-==== ... ? ====
+==== ... ====
