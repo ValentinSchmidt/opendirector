@@ -1,0 +1,82 @@
+[<< Multimedia Resources](MultimediaResources.md)
+
+## CROSS-PLATFORM (OPEN SOURCE) MULTIMEDIA PROGRAMMING LIBRARIES / APIs ##
+
+#### GENERAL MULTIMEDIA ####
+  * Simple DirectMedia Layer (SDL) http://en.wikipedia.org/wiki/Simple_DirectMedia_Layer
+  * Simple and Fast Multimedia Library (SFML) http://en.wikipedia.org/wiki/Simple_and_Fast_Multimedia_Library
+  * Allegro http://en.wikipedia.org/wiki/Allegro_library
+  * GStreamer http://en.wikipedia.org/wiki/GStreamer
+  * mediaLib http://en.wikipedia.org/wiki/MediaLib
+  * OpenGL http://en.wikipedia.org/wiki/OpenGL
+  * Troll2D http://en.wikipedia.org/wiki/Troll2D
+
+#### AUDIO ONLY ####
+  * PortMusic (PortAudio, PortMidi)
+  * Audiere
+  * libsndfile
+  * Vorbis/Tremor
+  * lame
+  * libavformat + libavcodec (ffmpeg)
+  * OpenAL
+
+#### GRAPHICS ONLY ####
+  * ImageMagick (software suite for image manipulation and display)
+  * GraphicsMagick
+  * DevIL (was: OpenIL) http://en.wikipedia.org/wiki/DevIL
+  * GD Graphics Library (library for dynamically manipulating images)
+  * Netbpm (graphics programs and a programming library)
+  * FreeImage
+  * Libjpeg, Libpng, Libtiff
+  * OpenJPEG (JPEG 2000)
+  * Agar
+  * Anti-Grain Geometry (AGG) http://www.antigrain.com/about/index.html
+
+#### VIDEO ONLY ####
+  * libmad (MAD)
+  * libmpeg2
+  * open source container formats: Ogg/OGM, Matroska, NUT
+  * open source (patent free) codecs: Theora (Xiph.Org, Ogg), Dirac
+
+#### VECTOR GRAPHICS ####
+  * Librsvg
+  * Cairo http://en.wikipedia.org/wiki/Cairo_(graphics)
+
+#### FONT/TEXT RENDERING ####
+  * FreeType http://en.wikipedia.org/wiki/FreeType
+  * Graphite (SIL) http://en.wikipedia.org/wiki/Graphite_(SIL)
+  * Pango http://en.wikipedia.org/wiki/Pango
+
+#### PDF (rendering/viewing) ####
+  * Poppler http://en.wikipedia.org/wiki/Poppler_(software)
+  * MuPDF
+  * libgnupdf http://en.wikipedia.org/wiki/GNU_PDF
+  * GPL Ghostscript http://en.wikipedia.org/wiki/Ghostscript
+
+#### 3D GRAPHICS APIs ####
+  * http://en.wikipedia.org/wiki/List_of_3D_graphics_APIs
+
+**a) low level**
+
+  * OpenGL -> http://en.wikipedia.org/wiki/OpenGL
+  * Mesa 3D (open source implementation of OpenGL) http://en.wikipedia.org/wiki/Mesa_(OpenGL)
+
+**b) higher level**
+
+  * OpenSceneGraph http://en.wikipedia.org/wiki/OpenSceneGraph
+  * Irrlicht Engine
+  * OGRE http://en.wikipedia.org/wiki/OGRE
+  * Quesa http://en.wikipedia.org/wiki/Quesa_(software)
+
+#### OPEN SOURCE GAME ENGINES ####
+  * http://en.wikipedia.org/wiki/Game_engine
+
+  * Crystal Space
+  * Irrlicht
+  * Nebula Device
+  * Panda3D
+  * DarkPlaces
+  * Wolfenstein 3D engine
+  * id Tech 3
+  * Spring
+  * Agar

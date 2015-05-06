@@ -1,0 +1,58 @@
+### 1. Why? ###
+  * What's wrong with existing tools?
+  * Why open source?
+  * Why not using an existing (open source) tool?
+
+### 2. What? ###
+  * Requirements:
+    * 100% free and open source
+    * 100% patent free technologies (for core app, plugins can deal with patented file/compression formats etc.)
+    * easily expandable, SDK for plugins
+    * support both code-based and visual development
+    * nice to have: support multiple authoring concepts (e.g. both score and screen/form based)
+    * support procedural and object-oriented programming
+    * nice to have: support visual/dataflow programming
+    * maybe: support some aspect-oriented programming?
+    * pack VM/runtime engine into a self-contained executable ("projector") (unlike AIR or .NET)
+    * nice to have: allow permanent installation of VM/runtime engine and thereby distribution/execution of smaller files (like shockwave projectors, JAR files, .NET, ...)
+    * allow both usage of high-level cross-platform (e.g. wxWidget or GTK+ toolkit) and lower-level platform-specific (e.g. shell access, DirectShow vs. Quartz, ...) technologies/frameworks
+
+  * Supported patforms:
+    * Windows
+    * OS X
+    * Linux desirable
+
+  * Components:
+    * IDE
+      * with timeline/score?
+      * with screen/form management? flowchart?
+      * with asset managment?
+      * with GUI builder/stage?
+    * Script-Language
+    * VM / Runtime Engine
+    * Interpreter? Byte code compiler? JIT?
+    * Plugin API
+    * Movie File Format(s)
+      * different project/authoring and runtime formats (like FLA vs. SWF, DIR vs. DCR/DXR) **or** just a single format (plus ability to publish as EXE/App)?
+      * (compiled) script files only (e.g. PY/PYD), with all media and other data as external files **or** compound format that integrates script, media and composition/configuration data?
+      * in case of compound format:
+        * IFF/RIFF based? (like DIR/DXR) [http://en.wikipedia.org/wiki/Resource_Interchange_File_Format]
+        * XML based, with encoded binary data, e.g. as Base64?
+        * Binary XML? [http://en.wikipedia.org/wiki/Binary_XML]
+        * XML + external binary files as single ZIP file, like OpenDocument (ODF) files (.odt, .odp), Office Open XML (OOXML) files or XML Paper Specification (XPS) files.
+      * Use (and extend) an existing (open) format:
+        * SMIL [http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language]
+        * MPEG-4 [http://en.wikipedia.org/wiki/MPEG-4]
+
+### 3. How? (Architecture, Components, Technologies, Libraries/Frameworks) ###
+  * use existing VM / bytecode compiler (e.g. Lua VM, Python VM, Neko VM, Flash)?
+    * build (score based) IDE for/on top of HaXe/Neko?
+    * build (score based) IDE for/on top of Python?
+    * ceate flash wrapper for desktop apps (like zinc, but open source)?
+  * IDE as extension of existing IDE (e.g. Eclipse)?
+  * debatable: minimal core engine, ALL media support by plugins, **or** engine that already supports most important (patent-free) image/audio/video formats (e.g. PNG, JNG, WAV, OGG, SVG, Matroska)?
+
+### 4. Who? ###
+  * target group?
+  * partners/sponsors?
+  * how to convince developers to join?

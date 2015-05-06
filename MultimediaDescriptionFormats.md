@@ -1,0 +1,30 @@
+[<< Multimedia Resources](MultimediaResources.md)
+
+## OPEN MULTIMEDIA DESCRIPTION FORMATS ##
+
+#### SMIL ####
+  * http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language
+  * http://www.w3.org/TR/2008/CR-SMIL3-20080115/
+
+#### MHEG ####
+  * http://www.mheg.org/
+  * http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol2/srd2/article2.html
+  * http://en.wikipedia.org/wiki/MHEG-5
+
+#### XMT ####
+  * http://en.wikipedia.org/wiki/XMT
+
+#### XHTML (+ SVG + MathML + ...) ####
+  * http://en.wikipedia.org/wiki/XHTML
+
+#### (X)HTML5 (`<canvas>`, `<audio>`, `<video>`, ...) ####
+  * http://en.wikipedia.org/wiki/HTML5
+  * Features:
+    * Immediate-mode 2D drawing
+    * Timed media playback
+    * Offline
+    * Editing
+    * Drag and drop
+    * ...
+
+#### ... ####

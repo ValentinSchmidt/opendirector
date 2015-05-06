@@ -1,0 +1,71 @@
+[<< Multimedia Resources](MultimediaResources.md)
+
+## EXISTING AUTHORING SYSTEMS / TOOLS ##
+
+#### CATEGORIES (NON EXCLUSIVE) ####
+
+##### a) integrated development environment (IDE) #####
+  * http://en.wikipedia.org/wiki/Integrated_development_environment
+  * http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
+##### b) RAD tool / visual pogramming environment #####
+  * http://en.wikipedia.org/wiki/Rapid_Application_Development
+  * http://en.wikipedia.org/wiki/List_of_Rapid_Application_Development_tools
+  * http://de.wikipedia.org/wiki/Visuelle_Programmierumgebung
+##### c) classic "authoring system" with focus on E-Learning (Director, Authorware, Toolbook) #####
+  * http://en.wikipedia.org/wiki/Authoring_systems#Authoring_tool
+
+#### MULTIMEDIA AUTHORING TOOLS ####
+  * Director
+  * Authorware (discontinued)
+  * ToolBook
+  * mTropolis (discontinued)
+  * Apple Media Tool (discontinued) http://en.wikipedia.org/wiki/Apple_Media_Tool
+  * iShell (http://en.wikipedia.org/wiki/IShell)
+  * HyperCard (discontinued) / SuperCard / MetaCard / Runtime Revolution
+  * LiveStage Pro
+  * MST Workshop
+  * Creator (http://en.wikipedia.org/wiki/Creator_(software))
+
+
+#### RAPID APPLICATION DEVELOPMENT (RAD) TOOLS / IDEs WITH INTEGRATED GUI BUILDERS ####
+  * http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
+  * http://en.wikipedia.org/wiki/Integrated_development_environment
+  * http://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
+##### a) open source: #####
+  * Lazarus http://en.wikipedia.org/wiki/Lazarus_(software)
+  * wxDev-C++
+  * Code::Blocks
+  * MonoDevelop
+  * SharpDevelop
+##### b) commercial: #####
+  * Microsoft Visual Studio, especially VisualBasic http://en.wikipedia.org/wiki/Visual_Basic
+  * REALbasic http://en.wikipedia.org/wiki/REALbasic -> IDE with graphical GUI builder
+  * Runtime Revolution http://en.wikipedia.org/wiki/Runtime_Revolution
+  * CodeGear Delphi
+  * CodeGear C++Builder
+  * CodeGear Delphi for PHP
+  * Apple Xcode Tools (Interface Builder)
+  * Adobe Flex Builder
+
+
+#### (STANDALONE) GUI BUILDERS / GUI DESIGNERS ####
+  * http://en.wikipedia.org/wiki/Graphical_user_interface_builder
+
+  * Glade http://en.wikipedia.org/wiki/Glade_Interface_Designer
+  * wxGlade http://en.wikipedia.org/wiki/WxGlade
+  * wxDesigner http://www.roebling.de/
+  * Qt Designer
+  * AsWing GuiBuilder http://www.aswing.org/
+  * FLUID (for FLTK) http://en.wikipedia.org/wiki/FLUID
+
+
+#### OPEN SOURCE IDEs/EDITORS (WITHOUT GUI BUILDERS) ####
+  * http://en.wikipedia.org/wiki/Category:Open_source_integrated_development_environments
+
+  * SciTE http://en.wikipedia.org/wiki/SciTE
+  * SEPY http://www.sephiroth.it/python/sepy.php
+  * FlashDevelop http://www.flashdevelop.org/
+  * Eclipse http://en.wikipedia.org/wiki/Eclipse_(software)
+  * SharpDevelop http://en.wikipedia.org/wiki/SharpDevelop -> Windows Forms designer
+  * MonoDevelop http://en.wikipedia.org/wiki/MonoDevelop -> GTK# GUI designer called "Stetic"
+  * Crimson Editor http://www.crimsoneditor.com/

@@ -1,0 +1,9 @@
+[<< Multimedia Resources](MultimediaResources.md)
+
+## USER INTERFACE MARKUP LANGUAGES ##
+  * http://en.wikipedia.org/wiki/User_interface_markup_language
+
+  * XUL http://en.wikipedia.org/wiki/XUL
+  * XAML with Silverlight http://en.wikipedia.org/wiki/Extensible_Application_Markup_Language
+  * MXML http://en.wikipedia.org/wiki/MXML
+  * GladeXML http://en.wikipedia.org/wiki/Glade_Interface_Designer#GladeXML

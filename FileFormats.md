@@ -1,0 +1,64 @@
+[<< Multimedia Resources](MultimediaResources.md)
+
+## Free, open source and patent-free file formats and codecs ##
+
+  * http://en.wikipedia.org/wiki/Open_source_codecs
+  * http://en.wikipedia.org/wiki/Category:Free_multimedia_codecs,_containers,_and_splitters
+  * http://en.wikipedia.org/wiki/Comparison_of_container_formats
+  * http://en.wikipedia.org/wiki/Category:Open_formats
+
+#### BITMAP GRAPHIC FORMATS ####
+  * PNG http://en.wikipedia.org/wiki/Portable_Network_Graphics
+  * JNG http://en.wikipedia.org/wiki/JPEG_Network_Graphics
+
+#### BITMAP ANIMATION FORMATS ####
+  * APNG http://en.wikipedia.org/wiki/APNG
+  * MNG http://en.wikipedia.org/wiki/Multiple-image_Network_Graphics
+
+#### VECTOR GRAPHIC (AND ANIMATION) FORMATS ####
+  * SVG http://en.wikipedia.org/wiki/SVG
+  * EPS http://en.wikipedia.org/wiki/Encapsulated_PostScript
+  * SWF (partially open) http://en.wikipedia.org/wiki/SWF
+
+#### 3D GRAPHIC FORMATS ####
+  * X3D http://en.wikipedia.org/wiki/X3D
+  * COLLADA http://en.wikipedia.org/wiki/COLLADA
+  * U3D http://en.wikipedia.org/wiki/Universal_3D
+
+#### AUDIO CONTAINER FORMATS ####
+  * Ogg http://en.wikipedia.org/wiki/Ogg
+  * Musepack http://en.wikipedia.org/wiki/Musepack
+  * FLAC http://en.wikipedia.org/wiki/FLAC
+  * Wavpack http://en.wikipedia.org/wiki/Wavpack
+
+#### AUDIO CODECS ####
+  * OggVorbis/Tremor http://en.wikipedia.org/wiki/Vorbis
+  * OggPCM http://en.wikipedia.org/wiki/OggPCM
+  * OggFLAC http://en.wikipedia.org/wiki/FLAC
+  * Speex http://en.wikipedia.org/wiki/Speex
+  * Musepack http://en.wikipedia.org/wiki/Musepack
+  * Wavpack http://en.wikipedia.org/wiki/Wavpack
+
+#### VIDEO CONTAINER FORMATS ####
+  * OGM http://en.wikipedia.org/wiki/Ogg_Media
+  * Matroska http://en.wikipedia.org/wiki/Matroska
+  * NUT http://en.wikipedia.org/wiki/NUT_Container
+
+#### VIDEO CODECS ####
+  * Theora http://en.wikipedia.org/wiki/Theora
+  * Dirac http://en.wikipedia.org/wiki/Dirac_(codec)
+  * x264 http://en.wikipedia.org/wiki/Open_source_codecs_and_containers
+  * Xvid http://en.wikipedia.org/wiki/Xvid
+  * FFmpeg/libavcodec codecs (MPEG-1, MPEG-2, MPEG-4 part 2, MSMPEG-4, H.264, ...) http://en.wikipedia.org/wiki/FFmpeg
+
+#### TEXT/DOCUMENT/META FORMATS ####
+  * RTF http://en.wikipedia.org/wiki/Rich_Text_Format
+  * OpenDocument http://en.wikipedia.org/wiki/OpenDocument
+  * PDF http://en.wikipedia.org/wiki/Portable_Document_Format
+  * CGM http://en.wikipedia.org/wiki/Computer_Graphics_Metafile
+
+#### OTHER MULTIMEDIA RELATED FORMATS ####
+  * SMIL http://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language
+  * MPEG-4 Part 14 (MP4) http://en.wikipedia.org/wiki/MPEG-4_Part_14
+  * MPEG-4 XMT http://en.wikipedia.org/wiki/XMT
+  * iXMF http://www.midi.org/techspecs/xmf/ixmf_art1.php
