@@ -1,5 +1,6 @@
 # opendirector
 a free and open source cross-platform multimedia authoring tool
+
 (automatically exported from http://code.google.com/p/opendirector)
 
 This project aims to create an open source multimedia authoring tool. For discussions please join the OpenDirector Google Group.
